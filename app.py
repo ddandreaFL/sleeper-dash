@@ -184,8 +184,85 @@ h2, h3, h4 { color: #e9eaec !important; }
 
 /* section captions */
 [data-testid="stCaptionContainer"] p { color: var(--sc-muted) !important; letter-spacing: 0.02em; }
+
+/* Dynatyze-style player value cards */
+.sc-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(215px, 1fr)); gap: 12px; margin: 6px 0 14px 0; }
+.sc-card {
+  position: relative; display: flex; align-items: center; gap: 12px;
+  background: linear-gradient(180deg, var(--sc-panel-2), var(--sc-panel));
+  border: 1px solid var(--sc-line); border-left: 4px solid var(--sc-red);
+  border-radius: 10px; padding: 12px 14px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+}
+.sc-ovr {
+  flex: 0 0 auto; width: 52px; height: 52px; border-radius: 10px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  font-family: 'Saira Condensed', sans-serif; line-height: 1;
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.12), 0 4px 10px rgba(0,0,0,0.4);
+}
+.sc-ovr .n { font-size: 24px; font-weight: 800; }
+.sc-ovr .l { font-size: 9px; font-weight: 700; letter-spacing: 0.12em; opacity: 0.85; }
+.tier-elite  { background: linear-gradient(180deg,#ffd45a,#e0940c); color:#1a1200; }
+.tier-gold   { background: linear-gradient(180deg,#f0f0f2,#b7bcc4); color:#15151a; }
+.tier-silver { background: linear-gradient(180deg,#aeb4bd,#6f757e); color:#0c0c10; }
+.tier-bronze { background: linear-gradient(180deg,#c98a5a,#7c4a25); color:#160c04; }
+.tier-base   { background: linear-gradient(180deg,#3a3a44,#26262e); color:#c9ccd2; }
+.sc-meta { min-width: 0; }
+.sc-name {
+  font-family: 'Saira Condensed', sans-serif; font-weight: 700; font-size: 16px;
+  color: #fff; text-transform: uppercase; letter-spacing: 0.02em;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.sc-line2 { font-size: 12px; color: var(--sc-muted); margin: 2px 0 5px 0; letter-spacing: 0.03em; }
+.sc-line2 b { color: #d7dade; }
+.sc-chip {
+  display: inline-block; font-family: 'Saira Condensed', sans-serif; font-weight: 700;
+  font-size: 10px; letter-spacing: 0.09em; text-transform: uppercase;
+  padding: 2px 8px; border-radius: 999px;
+}
+.chip-buy  { background: rgba(34,197,94,0.16);  color:#4ade80; border:1px solid rgba(34,197,94,0.4); }
+.chip-sell { background: rgba(255,122,0,0.16);  color:#ff9d3d; border:1px solid rgba(255,122,0,0.45); }
+.chip-hold { background: rgba(154,160,166,0.14);color:#b6bcc4; border:1px solid rgba(154,160,166,0.35); }
+.sc-mkt { font-size: 11px; color: var(--sc-muted); margin-top: 4px; }
+.sc-mkt b { color: var(--sc-blue); }
 </style>
 """
+
+
+TIERS = [(90, "tier-elite"), (80, "tier-gold"), (70, "tier-silver"),
+         (60, "tier-bronze"), (0, "tier-base")]
+
+
+def _tier(ovr):
+    for cut, cls in TIERS:
+        if ovr >= cut:
+            return cls
+    return "tier-base"
+
+
+def player_card(v):
+    chip = {"BUY": "chip-buy", "SELL": "chip-sell"}.get(v["signal"], "chip-hold")
+    age = f"{v['age']}y" if v.get("age") is not None else "age n/a"
+    line2 = f"<b>{v['pos1']}</b> · {v.get('team') or 'FA'} · {age}"
+    mkt = (f'<div class="sc-mkt">mkt <b>{v["market"]:,}</b></div>'
+           if v.get("market") else "")
+    return (
+        f'<div class="sc-card">'
+        f'<div class="sc-ovr {_tier(v["ovr"])}"><span class="n">{v["ovr"]}</span>'
+        f'<span class="l">OVR</span></div>'
+        f'<div class="sc-meta">'
+        f'<div class="sc-name">{v["name"]}</div>'
+        f'<div class="sc-line2">{line2}</div>'
+        f'<span class="sc-chip {chip}">{v["signal"]}</span>'
+        f'<div class="sc-mkt">{v["ppw"]} ppw · val {v["value"]}</div>'
+        f'{mkt}'
+        f'</div></div>'
+    )
+
+
+def card_grid(rows):
+    cards = "".join(player_card(v) for v in rows)
+    st.markdown(f'<div class="sc-cards">{cards}</div>', unsafe_allow_html=True)
 
 
 def broadcast_skin():
@@ -289,6 +366,8 @@ if m:
 ticker(sport_tag, crawl)
 
 st.markdown(f"### {lg['name']}")
+if lg.get("note"):
+    st.caption(lg["note"])
 
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("Week", lg["week"])
@@ -316,7 +395,8 @@ if not ctx.get("pick_trading"):
 if bits:
     st.caption(" · ".join(bits))
 
-tabs = st.tabs(["Standings", "This week", "My roster", "Trades", "Settings"])
+tabs = st.tabs(["Standings", "This Week", "Values", "Trade Calc",
+                "Power", "Trends", "Roster", "Settings"])
 
 
 # ---------------------------------------------------------------- standings
@@ -369,9 +449,162 @@ with tabs[1]:
                      use_container_width=True)
 
 
-# ---------------------------------------------------------------- my roster
+# ---------------------------------------------------------------- values
 
 with tabs[2]:
+    vals = lg.get("values") or []
+    if not vals:
+        st.info("No player values yet. Once your roster is drafted and games are "
+                "scored, dynasty values populate here.")
+    else:
+        my_vals = [v for v in vals if v["roster_id"] == lg["my_roster_id"]]
+        st.subheader("Your dynasty assets")
+        card_grid((my_vals or vals)[:8])
+
+        st.subheader("League dynasty rankings")
+        f1, f2 = st.columns([1, 1])
+        pos_sel = f1.selectbox("Position", ["All"] + sorted({v["pos1"] for v in vals}))
+        mine_only = f2.toggle("My roster only")
+        rows = vals
+        if pos_sel != "All":
+            rows = [v for v in rows if v["pos1"] == pos_sel]
+        if mine_only:
+            rows = [v for v in rows if v["roster_id"] == lg["my_roster_id"]]
+        st.dataframe(pd.DataFrame([{
+            "OVR": v["ovr"], "player": v["name"], "pos": v["pos"], "team": v["team"],
+            "age": v["age"], "value": v["value"], "ppw": v["ppw"],
+            "signal": v["signal"], "market": v.get("market"),
+        } for v in rows]), hide_index=True, use_container_width=True, height=460)
+        st.caption(
+            "OVR 0-99 is normalized within this league's rostered pool. " +
+            ("NBA OVR is the dashboard's derived model: your league scoring adjusted "
+             "by an age curve (no free market API exists for NBA)."
+             if lg["sport"] == "nba" else
+             "NFL 'market' is FantasyCalc consensus value, shown for reference."))
+
+
+# --------------------------------------------------------------- trade calc
+
+with tabs[3]:
+    vals = lg.get("values") or []
+    if not vals:
+        st.info("The trade calculator needs a drafted roster with scoring history.")
+    else:
+        by_id = {v["player_id"]: v for v in vals}
+        opts = {f"{v['name']} ({v.get('team') or 'FA'}, {v['pos1']}, OVR {v['ovr']})":
+                v["player_id"] for v in sorted(vals, key=lambda x: -x["value"])}
+        picks = lg.get("pick_values") or {}
+        use_picks = bool(picks and ctx.get("pick_trading"))
+        if ctx.get("deadline_passed"):
+            st.error(f"Trade deadline (week {ctx.get('trade_deadline')}) has passed. "
+                     "This is now a what-if machine.")
+
+        c1, c2 = st.columns(2)
+        with c1:
+            st.markdown("#### Side A sends")
+            a_pl = st.multiselect("Players", list(opts), key="a_pl")
+            a_pk = st.multiselect("Picks", list(picks), key="a_pk") if use_picks else []
+        with c2:
+            st.markdown("#### Side B sends")
+            b_pl = st.multiselect("Players", list(opts), key="b_pl")
+            b_pk = st.multiselect("Picks", list(picks), key="b_pk") if use_picks else []
+
+        def total(pls, pks):
+            return round(sum(by_id[opts[l]]["value"] for l in pls if l in opts)
+                         + sum(picks[k] for k in pks if k in picks), 1)
+        ta, tb = total(a_pl, a_pk), total(b_pl, b_pk)
+
+        m1, m2, m3 = st.columns(3)
+        m1.metric("Side A value", ta)
+        m2.metric("Side B value", tb)
+        m3.metric("Difference", round(ta - tb, 1))
+
+        if ta == 0 and tb == 0:
+            st.info("Add players (and picks) to each side to grade the deal.")
+        else:
+            hi, lo = max(ta, tb), min(ta, tb)
+            margin = (hi - lo) / hi * 100 if hi else 0
+            if margin <= 10:
+                st.success(f"Fair trade, within {margin:.0f} percent.")
+            else:
+                st.warning(f"{'Side A' if ta > tb else 'Side B'} wins by "
+                           f"{hi - lo:.1f} value ({margin:.0f} percent).")
+        st.caption(
+            "Value is age-adjusted production in this league's scoring. " +
+            ("NBA values are the dashboard's derived model; pick values are rough "
+             "estimates." if lg["sport"] == "nba" else
+             "NFL cards also carry FantasyCalc market value for reference."))
+
+        targets = lg.get("trade_targets") or []
+        if targets:
+            with st.expander("Suggested targets: teams that need your surplus"):
+                st.dataframe(pd.DataFrame(targets), hide_index=True,
+                             use_container_width=True)
+        st.warning("Sleeper's API is read-only. Build the offer in the app yourself.")
+
+
+# ------------------------------------------------------------------- power
+
+with tabs[4]:
+    pr = lg.get("power_rankings") or []
+    if not pr:
+        st.info("Power rankings need drafted rosters with scoring history.")
+    else:
+        st.subheader("Team power rankings (by startable value)")
+        st.bar_chart(pd.DataFrame(pr).set_index("team")["starters_value"],
+                     horizontal=True, color="#d50a0a")
+        st.dataframe(pd.DataFrame([{
+            "rank": t["rank"], "team": t["team"],
+            "starters_value": t["starters_value"], "total_value": t["total_value"],
+            "avg_age": t["avg_age"], "window": t["window"],
+            "top_player": t["top_player"], "top_ovr": t["top_ovr"],
+        } for t in pr]), hide_index=True, use_container_width=True)
+        st.caption("Window: juggernaut = contender and young, win-now = contender and "
+                   "older, rising = young rebuild, rebuild = older and light on value.")
+
+
+# ------------------------------------------------------------------ trends
+
+with tabs[5]:
+    tr = lg.get("trends") or {}
+    if not any(tr.values()):
+        st.info("Buy-low and sell-high signals appear once there is week-to-week "
+                "scoring history.")
+    else:
+        def trend_df(rows):
+            return pd.DataFrame([{
+                "OVR": v["ovr"], "player": v["name"], "pos": v["pos1"],
+                "age": v["age"], "ppw": v["ppw"], "recent": v["recent"],
+                "why": v["signal_reason"],
+            } for v in rows])
+
+        st.subheader("Sell high, your roster")
+        sm = tr.get("sell_mine") or []
+        if sm:
+            st.dataframe(trend_df(sm), hide_index=True, use_container_width=True)
+        else:
+            st.caption("Nobody on your roster is flashing sell-high right now.")
+
+        st.subheader("Buy low, target on other rosters")
+        bt = tr.get("buy_targets") or []
+        if bt:
+            st.dataframe(trend_df(bt), hide_index=True, use_container_width=True)
+        else:
+            st.caption("No clear buy-low targets across the league right now.")
+
+        st.subheader("Hold or buy more, your young slumpers")
+        bm = tr.get("buy_mine") or []
+        if bm:
+            st.dataframe(trend_df(bm), hide_index=True, use_container_width=True)
+        else:
+            st.caption("None flagged.")
+        st.caption("Signals blend age vs positional peak with recent form vs season "
+                   "baseline. Directional, not gospel.")
+
+
+# ------------------------------------------------------------------- roster
+
+with tabs[6]:
     shape = pd.DataFrame(lg["roster_shape"])
     st.subheader("Where value is stuck on your bench")
     st.dataframe(shape, hide_index=True, use_container_width=True)
@@ -382,30 +615,9 @@ with tabs[2]:
                  use_container_width=True)
 
 
-# ------------------------------------------------------------------- trades
-
-with tabs[3]:
-    if ctx.get("deadline_passed"):
-        st.error(f"Deadline was week {ctx.get('trade_deadline')}. Nothing to do here.")
-    targets = lg.get("trade_targets") or []
-    if not targets:
-        st.info("No clear positional mismatches right now.")
-    else:
-        st.subheader("Who needs what you have")
-        st.dataframe(pd.DataFrame(targets), hide_index=True, use_container_width=True)
-        st.caption("fit_score pairs your surplus against how far below league median "
-                   "their production at that position sits.")
-    if ctx.get("pick_trading"):
-        st.caption("Draft picks are tradeable in this league, so surplus can also be "
-                   "converted into future capital.")
-    else:
-        st.caption("No pick trading in this league. Players only.")
-    st.warning("Sleeper's API is read-only. Build the offer in the app yourself.")
-
-
 # ----------------------------------------------------------------- settings
 
-with tabs[4]:
+with tabs[7]:
     st.subheader("Scoring")
     ss = lg.get("scoring_settings") or {}
     if ss:

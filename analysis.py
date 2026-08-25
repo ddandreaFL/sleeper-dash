@@ -356,3 +356,175 @@ def trade_targets(mine, others, players, agg, roster_positions, sport, team_name
                 "their_best_ppw": best.get("ppw"),
             })
     return sorted(out, key=lambda x: -x["fit_score"])
+
+
+# ============================================================ dynasty values
+# The Dynatyze-style layer. One "value" per player (the tradeable currency),
+# an OVR 0-99 for display, and a Buy/Hold/Sell signal. NBA has no free market
+# API, so value is DERIVED from this league's own scoring (production) adjusted
+# by an age curve. NFL can additionally carry a FantasyCalc market value as a
+# reference column. Everything here stays pure; refresh.py feeds it data.
+
+# Age curves. A multiplier on production that turns current output into dynasty
+# (future) value: youth gets a premium, age a discount. Position matters a lot
+# in the NFL (the running back cliff), less so in the NBA.
+NBA_AGE = [(23, 1.15), (25, 1.10), (27, 1.03), (29, 0.95),
+           (31, 0.85), (33, 0.72), (99, 0.58)]
+NFL_AGE = {
+    "RB":  [(23, 1.15), (25, 1.05), (27, 0.92), (29, 0.72), (99, 0.50)],
+    "WR":  [(24, 1.15), (27, 1.05), (29, 0.95), (31, 0.80), (99, 0.60)],
+    "TE":  [(25, 1.12), (28, 1.02), (30, 0.92), (32, 0.78), (99, 0.60)],
+    "QB":  [(26, 1.10), (30, 1.05), (34, 0.98), (37, 0.85), (99, 0.70)],
+    "K":   [(99, 1.0)],
+    "DEF": [(99, 1.0)],
+}
+# Peak age per position, for the buy/sell read.
+PEAK = {"nfl": {"RB": 24, "WR": 26, "TE": 27, "QB": 29}, "nba": 25}
+
+
+def age_multiplier(age, sport, pos=None):
+    if age is None:
+        return 1.0
+    curve = NFL_AGE.get((pos or "").upper(), NFL_AGE["WR"]) if sport == "nfl" else NBA_AGE
+    for cutoff, mult in curve:
+        if age <= cutoff:
+            return mult
+    return curve[-1][1]
+
+
+def _primary_pos(pos_list):
+    return (pos_list or ["?"])[0]
+
+
+def recent_form(by_week):
+    """(recent_ppw, delta_vs_season): recent = mean of last up-to-3 scoring weeks."""
+    scoring = [(int(w), p) for w, p in sorted((by_week or {}).items(),
+                                              key=lambda kv: int(kv[0])) if p]
+    if not scoring:
+        return 0.0, 0.0
+    season = sum(p for _, p in scoring) / len(scoring)
+    recent_pts = [p for _, p in scoring[-3:]]
+    recent = sum(recent_pts) / len(recent_pts)
+    return round(recent, 1), round(recent - season, 1)
+
+
+def trend_signal(age, sport, pos, ppw, recent_delta):
+    """Buy-low / sell-high / hold, dynasty flavored (accumulate youth, move
+    aging assets while they are hot)."""
+    if ppw <= 0:
+        return "HOLD", "no recent production"
+    hot = recent_delta > ppw * 0.15
+    cold = recent_delta < -ppw * 0.15
+    if sport == "nfl":
+        peak = PEAK["nfl"].get((pos or "").upper(), 26)
+        young = age is not None and age <= peak - 1
+        old = age is not None and age >= peak + 3
+    else:
+        young = age is not None and age <= 24
+        old = age is not None and age >= 30
+    if young:
+        return "BUY", ("young and slumping, buy low" if cold else "ascending young asset")
+    if old and hot:
+        return "SELL", "aging and running hot, sell high"
+    if old and cold:
+        return "SELL", "aging and sliding, move on"
+    if hot:
+        return "SELL", "outproducing baseline, sell high"
+    return "HOLD", "steady"
+
+
+def build_player_values(rosters, agg, players, sport, market_index=None):
+    """One value row per rostered player across the whole league.
+
+    value:  age-adjusted production, the currency trades and power rankings use.
+    ovr:    0-99 display rating, normalized within this league's rostered pool.
+    market: FantasyCalc value where matched (NFL reference), else None.
+    """
+    market_index = market_index or {}
+    owner_of = {}
+    for r in rosters:
+        for pid in r.get("players") or []:
+            owner_of.setdefault(pid, r["roster_id"])
+
+    rows = []
+    for pid, rid in owner_of.items():
+        p = players.get(pid, {})
+        pos_list = p.get("pos") or []
+        pos = _primary_pos(pos_list)
+        age = p.get("age")
+        ppw = round(player_value(agg, pid), 1)
+        value = round(ppw * age_multiplier(age, sport, pos), 1)
+        recent, delta = recent_form((agg.get(pid) or {}).get("by_week"))
+        signal, reason = trend_signal(age, sport, pos, ppw, delta)
+        rows.append({
+            "player_id": pid, "roster_id": rid,
+            "name": p.get("name", pid), "pos": "/".join(pos_list), "pos1": pos,
+            "team": p.get("team"), "age": age, "status": p.get("status"),
+            "ppw": ppw, "recent": recent, "trend": delta,
+            "value": value, "signal": signal, "signal_reason": reason,
+            "market": (market_index.get(pid) or {}).get("value"),
+        })
+    # OVR: scale value into a Madden-ish 40-99 band so the top asset reads ~99.
+    maxv = max((r["value"] for r in rows), default=0.0) or 1.0
+    for r in rows:
+        r["ovr"] = round(40 + 59 * (r["value"] / maxv)) if r["value"] > 0 else 40
+    return sorted(rows, key=lambda r: -r["value"])
+
+
+def power_rankings(values, rosters, team_names, roster_positions, sport):
+    """Rank teams by startable value, with a contention-window read."""
+    by_team = defaultdict(list)
+    for v in values:
+        by_team[v["roster_id"]].append(v)
+    slots = sum(1 for s in roster_positions if s not in NON_LINEUP) or 1
+
+    out = []
+    for r in rosters:
+        rid = r["roster_id"]
+        squad = sorted(by_team.get(rid, []), key=lambda x: -x["value"])
+        starters = squad[:slots]
+        ages = [x["age"] for x in starters if x["age"]]
+        top = squad[0] if squad else {}
+        out.append({
+            "team": team_names.get(r.get("owner_id")) or f"roster {rid}",
+            "roster_id": rid,
+            "starters_value": round(sum(x["value"] for x in starters), 1),
+            "total_value": round(sum(x["value"] for x in squad), 1),
+            "avg_age": round(sum(ages) / len(ages), 1) if ages else None,
+            "top_player": top.get("name"),
+            "top_ovr": top.get("ovr"),
+        })
+    out.sort(key=lambda x: -x["starters_value"])
+    young_line = 26 if sport == "nba" else 25.5
+    for i, t in enumerate(out, 1):
+        t["rank"] = i
+        contender = i <= max(1, len(out) // 2)
+        young = t["avg_age"] is not None and t["avg_age"] <= young_line
+        t["window"] = ("juggernaut" if contender and young else
+                       "win-now" if contender else
+                       "rising" if young else "rebuild")
+    return out
+
+
+def value_trends(values, my_roster_id, limit=6):
+    """Buy-low and sell-high candidates, split into yours vs available."""
+    def top(rows, mine):
+        rows = [v for v in rows if (v["roster_id"] == my_roster_id) == mine]
+        return sorted(rows, key=lambda x: -x["value"])[:limit]
+    sells = [v for v in values if v["signal"] == "SELL"]
+    buys = [v for v in values if v["signal"] == "BUY"]
+    return {
+        "sell_mine": top(sells, True),      # your guys to shop while hot
+        "buy_targets": top(buys, False),    # buy-low youth on other rosters
+        "buy_mine": top(buys, True),        # your slumping youth to hold
+    }
+
+
+def pick_value_table(sport):
+    """Rough dynasty draft-pick values in the same units as player 'value'
+    (age-adjusted points per week). Estimates, labeled as such in the UI."""
+    if sport == "nba":
+        return {"Early 1st": 22.0, "Mid 1st": 15.0, "Late 1st": 10.0,
+                "Early 2nd": 5.0, "Late 2nd": 2.5}
+    return {"Early 1st": 20.0, "Mid 1st": 13.0, "Late 1st": 8.0,
+            "Early 2nd": 4.0, "Late 2nd": 2.0}
