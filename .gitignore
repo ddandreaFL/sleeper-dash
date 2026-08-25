@@ -1,0 +1,14 @@
+# API response cache, rebuilt on demand, never commit
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit local config
+.streamlit/secrets.toml
+
+# NOTE: data/snapshot.json is intentionally NOT ignored.
+# The scheduled Action commits it, and the deployed app reads it.
