@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:56:59+00:00",
+  "generated_at": "2026-09-10T23:53:14+00:00",
   "demo": false,
   "leagues": [
     {
@@ -5882,7 +5882,7 @@
           "value": 30.1,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 8674,
+          "market": 8733,
           "ovr": 99
         },
         {
@@ -5900,7 +5900,7 @@
           "value": 14.1,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2802,
+          "market": 2904,
           "ovr": 68
         },
         {
@@ -5936,7 +5936,7 @@
           "value": 10.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2290,
+          "market": 2236,
           "ovr": 60
         },
         {
@@ -5954,7 +5954,7 @@
           "value": 9.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2746,
+          "market": 2828,
           "ovr": 58
         },
         {
@@ -5990,7 +5990,7 @@
           "value": 5.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5935,
+          "market": 5564,
           "ovr": 50
         },
         {
@@ -6008,7 +6008,7 @@
           "value": 4.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 286,
+          "market": 314,
           "ovr": 49
         },
         {
@@ -6026,7 +6026,7 @@
           "value": 1.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 371,
+          "market": 364,
           "ovr": 43
         },
         {
@@ -6044,7 +6044,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 975,
+          "market": 957,
           "ovr": 40
         },
         {
@@ -6062,7 +6062,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2554,
+          "market": 2476,
           "ovr": 40
         },
         {
@@ -6080,7 +6080,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1170,
+          "market": 1050,
           "ovr": 40
         },
         {
@@ -6091,14 +6091,14 @@
           "pos1": "TE",
           "team": "LV",
           "age": 23,
-          "status": "Doubtful",
+          "status": "Out",
           "ppw": 0.0,
           "recent": 0.0,
           "trend": 0.0,
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5199,
+          "market": 5124,
           "ovr": 40
         },
         {
@@ -6116,7 +6116,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 506,
+          "market": 489,
           "ovr": 40
         },
         {
@@ -6134,7 +6134,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2947,
+          "market": 2972,
           "ovr": 40
         },
         {
@@ -6152,7 +6152,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 585,
+          "market": 580,
           "ovr": 40
         },
         {
@@ -6170,7 +6170,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 600,
+          "market": 582,
           "ovr": 40
         },
         {
@@ -6188,7 +6188,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2521,
+          "market": 2351,
           "ovr": 40
         },
         {
@@ -6206,7 +6206,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1308,
+          "market": 1256,
           "ovr": 40
         },
         {
@@ -6224,7 +6224,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 526,
+          "market": 565,
           "ovr": 40
         },
         {
@@ -6242,7 +6242,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3773,
+          "market": 3731,
           "ovr": 40
         },
         {
@@ -6260,7 +6260,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5045,
+          "market": 4905,
           "ovr": 40
         },
         {
@@ -6278,7 +6278,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4378,
+          "market": 4404,
           "ovr": 40
         },
         {
@@ -6296,7 +6296,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 10563,
+          "market": 10694,
           "ovr": 40
         },
         {
@@ -6314,7 +6314,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 617,
+          "market": 624,
           "ovr": 40
         },
         {
@@ -6350,7 +6350,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1151,
+          "market": 860,
           "ovr": 40
         },
         {
@@ -6368,7 +6368,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5031,
+          "market": 4956,
           "ovr": 40
         },
         {
@@ -6386,7 +6386,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3736,
+          "market": 3938,
           "ovr": 40
         },
         {
@@ -6404,7 +6404,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1467,
+          "market": 1452,
           "ovr": 40
         },
         {
@@ -6422,7 +6422,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 186,
+          "market": 202,
           "ovr": 40
         },
         {
@@ -6440,7 +6440,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 7060,
+          "market": 7013,
           "ovr": 40
         },
         {
@@ -6458,7 +6458,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3498,
+          "market": 3269,
           "ovr": 40
         },
         {
@@ -6476,7 +6476,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1863,
+          "market": 1870,
           "ovr": 40
         },
         {
@@ -6494,7 +6494,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3300,
+          "market": 3270,
           "ovr": 40
         },
         {
@@ -6512,7 +6512,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 887,
+          "market": 822,
           "ovr": 40
         },
         {
@@ -6530,7 +6530,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1693,
+          "market": 1730,
           "ovr": 40
         },
         {
@@ -6548,7 +6548,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 768,
+          "market": 787,
           "ovr": 40
         },
         {
@@ -6566,7 +6566,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 8135,
+          "market": 8056,
           "ovr": 40
         },
         {
@@ -6584,7 +6584,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1062,
+          "market": 1055,
           "ovr": 40
         },
         {
@@ -6620,7 +6620,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1311,
+          "market": 1438,
           "ovr": 40
         },
         {
@@ -6638,7 +6638,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2319,
+          "market": 2418,
           "ovr": 40
         },
         {
@@ -6656,7 +6656,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 371,
+          "market": 397,
           "ovr": 40
         },
         {
@@ -6674,7 +6674,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4911,
+          "market": 4841,
           "ovr": 40
         },
         {
@@ -6692,7 +6692,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 981,
+          "market": 987,
           "ovr": 40
         },
         {
@@ -6710,7 +6710,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3226,
+          "market": 3313,
           "ovr": 40
         },
         {
@@ -6728,7 +6728,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1555,
+          "market": 1410,
           "ovr": 40
         },
         {
@@ -6746,7 +6746,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5240,
+          "market": 5332,
           "ovr": 40
         },
         {
@@ -6764,7 +6764,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 670,
+          "market": 597,
           "ovr": 40
         },
         {
@@ -6782,7 +6782,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 848,
+          "market": 892,
           "ovr": 40
         },
         {
@@ -6800,7 +6800,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3465,
+          "market": 3449,
           "ovr": 40
         },
         {
@@ -6818,7 +6818,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 983,
+          "market": 1180,
           "ovr": 40
         },
         {
@@ -6836,7 +6836,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 123,
+          "market": 148,
           "ovr": 40
         },
         {
@@ -6854,7 +6854,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 7439,
+          "market": 7490,
           "ovr": 40
         },
         {
@@ -6872,7 +6872,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 9182,
+          "market": 9148,
           "ovr": 40
         },
         {
@@ -6908,7 +6908,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1380,
+          "market": 1258,
           "ovr": 40
         },
         {
@@ -6926,7 +6926,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3221,
+          "market": 3119,
           "ovr": 40
         },
         {
@@ -6944,7 +6944,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 365,
+          "market": 363,
           "ovr": 40
         },
         {
@@ -6962,7 +6962,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 6529,
+          "market": 6405,
           "ovr": 40
         },
         {
@@ -6980,7 +6980,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1037,
+          "market": 1168,
           "ovr": 40
         },
         {
@@ -6998,7 +6998,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3218,
+          "market": 3108,
           "ovr": 40
         },
         {
@@ -7016,7 +7016,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 6093,
+          "market": 6174,
           "ovr": 40
         },
         {
@@ -7034,7 +7034,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 899,
+          "market": 892,
           "ovr": 40
         },
         {
@@ -7052,7 +7052,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 60,
+          "market": 37,
           "ovr": 40
         },
         {
@@ -7070,7 +7070,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 239,
+          "market": 214,
           "ovr": 40
         },
         {
@@ -7088,7 +7088,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1211,
+          "market": 1240,
           "ovr": 40
         },
         {
@@ -7106,7 +7106,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3867,
+          "market": 3881,
           "ovr": 40
         },
         {
@@ -7124,7 +7124,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2060,
+          "market": 2036,
           "ovr": 40
         },
         {
@@ -7142,7 +7142,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 7639,
+          "market": 7345,
           "ovr": 40
         },
         {
@@ -7160,7 +7160,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1529,
+          "market": 1453,
           "ovr": 40
         },
         {
@@ -7196,7 +7196,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2000,
+          "market": 1960,
           "ovr": 40
         },
         {
@@ -7214,7 +7214,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 478,
+          "market": 471,
           "ovr": 40
         },
         {
@@ -7232,7 +7232,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3199,
+          "market": 3231,
           "ovr": 40
         },
         {
@@ -7250,7 +7250,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3294,
+          "market": 3149,
           "ovr": 40
         },
         {
@@ -7268,7 +7268,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2074,
+          "market": 2070,
           "ovr": 40
         },
         {
@@ -7286,7 +7286,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 556,
+          "market": 543,
           "ovr": 40
         },
         {
@@ -7304,7 +7304,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 6148,
+          "market": 6314,
           "ovr": 40
         },
         {
@@ -7322,7 +7322,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 997,
+          "market": 986,
           "ovr": 40
         },
         {
@@ -7340,7 +7340,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 393,
+          "market": 396,
           "ovr": 40
         },
         {
@@ -7358,7 +7358,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1374,
+          "market": 1364,
           "ovr": 40
         },
         {
@@ -7376,7 +7376,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 684,
+          "market": 676,
           "ovr": 40
         },
         {
@@ -7394,7 +7394,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5026,
+          "market": 4916,
           "ovr": 40
         },
         {
@@ -7412,7 +7412,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2205,
+          "market": 2308,
           "ovr": 40
         },
         {
@@ -7430,7 +7430,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 227,
+          "market": 254,
           "ovr": 40
         },
         {
@@ -7448,7 +7448,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 10025,
+          "market": 10057,
           "ovr": 40
         },
         {
@@ -7484,7 +7484,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 391,
+          "market": 413,
           "ovr": 40
         },
         {
@@ -7502,7 +7502,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2091,
+          "market": 2077,
           "ovr": 40
         },
         {
@@ -7520,7 +7520,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 846,
+          "market": 730,
           "ovr": 40
         },
         {
@@ -7538,7 +7538,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1717,
+          "market": 1599,
           "ovr": 40
         },
         {
@@ -7556,7 +7556,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1162,
+          "market": 1114,
           "ovr": 40
         },
         {
@@ -7574,7 +7574,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1427,
+          "market": 1503,
           "ovr": 40
         },
         {
@@ -7592,7 +7592,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 463,
+          "market": 560,
           "ovr": 40
         },
         {
@@ -7610,7 +7610,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 7013,
+          "market": 6980,
           "ovr": 40
         },
         {
@@ -7628,7 +7628,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 461,
+          "market": 451,
           "ovr": 40
         },
         {
@@ -7646,7 +7646,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 8883,
+          "market": 8659,
           "ovr": 40
         },
         {
@@ -7664,7 +7664,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5026,
+          "market": 4818,
           "ovr": 40
         },
         {
@@ -7682,7 +7682,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 634,
+          "market": 695,
           "ovr": 40
         },
         {
@@ -7700,7 +7700,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4903,
+          "market": 4815,
           "ovr": 40
         },
         {
@@ -7718,7 +7718,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1706,
+          "market": 1705,
           "ovr": 40
         },
         {
@@ -7729,14 +7729,14 @@
           "pos1": "WR",
           "team": "BAL",
           "age": 25,
-          "status": "Questionable",
+          "status": null,
           "ppw": 0.0,
           "recent": 0.0,
           "trend": 0.0,
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3706,
+          "market": 3753,
           "ovr": 40
         },
         {
@@ -7772,7 +7772,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1999,
+          "market": 2100,
           "ovr": 40
         },
         {
@@ -7808,7 +7808,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1615,
+          "market": 1593,
           "ovr": 40
         },
         {
@@ -7826,7 +7826,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 502,
+          "market": 488,
           "ovr": 40
         },
         {
@@ -7844,7 +7844,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 759,
+          "market": 654,
           "ovr": 40
         },
         {
@@ -7862,7 +7862,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1165,
+          "market": 1205,
           "ovr": 40
         },
         {
@@ -7880,7 +7880,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5206,
+          "market": 5033,
           "ovr": 40
         },
         {
@@ -7898,7 +7898,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 727,
+          "market": 715,
           "ovr": 40
         },
         {
@@ -7916,7 +7916,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4261,
+          "market": 4168,
           "ovr": 40
         },
         {
@@ -7934,7 +7934,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 9353,
+          "market": 9257,
           "ovr": 40
         },
         {
@@ -7952,7 +7952,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 378,
+          "market": 377,
           "ovr": 40
         },
         {
@@ -7970,7 +7970,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 6340,
+          "market": 6123,
           "ovr": 40
         },
         {
@@ -7988,7 +7988,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1780,
+          "market": 1920,
           "ovr": 40
         },
         {
@@ -8006,7 +8006,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2051,
+          "market": 1984,
           "ovr": 40
         },
         {
@@ -8024,7 +8024,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2003,
+          "market": 2125,
           "ovr": 40
         },
         {
@@ -8042,7 +8042,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1072,
+          "market": 1024,
           "ovr": 40
         },
         {
@@ -8060,7 +8060,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 600,
+          "market": 574,
           "ovr": 40
         },
         {
@@ -8078,7 +8078,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4249,
+          "market": 4176,
           "ovr": 40
         },
         {
@@ -8096,7 +8096,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 734,
+          "market": 757,
           "ovr": 40
         },
         {
@@ -8114,7 +8114,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 185,
+          "market": 164,
           "ovr": 40
         },
         {
@@ -8132,7 +8132,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2928,
+          "market": 2817,
           "ovr": 40
         },
         {
@@ -8150,7 +8150,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2016,
+          "market": 2108,
           "ovr": 40
         },
         {
@@ -8168,7 +8168,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2950,
+          "market": 2880,
           "ovr": 40
         },
         {
@@ -8186,7 +8186,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4545,
+          "market": 4613,
           "ovr": 40
         },
         {
@@ -8204,7 +8204,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 7970,
+          "market": 7922,
           "ovr": 40
         },
         {
@@ -8222,7 +8222,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1030,
+          "market": 1036,
           "ovr": 40
         },
         {
@@ -8258,7 +8258,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 6798,
+          "market": 6737,
           "ovr": 40
         },
         {
@@ -8276,7 +8276,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 209,
+          "market": 211,
           "ovr": 40
         },
         {
@@ -8294,7 +8294,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 914,
+          "market": 950,
           "ovr": 40
         },
         {
@@ -8330,7 +8330,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4359,
+          "market": 4213,
           "ovr": 40
         },
         {
@@ -8348,7 +8348,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 959,
+          "market": 1008,
           "ovr": 40
         },
         {
@@ -8366,7 +8366,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2016,
+          "market": 1977,
           "ovr": 40
         },
         {
@@ -8384,7 +8384,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1679,
+          "market": 1641,
           "ovr": 40
         },
         {
@@ -8402,7 +8402,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3679,
+          "market": 3640,
           "ovr": 40
         },
         {
@@ -8420,7 +8420,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1355,
+          "market": 1386,
           "ovr": 40
         },
         {
@@ -8438,7 +8438,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 9182,
+          "market": 9167,
           "ovr": 40
         },
         {
@@ -8449,14 +8449,14 @@
           "pos1": "QB",
           "team": "KC",
           "age": 30,
-          "status": "Questionable",
+          "status": null,
           "ppw": 0.0,
           "recent": 0.0,
           "trend": 0.0,
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1500,
+          "market": 1606,
           "ovr": 40
         },
         {
@@ -8474,7 +8474,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 641,
+          "market": 614,
           "ovr": 40
         },
         {
@@ -8510,7 +8510,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 31,
+          "market": 26,
           "ovr": 40
         },
         {
@@ -8528,7 +8528,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2445,
+          "market": 2371,
           "ovr": 40
         },
         {
@@ -8546,7 +8546,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1416,
+          "market": 1495,
           "ovr": 40
         },
         {
@@ -8564,7 +8564,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5331,
+          "market": 5560,
           "ovr": 40
         },
         {
@@ -8582,7 +8582,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 216,
+          "market": 200,
           "ovr": 40
         },
         {
@@ -8618,7 +8618,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1141,
+          "market": 1217,
           "ovr": 40
         },
         {
@@ -8636,7 +8636,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 664,
+          "market": 615,
           "ovr": 40
         },
         {
@@ -8654,7 +8654,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1911,
+          "market": 1955,
           "ovr": 40
         },
         {
@@ -8672,7 +8672,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 483,
+          "market": 533,
           "ovr": 40
         },
         {
@@ -8690,7 +8690,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 549,
+          "market": 595,
           "ovr": 40
         },
         {
@@ -8708,7 +8708,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1335,
+          "market": 1371,
           "ovr": 40
         },
         {
@@ -8726,7 +8726,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4750,
+          "market": 4648,
           "ovr": 40
         },
         {
@@ -8744,7 +8744,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1010,
+          "market": 1033,
           "ovr": 40
         },
         {
@@ -8762,7 +8762,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 814,
+          "market": 732,
           "ovr": 40
         }
       ],
@@ -8938,7 +8938,7 @@
             "value": 30.1,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 8674,
+            "market": 8733,
             "ovr": 99
           },
           {
@@ -8956,7 +8956,7 @@
             "value": 14.1,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 2802,
+            "market": 2904,
             "ovr": 68
           },
           {
@@ -8974,7 +8974,7 @@
             "value": 9.0,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 2746,
+            "market": 2828,
             "ovr": 58
           }
         ],
@@ -9473,6 +9473,16 @@
           "total": 0.0
         },
         {
+          "player_id": "9482",
+          "name": "Michael Mayer",
+          "pos": "TE",
+          "team": "LV",
+          "age": 25,
+          "status": null,
+          "ppw": 0.0,
+          "total": 0.0
+        },
+        {
           "player_id": "9509",
           "name": "Bijan Robinson",
           "pos": "RB",
@@ -9513,6 +9523,15 @@
           "best_buried": "Terry McLaurin"
         },
         {
+          "pos": "TE",
+          "rostered": 3,
+          "slots": 1,
+          "flex": 2,
+          "surplus": 2,
+          "buried_value": 0.0,
+          "best_buried": "Kyle Pitts"
+        },
+        {
           "pos": "QB",
           "rostered": 2,
           "slots": 1,
@@ -9520,15 +9539,6 @@
           "surplus": 1,
           "buried_value": 0.0,
           "best_buried": "Brock Purdy"
-        },
-        {
-          "pos": "TE",
-          "rostered": 2,
-          "slots": 1,
-          "flex": 2,
-          "surplus": 1,
-          "buried_value": 0.0,
-          "best_buried": "Kyle Pitts"
         },
         {
           "pos": "K",
@@ -9605,7 +9615,7 @@
               "avg": 0.0
             },
             {
-              "name": "Terry McLaurin",
+              "name": "Brock Purdy",
               "status": null,
               "live": 0.0,
               "avg": 0.0
@@ -9726,7 +9736,7 @@
           "value": 30.1,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 8633,
+          "market": 8648,
           "ovr": 99
         },
         {
@@ -9744,7 +9754,7 @@
           "value": 14.1,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 6705,
+          "market": 6875,
           "ovr": 68
         },
         {
@@ -9780,7 +9790,7 @@
           "value": 10.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1596,
+          "market": 1555,
           "ovr": 60
         },
         {
@@ -9798,7 +9808,7 @@
           "value": 9.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1959,
+          "market": 2042,
           "ovr": 58
         },
         {
@@ -9852,7 +9862,7 @@
           "value": 5.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5551,
+          "market": 5223,
           "ovr": 50
         },
         {
@@ -9870,7 +9880,7 @@
           "value": 4.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 268,
+          "market": 296,
           "ovr": 49
         },
         {
@@ -9888,7 +9898,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1064,
+          "market": 1092,
           "ovr": 40
         },
         {
@@ -9906,7 +9916,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4571,
+          "market": 4514,
           "ovr": 40
         },
         {
@@ -9924,7 +9934,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1431,
+          "market": 1420,
           "ovr": 40
         },
         {
@@ -9942,7 +9952,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 667,
+          "market": 705,
           "ovr": 40
         },
         {
@@ -9960,7 +9970,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 707,
+          "market": 606,
           "ovr": 40
         },
         {
@@ -9996,7 +10006,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2859,
+          "market": 2800,
           "ovr": 40
         },
         {
@@ -10014,7 +10024,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2546,
+          "market": 2635,
           "ovr": 40
         },
         {
@@ -10032,7 +10042,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3977,
+          "market": 4201,
           "ovr": 40
         },
         {
@@ -10050,7 +10060,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3975,
+          "market": 4082,
           "ovr": 40
         },
         {
@@ -10068,7 +10078,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 9340,
+          "market": 9280,
           "ovr": 40
         },
         {
@@ -10086,7 +10096,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 7217,
+          "market": 7130,
           "ovr": 40
         },
         {
@@ -10104,7 +10114,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1464,
+          "market": 1558,
           "ovr": 40
         },
         {
@@ -10122,7 +10132,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5604,
+          "market": 5571,
           "ovr": 40
         },
         {
@@ -10140,7 +10150,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1986,
+          "market": 2098,
           "ovr": 40
         },
         {
@@ -10158,7 +10168,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 573,
+          "market": 570,
           "ovr": 40
         },
         {
@@ -10176,7 +10186,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 178,
+          "market": 198,
           "ovr": 40
         },
         {
@@ -10212,7 +10222,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3450,
+          "market": 3423,
           "ovr": 40
         },
         {
@@ -10230,7 +10240,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 861,
+          "market": 904,
           "ovr": 40
         },
         {
@@ -10248,7 +10258,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1669,
+          "market": 1620,
           "ovr": 40
         },
         {
@@ -10266,7 +10276,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1362,
+          "market": 1326,
           "ovr": 40
         },
         {
@@ -10284,7 +10294,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5374,
+          "market": 5290,
           "ovr": 40
         },
         {
@@ -10302,7 +10312,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2134,
+          "market": 2157,
           "ovr": 40
         },
         {
@@ -10320,7 +10330,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1425,
+          "market": 1412,
           "ovr": 40
         },
         {
@@ -10338,7 +10348,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3128,
+          "market": 3178,
           "ovr": 40
         },
         {
@@ -10356,7 +10366,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4625,
+          "market": 4458,
           "ovr": 40
         },
         {
@@ -10374,7 +10384,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1033,
+          "market": 993,
           "ovr": 40
         },
         {
@@ -10392,7 +10402,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 457,
+          "market": 640,
           "ovr": 40
         },
         {
@@ -10410,7 +10420,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2825,
+          "market": 2751,
           "ovr": 40
         },
         {
@@ -10428,7 +10438,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 7998,
+          "market": 7803,
           "ovr": 40
         },
         {
@@ -10446,7 +10456,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5737,
+          "market": 6011,
           "ovr": 40
         },
         {
@@ -10457,14 +10467,14 @@
           "pos1": "WR",
           "team": "BAL",
           "age": 25,
-          "status": "Questionable",
+          "status": null,
           "ppw": 0.0,
           "recent": 0.0,
           "trend": 0.0,
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3210,
+          "market": 3253,
           "ovr": 40
         },
         {
@@ -10500,7 +10510,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1960,
+          "market": 2060,
           "ovr": 40
         },
         {
@@ -10518,7 +10528,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 102,
+          "market": 96,
           "ovr": 40
         },
         {
@@ -10536,7 +10546,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3815,
+          "market": 3778,
           "ovr": 40
         },
         {
@@ -10554,7 +10564,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1240,
+          "market": 1250,
           "ovr": 40
         },
         {
@@ -10572,7 +10582,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2495,
+          "market": 2380,
           "ovr": 40
         },
         {
@@ -10590,7 +10600,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 893,
+          "market": 891,
           "ovr": 40
         },
         {
@@ -10608,7 +10618,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4991,
+          "market": 5183,
           "ovr": 40
         },
         {
@@ -10626,7 +10636,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 9719,
+          "market": 9671,
           "ovr": 40
         },
         {
@@ -10644,7 +10654,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 504,
+          "market": 554,
           "ovr": 40
         },
         {
@@ -10662,7 +10672,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 7364,
+          "market": 7073,
           "ovr": 40
         },
         {
@@ -10680,7 +10690,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4805,
+          "market": 4778,
           "ovr": 40
         },
         {
@@ -10698,7 +10708,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3284,
+          "market": 3252,
           "ovr": 40
         },
         {
@@ -10716,7 +10726,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4859,
+          "market": 4988,
           "ovr": 40
         },
         {
@@ -10752,7 +10762,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2338,
+          "market": 2360,
           "ovr": 40
         },
         {
@@ -10770,7 +10780,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3830,
+          "market": 3715,
           "ovr": 40
         },
         {
@@ -10788,7 +10798,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 6108,
+          "market": 5952,
           "ovr": 40
         },
         {
@@ -10806,7 +10816,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 872,
+          "market": 764,
           "ovr": 40
         },
         {
@@ -10824,7 +10834,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 789,
+          "market": 736,
           "ovr": 40
         },
         {
@@ -10860,7 +10870,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 560,
+          "market": 525,
           "ovr": 40
         },
         {
@@ -10878,7 +10888,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2728,
+          "market": 2655,
           "ovr": 40
         },
         {
@@ -10896,7 +10906,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1366,
+          "market": 1460,
           "ovr": 40
         },
         {
@@ -10914,7 +10924,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1702,
+          "market": 1659,
           "ovr": 40
         },
         {
@@ -10932,7 +10942,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2569,
+          "market": 2420,
           "ovr": 40
         },
         {
@@ -10950,7 +10960,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1188,
+          "market": 1197,
           "ovr": 40
         },
         {
@@ -10968,7 +10978,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1542,
+          "market": 1458,
           "ovr": 40
         },
         {
@@ -10986,7 +10996,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2942,
+          "market": 2924,
           "ovr": 40
         },
         {
@@ -11004,7 +11014,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5166,
+          "market": 5010,
           "ovr": 40
         },
         {
@@ -11022,7 +11032,25 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3332,
+          "market": 3469,
+          "ovr": 40
+        },
+        {
+          "player_id": "9482",
+          "roster_id": 4,
+          "name": "Michael Mayer",
+          "pos": "TE",
+          "pos1": "TE",
+          "team": "LV",
+          "age": 25,
+          "status": null,
+          "ppw": 0.0,
+          "recent": 0.0,
+          "trend": 0.0,
+          "value": 0.0,
+          "signal": "HOLD",
+          "signal_reason": "no recent production",
+          "market": 279,
           "ovr": 40
         },
         {
@@ -11040,7 +11068,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 9692,
+          "market": 9709,
           "ovr": 40
         },
         {
@@ -11076,7 +11104,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1166,
+          "market": 1098,
           "ovr": 40
         },
         {
@@ -11094,7 +11122,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1150,
+          "market": 1173,
           "ovr": 40
         },
         {
@@ -11130,7 +11158,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1018,
+          "market": 1023,
           "ovr": 40
         },
         {
@@ -11148,7 +11176,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4341,
+          "market": 4253,
           "ovr": 40
         },
         {
@@ -11166,7 +11194,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1927,
+          "market": 2002,
           "ovr": 40
         },
         {
@@ -11184,7 +11212,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 629,
+          "market": 555,
           "ovr": 40
         },
         {
@@ -11202,7 +11230,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1572,
+          "market": 1590,
           "ovr": 40
         },
         {
@@ -11220,7 +11248,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 8243,
+          "market": 8208,
           "ovr": 40
         },
         {
@@ -11238,7 +11266,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 6932,
+          "market": 6870,
           "ovr": 40
         },
         {
@@ -11256,7 +11284,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 803,
+          "market": 790,
           "ovr": 40
         },
         {
@@ -11274,7 +11302,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4570,
+          "market": 4453,
           "ovr": 40
         },
         {
@@ -11292,7 +11320,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3670,
+          "market": 3591,
           "ovr": 40
         },
         {
@@ -11310,7 +11338,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3276,
+          "market": 3314,
           "ovr": 40
         },
         {
@@ -11328,7 +11356,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 743,
+          "market": 745,
           "ovr": 40
         },
         {
@@ -11382,7 +11410,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2349,
+          "market": 2293,
           "ovr": 40
         },
         {
@@ -11393,14 +11421,14 @@
           "pos1": "TE",
           "team": "LV",
           "age": 23,
-          "status": "Doubtful",
+          "status": "Out",
           "ppw": 0.0,
           "recent": 0.0,
           "trend": 0.0,
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5627,
+          "market": 5585,
           "ovr": 40
         },
         {
@@ -11418,7 +11446,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2695,
+          "market": 2683,
           "ovr": 40
         },
         {
@@ -11436,7 +11464,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 607,
+          "market": 569,
           "ovr": 40
         },
         {
@@ -11472,7 +11500,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 8325,
+          "market": 8307,
           "ovr": 40
         },
         {
@@ -11490,7 +11518,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2119,
+          "market": 1972,
           "ovr": 40
         },
         {
@@ -11508,7 +11536,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 847,
+          "market": 842,
           "ovr": 40
         },
         {
@@ -11526,7 +11554,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 900,
+          "market": 890,
           "ovr": 40
         },
         {
@@ -11544,7 +11572,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1134,
+          "market": 1089,
           "ovr": 40
         },
         {
@@ -11562,7 +11590,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1116,
+          "market": 1036,
           "ovr": 40
         },
         {
@@ -11580,7 +11608,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5868,
+          "market": 5670,
           "ovr": 40
         },
         {
@@ -11598,7 +11626,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 7903,
+          "market": 7877,
           "ovr": 40
         },
         {
@@ -11616,7 +11644,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 755,
+          "market": 749,
           "ovr": 40
         },
         {
@@ -11634,7 +11662,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3892,
+          "market": 3739,
           "ovr": 40
         },
         {
@@ -11652,7 +11680,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1396,
+          "market": 1346,
           "ovr": 40
         },
         {
@@ -11670,7 +11698,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 887,
+          "market": 880,
           "ovr": 40
         },
         {
@@ -11688,7 +11716,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3235,
+          "market": 3435,
           "ovr": 40
         },
         {
@@ -11706,7 +11734,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3368,
+          "market": 3459,
           "ovr": 40
         },
         {
@@ -11724,7 +11752,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3259,
+          "market": 3312,
           "ovr": 40
         },
         {
@@ -11742,7 +11770,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2788,
+          "market": 2706,
           "ovr": 40
         },
         {
@@ -11760,7 +11788,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4946,
+          "market": 5049,
           "ovr": 40
         },
         {
@@ -11778,7 +11806,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 652,
+          "market": 658,
           "ovr": 40
         },
         {
@@ -11796,7 +11824,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1316,
+          "market": 1295,
           "ovr": 40
         },
         {
@@ -11814,7 +11842,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 539,
+          "market": 529,
           "ovr": 40
         },
         {
@@ -11825,14 +11853,14 @@
           "pos1": "QB",
           "team": "KC",
           "age": 30,
-          "status": "Questionable",
+          "status": null,
           "ppw": 0.0,
           "recent": 0.0,
           "trend": 0.0,
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4250,
+          "market": 4459,
           "ovr": 40
         },
         {
@@ -11850,7 +11878,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1429,
+          "market": 1501,
           "ovr": 40
         },
         {
@@ -11868,7 +11896,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3162,
+          "market": 3220,
           "ovr": 40
         },
         {
@@ -11886,7 +11914,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 6755,
+          "market": 6717,
           "ovr": 40
         },
         {
@@ -11904,7 +11932,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3185,
+          "market": 3121,
           "ovr": 40
         },
         {
@@ -11940,7 +11968,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 993,
+          "market": 940,
           "ovr": 40
         },
         {
@@ -11958,7 +11986,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 6317,
+          "market": 6349,
           "ovr": 40
         },
         {
@@ -11976,7 +12004,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 9159,
+          "market": 9091,
           "ovr": 40
         },
         {
@@ -12030,7 +12058,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5037,
+          "market": 4952,
           "ovr": 40
         },
         {
@@ -12048,7 +12076,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1471,
+          "market": 1447,
           "ovr": 40
         },
         {
@@ -12066,7 +12094,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 336,
+          "market": 199,
           "ovr": 40
         },
         {
@@ -12084,7 +12112,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 489,
+          "market": 478,
           "ovr": 40
         },
         {
@@ -12102,7 +12130,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3636,
+          "market": 3477,
           "ovr": 40
         },
         {
@@ -12120,7 +12148,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5956,
+          "market": 5926,
           "ovr": 40
         },
         {
@@ -12138,7 +12166,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 2387,
+          "market": 2450,
           "ovr": 40
         },
         {
@@ -12156,7 +12184,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1002,
+          "market": 1014,
           "ovr": 40
         },
         {
@@ -12174,7 +12202,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 793,
+          "market": 760,
           "ovr": 40
         },
         {
@@ -12192,7 +12220,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1023,
+          "market": 999,
           "ovr": 40
         },
         {
@@ -12210,7 +12238,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4593,
+          "market": 4435,
           "ovr": 40
         },
         {
@@ -12228,7 +12256,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 962,
+          "market": 1008,
           "ovr": 40
         },
         {
@@ -12246,7 +12274,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4375,
+          "market": 4294,
           "ovr": 40
         },
         {
@@ -12264,7 +12292,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1826,
+          "market": 1903,
           "ovr": 40
         },
         {
@@ -12282,7 +12310,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 10337,
+          "market": 10350,
           "ovr": 40
         },
         {
@@ -12300,7 +12328,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 747,
+          "market": 670,
           "ovr": 40
         },
         {
@@ -12464,7 +12492,7 @@
             "value": 30.1,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 8633,
+            "market": 8648,
             "ovr": 99
           },
           {
@@ -12482,7 +12510,7 @@
             "value": 14.1,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 6705,
+            "market": 6875,
             "ovr": 68
           },
           {
@@ -12500,7 +12528,7 @@
             "value": 9.0,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 1959,
+            "market": 2042,
             "ovr": 58
           }
         ],
