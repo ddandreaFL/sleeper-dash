@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T00:20:04+00:00",
+  "generated_at": "2026-09-24T15:46:34+00:00",
   "demo": false,
   "leagues": [
     {
@@ -5940,7 +5940,7 @@
           "value": 40.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 6525,
+          "market": 6090,
           "ovr": 99
         },
         {
@@ -5958,7 +5958,7 @@
           "value": 39.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 9618,
+          "market": 9656,
           "ovr": 98
         },
         {
@@ -5976,7 +5976,7 @@
           "value": 33.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 9045,
+          "market": 8767,
           "ovr": 89
         },
         {
@@ -5994,7 +5994,7 @@
           "value": 30.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 8261,
+          "market": 8421,
           "ovr": 85
         },
         {
@@ -6012,7 +6012,7 @@
           "value": 29.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 10670,
+          "market": 10450,
           "ovr": 84
         },
         {
@@ -6030,7 +6030,7 @@
           "value": 27.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2041,
+          "market": 1671,
           "ovr": 81
         },
         {
@@ -6048,7 +6048,7 @@
           "value": 27.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1546,
+          "market": 1576,
           "ovr": 81
         },
         {
@@ -6066,7 +6066,7 @@
           "value": 27.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4230,
+          "market": 4255,
           "ovr": 80
         },
         {
@@ -6084,7 +6084,7 @@
           "value": 26.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5656,
+          "market": 5810,
           "ovr": 79
         },
         {
@@ -6102,7 +6102,7 @@
           "value": 26.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 7566,
+          "market": 7510,
           "ovr": 79
         },
         {
@@ -6120,7 +6120,7 @@
           "value": 26.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1120,
+          "market": 1089,
           "ovr": 79
         },
         {
@@ -6138,7 +6138,7 @@
           "value": 25.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1684,
+          "market": 1677,
           "ovr": 77
         },
         {
@@ -6156,7 +6156,7 @@
           "value": 25.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2115,
+          "market": 2242,
           "ovr": 77
         },
         {
@@ -6174,7 +6174,7 @@
           "value": 24.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 8868,
+          "market": 9036,
           "ovr": 77
         },
         {
@@ -6192,7 +6192,7 @@
           "value": 24.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 6967,
+          "market": 6972,
           "ovr": 76
         },
         {
@@ -6210,7 +6210,7 @@
           "value": 24.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2855,
+          "market": 3014,
           "ovr": 76
         },
         {
@@ -6228,7 +6228,7 @@
           "value": 23.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 617,
+          "market": 704,
           "ovr": 75
         },
         {
@@ -6246,7 +6246,7 @@
           "value": 22.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1406,
+          "market": 1254,
           "ovr": 73
         },
         {
@@ -6264,7 +6264,7 @@
           "value": 22.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2036,
+          "market": 2234,
           "ovr": 73
         },
         {
@@ -6282,7 +6282,7 @@
           "value": 22.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4913,
+          "market": 4611,
           "ovr": 73
         },
         {
@@ -6300,7 +6300,7 @@
           "value": 22.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 9848,
+          "market": 9902,
           "ovr": 73
         },
         {
@@ -6318,7 +6318,7 @@
           "value": 22.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1551,
+          "market": 1581,
           "ovr": 73
         },
         {
@@ -6336,7 +6336,7 @@
           "value": 21.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 5845,
+          "market": 6116,
           "ovr": 72
         },
         {
@@ -6354,7 +6354,7 @@
           "value": 21.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3821,
+          "market": 3606,
           "ovr": 71
         },
         {
@@ -6372,7 +6372,7 @@
           "value": 20.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 6935,
+          "market": 6965,
           "ovr": 71
         },
         {
@@ -6390,7 +6390,7 @@
           "value": 20.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4209,
+          "market": 3930,
           "ovr": 71
         },
         {
@@ -6408,7 +6408,7 @@
           "value": 20.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3102,
+          "market": 3452,
           "ovr": 71
         },
         {
@@ -6426,7 +6426,7 @@
           "value": 20.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2439,
+          "market": 2867,
           "ovr": 70
         },
         {
@@ -6444,7 +6444,7 @@
           "value": 19.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1056,
+          "market": 1101,
           "ovr": 69
         },
         {
@@ -6462,7 +6462,7 @@
           "value": 18.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4589,
+          "market": 4559,
           "ovr": 68
         },
         {
@@ -6480,7 +6480,7 @@
           "value": 18.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1243,
+          "market": 1007,
           "ovr": 67
         },
         {
@@ -6498,7 +6498,7 @@
           "value": 18.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1511,
+          "market": 1311,
           "ovr": 67
         },
         {
@@ -6516,7 +6516,7 @@
           "value": 18.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 717,
+          "market": 607,
           "ovr": 66
         },
         {
@@ -6534,7 +6534,7 @@
           "value": 17.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4822,
+          "market": 4779,
           "ovr": 66
         },
         {
@@ -6552,7 +6552,7 @@
           "value": 17.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 896,
+          "market": 479,
           "ovr": 66
         },
         {
@@ -6570,7 +6570,7 @@
           "value": 17.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2956,
+          "market": 3061,
           "ovr": 66
         },
         {
@@ -6588,7 +6588,7 @@
           "value": 17.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3669,
+          "market": 3891,
           "ovr": 66
         },
         {
@@ -6606,7 +6606,7 @@
           "value": 16.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2007,
+          "market": 2012,
           "ovr": 64
         },
         {
@@ -6624,7 +6624,7 @@
           "value": 16.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3608,
+          "market": 3779,
           "ovr": 64
         },
         {
@@ -6642,7 +6642,7 @@
           "value": 15.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2688,
+          "market": 2553,
           "ovr": 63
         },
         {
@@ -6660,7 +6660,7 @@
           "value": 15.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 9268,
+          "market": 9205,
           "ovr": 63
         },
         {
@@ -6678,7 +6678,7 @@
           "value": 15.1,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1867,
+          "market": 1998,
           "ovr": 62
         },
         {
@@ -6696,7 +6696,7 @@
           "value": 14.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 5138,
+          "market": 5496,
           "ovr": 62
         },
         {
@@ -6714,7 +6714,7 @@
           "value": 14.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1073,
+          "market": 899,
           "ovr": 62
         },
         {
@@ -6732,7 +6732,7 @@
           "value": 14.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4768,
+          "market": 4786,
           "ovr": 62
         },
         {
@@ -6750,7 +6750,7 @@
           "value": 14.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2582,
+          "market": 2834,
           "ovr": 62
         },
         {
@@ -6768,7 +6768,7 @@
           "value": 14.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3150,
+          "market": 3046,
           "ovr": 62
         },
         {
@@ -6786,7 +6786,7 @@
           "value": 14.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1038,
+          "market": 1127,
           "ovr": 61
         },
         {
@@ -6822,7 +6822,7 @@
           "value": 14.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4311,
+          "market": 4729,
           "ovr": 61
         },
         {
@@ -6840,7 +6840,7 @@
           "value": 14.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 7355,
+          "market": 7449,
           "ovr": 61
         },
         {
@@ -6876,7 +6876,7 @@
           "value": 13.9,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2317,
+          "market": 2257,
           "ovr": 60
         },
         {
@@ -6894,7 +6894,7 @@
           "value": 13.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2503,
+          "market": 2334,
           "ovr": 60
         },
         {
@@ -6912,7 +6912,7 @@
           "value": 13.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5633,
+          "market": 5992,
           "ovr": 60
         },
         {
@@ -6930,7 +6930,7 @@
           "value": 13.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2788,
+          "market": 2730,
           "ovr": 60
         },
         {
@@ -6948,7 +6948,7 @@
           "value": 13.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 494,
+          "market": 498,
           "ovr": 59
         },
         {
@@ -6966,7 +6966,7 @@
           "value": 13.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 7575,
+          "market": 7535,
           "ovr": 59
         },
         {
@@ -6984,7 +6984,7 @@
           "value": 13.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 8155,
+          "market": 7904,
           "ovr": 59
         },
         {
@@ -7002,7 +7002,7 @@
           "value": 12.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1129,
+          "market": 1167,
           "ovr": 59
         },
         {
@@ -7020,7 +7020,7 @@
           "value": 12.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2183,
+          "market": 2409,
           "ovr": 58
         },
         {
@@ -7038,7 +7038,7 @@
           "value": 12.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2913,
+          "market": 3068,
           "ovr": 58
         },
         {
@@ -7056,7 +7056,7 @@
           "value": 12.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3116,
+          "market": 2833,
           "ovr": 58
         },
         {
@@ -7074,7 +7074,7 @@
           "value": 12.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3046,
+          "market": 2868,
           "ovr": 58
         },
         {
@@ -7092,7 +7092,7 @@
           "value": 12.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3562,
+          "market": 3266,
           "ovr": 58
         },
         {
@@ -7110,7 +7110,7 @@
           "value": 12.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5574,
+          "market": 5530,
           "ovr": 58
         },
         {
@@ -7128,7 +7128,7 @@
           "value": 12.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1470,
+          "market": 1425,
           "ovr": 58
         },
         {
@@ -7146,7 +7146,7 @@
           "value": 11.9,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 641,
+          "market": 543,
           "ovr": 58
         },
         {
@@ -7164,7 +7164,7 @@
           "value": 11.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3980,
+          "market": 4173,
           "ovr": 57
         },
         {
@@ -7182,7 +7182,7 @@
           "value": 11.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 880,
+          "market": 844,
           "ovr": 57
         },
         {
@@ -7200,7 +7200,7 @@
           "value": 11.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2917,
+          "market": 2772,
           "ovr": 57
         },
         {
@@ -7218,7 +7218,7 @@
           "value": 11.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 743,
+          "market": 592,
           "ovr": 57
         },
         {
@@ -7236,7 +7236,7 @@
           "value": 11.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1065,
+          "market": 940,
           "ovr": 57
         },
         {
@@ -7254,7 +7254,7 @@
           "value": 11.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1652,
+          "market": 1324,
           "ovr": 56
         },
         {
@@ -7272,7 +7272,7 @@
           "value": 10.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 404,
+          "market": 398,
           "ovr": 56
         },
         {
@@ -7290,7 +7290,7 @@
           "value": 10.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 663,
+          "market": 591,
           "ovr": 56
         },
         {
@@ -7308,7 +7308,7 @@
           "value": 10.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 542,
+          "market": 534,
           "ovr": 56
         },
         {
@@ -7326,7 +7326,7 @@
           "value": 10.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1967,
+          "market": 1907,
           "ovr": 56
         },
         {
@@ -7362,7 +7362,7 @@
           "value": 10.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1132,
+          "market": 982,
           "ovr": 55
         },
         {
@@ -7380,7 +7380,7 @@
           "value": 10.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2299,
+          "market": 1969,
           "ovr": 55
         },
         {
@@ -7398,7 +7398,7 @@
           "value": 9.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2448,
+          "market": 2432,
           "ovr": 55
         },
         {
@@ -7416,7 +7416,7 @@
           "value": 9.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 736,
+          "market": 567,
           "ovr": 54
         },
         {
@@ -7434,7 +7434,7 @@
           "value": 9.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 850,
+          "market": 778,
           "ovr": 54
         },
         {
@@ -7452,7 +7452,7 @@
           "value": 9.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1836,
+          "market": 1966,
           "ovr": 54
         },
         {
@@ -7470,7 +7470,7 @@
           "value": 9.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 773,
+          "market": 810,
           "ovr": 54
         },
         {
@@ -7488,7 +7488,7 @@
           "value": 9.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1641,
+          "market": 1542,
           "ovr": 54
         },
         {
@@ -7506,7 +7506,7 @@
           "value": 9.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 491,
+          "market": 481,
           "ovr": 54
         },
         {
@@ -7524,7 +7524,7 @@
           "value": 9.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 8155,
+          "market": 8489,
           "ovr": 53
         },
         {
@@ -7542,7 +7542,7 @@
           "value": 9.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1268,
+          "market": 1206,
           "ovr": 53
         },
         {
@@ -7560,7 +7560,7 @@
           "value": 9.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 200,
+          "market": 164,
           "ovr": 53
         },
         {
@@ -7578,7 +7578,7 @@
           "value": 8.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 577,
+          "market": 486,
           "ovr": 53
         },
         {
@@ -7596,7 +7596,7 @@
           "value": 8.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 563,
+          "market": 525,
           "ovr": 53
         },
         {
@@ -7614,7 +7614,7 @@
           "value": 8.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 4106,
+          "market": 4122,
           "ovr": 52
         },
         {
@@ -7632,7 +7632,7 @@
           "value": 8.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1888,
+          "market": 1824,
           "ovr": 52
         },
         {
@@ -7650,7 +7650,7 @@
           "value": 8.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 422,
+          "market": 381,
           "ovr": 52
         },
         {
@@ -7668,7 +7668,7 @@
           "value": 8.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1031,
+          "market": 798,
           "ovr": 52
         },
         {
@@ -7686,7 +7686,7 @@
           "value": 8.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1107,
+          "market": 932,
           "ovr": 52
         },
         {
@@ -7704,7 +7704,7 @@
           "value": 8.1,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 746,
+          "market": 677,
           "ovr": 52
         },
         {
@@ -7722,7 +7722,7 @@
           "value": 8.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3368,
+          "market": 3671,
           "ovr": 52
         },
         {
@@ -7740,7 +7740,7 @@
           "value": 8.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 769,
+          "market": 779,
           "ovr": 52
         },
         {
@@ -7758,7 +7758,7 @@
           "value": 7.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 805,
+          "market": 687,
           "ovr": 51
         },
         {
@@ -7776,7 +7776,7 @@
           "value": 7.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 192,
+          "market": 142,
           "ovr": 51
         },
         {
@@ -7794,7 +7794,7 @@
           "value": 7.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 930,
+          "market": 847,
           "ovr": 51
         },
         {
@@ -7812,7 +7812,7 @@
           "value": 7.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 4010,
+          "market": 4542,
           "ovr": 51
         },
         {
@@ -7830,7 +7830,7 @@
           "value": 7.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 850,
+          "market": 713,
           "ovr": 51
         },
         {
@@ -7848,7 +7848,7 @@
           "value": 7.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 330,
+          "market": 294,
           "ovr": 51
         },
         {
@@ -7866,7 +7866,7 @@
           "value": 7.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2093,
+          "market": 2026,
           "ovr": 51
         },
         {
@@ -7884,7 +7884,7 @@
           "value": 7.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 80,
+          "market": 114,
           "ovr": 51
         },
         {
@@ -7902,7 +7902,7 @@
           "value": 7.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2003,
+          "market": 1794,
           "ovr": 51
         },
         {
@@ -7920,7 +7920,7 @@
           "value": 7.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1261,
+          "market": 1527,
           "ovr": 51
         },
         {
@@ -7938,7 +7938,7 @@
           "value": 7.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1434,
+          "market": 1328,
           "ovr": 51
         },
         {
@@ -7956,7 +7956,7 @@
           "value": 7.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 500,
+          "market": 371,
           "ovr": 50
         },
         {
@@ -7974,7 +7974,7 @@
           "value": 7.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 164,
+          "market": 161,
           "ovr": 50
         },
         {
@@ -8010,7 +8010,7 @@
           "value": 6.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1307,
+          "market": 1186,
           "ovr": 50
         },
         {
@@ -8028,7 +8028,7 @@
           "value": 6.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 696,
+          "market": 671,
           "ovr": 50
         },
         {
@@ -8046,7 +8046,7 @@
           "value": 6.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1316,
+          "market": 1271,
           "ovr": 50
         },
         {
@@ -8064,7 +8064,7 @@
           "value": 6.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 498,
+          "market": 521,
           "ovr": 50
         },
         {
@@ -8082,7 +8082,7 @@
           "value": 6.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 317,
+          "market": 315,
           "ovr": 49
         },
         {
@@ -8118,7 +8118,7 @@
           "value": 5.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 282,
+          "market": 240,
           "ovr": 48
         },
         {
@@ -8154,7 +8154,7 @@
           "value": 5.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 364,
+          "market": 211,
           "ovr": 48
         },
         {
@@ -8172,7 +8172,7 @@
           "value": 5.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 108,
+          "market": 120,
           "ovr": 48
         },
         {
@@ -8190,7 +8190,7 @@
           "value": 5.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2464,
+          "market": 2435,
           "ovr": 48
         },
         {
@@ -8208,7 +8208,7 @@
           "value": 5.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1213,
+          "market": 1019,
           "ovr": 48
         },
         {
@@ -8244,7 +8244,7 @@
           "value": 4.9,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 589,
+          "market": 618,
           "ovr": 47
         },
         {
@@ -8262,7 +8262,7 @@
           "value": 4.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 266,
+          "market": 250,
           "ovr": 47
         },
         {
@@ -8298,7 +8298,7 @@
           "value": 4.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 491,
+          "market": 489,
           "ovr": 47
         },
         {
@@ -8316,7 +8316,7 @@
           "value": 4.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 362,
+          "market": 257,
           "ovr": 47
         },
         {
@@ -8334,7 +8334,7 @@
           "value": 4.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5201,
+          "market": 5434,
           "ovr": 46
         },
         {
@@ -8352,7 +8352,7 @@
           "value": 4.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 884,
+          "market": 767,
           "ovr": 46
         },
         {
@@ -8370,7 +8370,7 @@
           "value": 4.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1226,
+          "market": 1042,
           "ovr": 46
         },
         {
@@ -8406,7 +8406,7 @@
           "value": 3.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 195,
+          "market": 123,
           "ovr": 45
         },
         {
@@ -8424,7 +8424,7 @@
           "value": 3.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 662,
+          "market": 601,
           "ovr": 45
         },
         {
@@ -8442,7 +8442,7 @@
           "value": 3.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 381,
+          "market": 245,
           "ovr": 45
         },
         {
@@ -8460,7 +8460,7 @@
           "value": 3.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 781,
+          "market": 691,
           "ovr": 45
         },
         {
@@ -8478,7 +8478,7 @@
           "value": 3.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 503,
+          "market": 456,
           "ovr": 45
         },
         {
@@ -8496,7 +8496,7 @@
           "value": 2.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 774,
+          "market": 685,
           "ovr": 44
         },
         {
@@ -8532,7 +8532,7 @@
           "value": 2.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 276,
+          "market": 230,
           "ovr": 44
         },
         {
@@ -8550,7 +8550,7 @@
           "value": 2.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 43,
+          "market": null,
           "ovr": 44
         },
         {
@@ -8572,24 +8572,6 @@
           "ovr": 44
         },
         {
-          "player_id": "TB",
-          "roster_id": 6,
-          "name": "Buccaneers",
-          "pos": "DEF",
-          "pos1": "DEF",
-          "team": "TB",
-          "age": null,
-          "status": null,
-          "ppw": 2.0,
-          "recent": 2.0,
-          "trend": 0.0,
-          "value": 2.0,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 43
-        },
-        {
           "player_id": "10219",
           "roster_id": 6,
           "name": "Chris Rodriguez",
@@ -8604,7 +8586,7 @@
           "value": 1.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 127,
+          "market": 91,
           "ovr": 43
         },
         {
@@ -8622,7 +8604,7 @@
           "value": 1.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1448,
+          "market": 1401,
           "ovr": 42
         },
         {
@@ -8640,7 +8622,7 @@
           "value": 0.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 394,
+          "market": 390,
           "ovr": 41
         },
         {
@@ -8658,7 +8640,7 @@
           "value": 0.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 98,
+          "market": 37,
           "ovr": 41
         },
         {
@@ -8676,7 +8658,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4963,
+          "market": 4769,
           "ovr": 40
         },
         {
@@ -8694,7 +8676,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 476,
+          "market": 566,
           "ovr": 40
         },
         {
@@ -8712,7 +8694,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 908,
+          "market": 774,
           "ovr": 40
         },
         {
@@ -8730,7 +8712,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 374,
+          "market": 432,
           "ovr": 40
         },
         {
@@ -8748,7 +8730,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 840,
+          "market": 837,
           "ovr": 40
         },
         {
@@ -8766,7 +8748,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 514,
+          "market": 592,
           "ovr": 40
         },
         {
@@ -8802,7 +8784,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 63,
+          "market": 184,
           "ovr": 40
         },
         {
@@ -8813,6 +8795,24 @@
           "pos1": "QB",
           "team": "LV",
           "age": 22,
+          "status": null,
+          "ppw": 0.0,
+          "recent": 0.0,
+          "trend": 0.0,
+          "value": 0.0,
+          "signal": "HOLD",
+          "signal_reason": "no recent production",
+          "market": 33,
+          "ovr": 40
+        },
+        {
+          "player_id": "CAR",
+          "roster_id": 6,
+          "name": "Panthers",
+          "pos": "DEF",
+          "pos1": "DEF",
+          "team": "CAR",
+          "age": null,
           "status": null,
           "ppw": 0.0,
           "recent": 0.0,
@@ -8838,7 +8838,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 36,
+          "market": 58,
           "ovr": 40
         },
         {
@@ -8856,7 +8856,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 282,
+          "market": 411,
           "ovr": 40
         },
         {
@@ -8874,7 +8874,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1926,
+          "market": 1769,
           "ovr": 40
         }
       ],
@@ -8925,7 +8925,7 @@
           "team": "The Superb Owl Party",
           "roster_id": 6,
           "starters_value": 204.1,
-          "total_value": 236.4,
+          "total_value": 234.4,
           "avg_age": 26.3,
           "top_player": "Zay Flowers",
           "top_ovr": 80,
@@ -9050,7 +9050,7 @@
             "value": 39.6,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 9618,
+            "market": 9656,
             "ovr": 98
           },
           {
@@ -9068,7 +9068,7 @@
             "value": 27.8,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 2041,
+            "market": 1671,
             "ovr": 81
           },
           {
@@ -9086,7 +9086,7 @@
             "value": 27.8,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 1546,
+            "market": 1576,
             "ovr": 81
           },
           {
@@ -9104,7 +9104,7 @@
             "value": 26.2,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 1120,
+            "market": 1089,
             "ovr": 79
           },
           {
@@ -9122,7 +9122,7 @@
             "value": 25.3,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 1684,
+            "market": 1677,
             "ovr": 77
           },
           {
@@ -9140,7 +9140,7 @@
             "value": 22.5,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 2036,
+            "market": 2234,
             "ovr": 73
           }
         ],
@@ -9160,7 +9160,7 @@
             "value": 24.7,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 6967,
+            "market": 6972,
             "ovr": 76
           },
           {
@@ -9178,7 +9178,7 @@
             "value": 14.8,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 5138,
+            "market": 5496,
             "ovr": 62
           },
           {
@@ -9196,7 +9196,7 @@
             "value": 12.4,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 2183,
+            "market": 2409,
             "ovr": 58
           },
           {
@@ -9214,7 +9214,7 @@
             "value": 10.6,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 542,
+            "market": 534,
             "ovr": 56
           },
           {
@@ -9232,7 +9232,7 @@
             "value": 2.8,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 774,
+            "market": 685,
             "ovr": 44
           },
           {
@@ -9250,7 +9250,7 @@
             "value": 2.4,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 43,
+            "market": null,
             "ovr": 44
           }
         ]
@@ -10030,7 +10030,7 @@
           "value": 40.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 10374,
+          "market": 10306,
           "ovr": 99
         },
         {
@@ -10048,7 +10048,7 @@
           "value": 39.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 9817,
+          "market": 10015,
           "ovr": 98
         },
         {
@@ -10066,7 +10066,7 @@
           "value": 33.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 8877,
+          "market": 8686,
           "ovr": 89
         },
         {
@@ -10084,7 +10084,7 @@
           "value": 30.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 7347,
+          "market": 7603,
           "ovr": 85
         },
         {
@@ -10102,7 +10102,7 @@
           "value": 29.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 10480,
+          "market": 10352,
           "ovr": 84
         },
         {
@@ -10120,7 +10120,7 @@
           "value": 27.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 4177,
+          "market": 4260,
           "ovr": 81
         },
         {
@@ -10138,7 +10138,7 @@
           "value": 27.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3759,
+          "market": 3809,
           "ovr": 80
         },
         {
@@ -10156,7 +10156,7 @@
           "value": 26.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5280,
+          "market": 5460,
           "ovr": 79
         },
         {
@@ -10174,7 +10174,7 @@
           "value": 26.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 7307,
+          "market": 7305,
           "ovr": 79
         },
         {
@@ -10192,7 +10192,7 @@
           "value": 25.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 4918,
+          "market": 4666,
           "ovr": 77
         },
         {
@@ -10210,7 +10210,7 @@
           "value": 25.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5321,
+          "market": 5566,
           "ovr": 77
         },
         {
@@ -10228,7 +10228,7 @@
           "value": 24.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 7947,
+          "market": 8163,
           "ovr": 77
         },
         {
@@ -10246,7 +10246,7 @@
           "value": 24.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 5862,
+          "market": 5891,
           "ovr": 76
         },
         {
@@ -10264,7 +10264,7 @@
           "value": 24.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2441,
+          "market": 2612,
           "ovr": 76
         },
         {
@@ -10282,7 +10282,7 @@
           "value": 22.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3985,
+          "market": 3633,
           "ovr": 73
         },
         {
@@ -10300,7 +10300,7 @@
           "value": 22.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 5188,
+          "market": 5508,
           "ovr": 73
         },
         {
@@ -10318,7 +10318,7 @@
           "value": 22.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4445,
+          "market": 4150,
           "ovr": 73
         },
         {
@@ -10336,7 +10336,7 @@
           "value": 22.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 9236,
+          "market": 9335,
           "ovr": 73
         },
         {
@@ -10354,7 +10354,7 @@
           "value": 22.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4527,
+          "market": 4537,
           "ovr": 73
         },
         {
@@ -10372,7 +10372,7 @@
           "value": 21.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 6271,
+          "market": 6588,
           "ovr": 72
         },
         {
@@ -10390,7 +10390,7 @@
           "value": 21.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 8275,
+          "market": 8052,
           "ovr": 71
         },
         {
@@ -10408,7 +10408,7 @@
           "value": 20.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 6630,
+          "market": 6687,
           "ovr": 71
         },
         {
@@ -10426,7 +10426,7 @@
           "value": 20.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3156,
+          "market": 2956,
           "ovr": 71
         },
         {
@@ -10444,7 +10444,7 @@
           "value": 20.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2676,
+          "market": 3041,
           "ovr": 71
         },
         {
@@ -10462,7 +10462,7 @@
           "value": 20.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2442,
+          "market": 2919,
           "ovr": 70
         },
         {
@@ -10480,7 +10480,7 @@
           "value": 18.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4107,
+          "market": 4078,
           "ovr": 68
         },
         {
@@ -10498,7 +10498,7 @@
           "value": 18.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1280,
+          "market": 1102,
           "ovr": 67
         },
         {
@@ -10516,7 +10516,7 @@
           "value": 18.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1909,
+          "market": 2033,
           "ovr": 67
         },
         {
@@ -10534,7 +10534,7 @@
           "value": 18.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 4109,
+          "market": 3716,
           "ovr": 67
         },
         {
@@ -10552,7 +10552,7 @@
           "value": 18.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2788,
+          "market": 2840,
           "ovr": 66
         },
         {
@@ -10570,7 +10570,7 @@
           "value": 17.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3747,
+          "market": 3718,
           "ovr": 66
         },
         {
@@ -10588,7 +10588,7 @@
           "value": 17.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3122,
+          "market": 2522,
           "ovr": 66
         },
         {
@@ -10606,7 +10606,7 @@
           "value": 17.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2169,
+          "market": 2241,
           "ovr": 66
         },
         {
@@ -10624,7 +10624,7 @@
           "value": 17.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2716,
+          "market": 2920,
           "ovr": 66
         },
         {
@@ -10642,7 +10642,7 @@
           "value": 16.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1690,
+          "market": 1395,
           "ovr": 65
         },
         {
@@ -10660,7 +10660,7 @@
           "value": 16.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5122,
+          "market": 5071,
           "ovr": 64
         },
         {
@@ -10678,7 +10678,7 @@
           "value": 16.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3157,
+          "market": 3342,
           "ovr": 64
         },
         {
@@ -10696,7 +10696,7 @@
           "value": 15.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1921,
+          "market": 1811,
           "ovr": 63
         },
         {
@@ -10714,7 +10714,7 @@
           "value": 15.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 9235,
+          "market": 9196,
           "ovr": 63
         },
         {
@@ -10750,7 +10750,7 @@
           "value": 15.1,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1876,
+          "market": 2013,
           "ovr": 62
         },
         {
@@ -10804,7 +10804,7 @@
           "value": 14.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 4108,
+          "market": 4451,
           "ovr": 62
         },
         {
@@ -10822,7 +10822,7 @@
           "value": 14.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 775,
+          "market": 656,
           "ovr": 62
         },
         {
@@ -10840,7 +10840,7 @@
           "value": 14.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3704,
+          "market": 3741,
           "ovr": 62
         },
         {
@@ -10858,7 +10858,7 @@
           "value": 14.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2208,
+          "market": 2432,
           "ovr": 62
         },
         {
@@ -10876,7 +10876,7 @@
           "value": 14.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2717,
+          "market": 2655,
           "ovr": 62
         },
         {
@@ -10894,7 +10894,7 @@
           "value": 14.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 945,
+          "market": 1015,
           "ovr": 61
         },
         {
@@ -10930,7 +10930,7 @@
           "value": 14.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3258,
+          "market": 3682,
           "ovr": 61
         },
         {
@@ -10948,7 +10948,7 @@
           "value": 14.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 6288,
+          "market": 6389,
           "ovr": 61
         },
         {
@@ -10966,7 +10966,7 @@
           "value": 13.9,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2334,
+          "market": 2287,
           "ovr": 60
         },
         {
@@ -10984,7 +10984,7 @@
           "value": 13.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1752,
+          "market": 1645,
           "ovr": 60
         },
         {
@@ -11002,7 +11002,7 @@
           "value": 13.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4550,
+          "market": 4887,
           "ovr": 60
         },
         {
@@ -11020,7 +11020,7 @@
           "value": 13.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2379,
+          "market": 2332,
           "ovr": 60
         },
         {
@@ -11038,7 +11038,7 @@
           "value": 13.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 6459,
+          "market": 6489,
           "ovr": 59
         },
         {
@@ -11056,7 +11056,7 @@
           "value": 13.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 443,
+          "market": 394,
           "ovr": 59
         },
         {
@@ -11074,7 +11074,7 @@
           "value": 13.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 8129,
+          "market": 7822,
           "ovr": 59
         },
         {
@@ -11092,7 +11092,7 @@
           "value": 12.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3785,
+          "market": 3616,
           "ovr": 59
         },
         {
@@ -11110,7 +11110,7 @@
           "value": 12.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1789,
+          "market": 2031,
           "ovr": 58
         },
         {
@@ -11128,7 +11128,7 @@
           "value": 12.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2128,
+          "market": 2255,
           "ovr": 58
         },
         {
@@ -11146,7 +11146,7 @@
           "value": 12.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2678,
+          "market": 2421,
           "ovr": 58
         },
         {
@@ -11164,7 +11164,7 @@
           "value": 12.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2623,
+          "market": 2451,
           "ovr": 58
         },
         {
@@ -11182,7 +11182,7 @@
           "value": 12.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 4103,
+          "market": 3962,
           "ovr": 58
         },
         {
@@ -11200,7 +11200,7 @@
           "value": 12.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4504,
+          "market": 4464,
           "ovr": 58
         },
         {
@@ -11218,7 +11218,7 @@
           "value": 12.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2647,
+          "market": 2431,
           "ovr": 58
         },
         {
@@ -11236,7 +11236,7 @@
           "value": 11.9,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2695,
+          "market": 2576,
           "ovr": 58
         },
         {
@@ -11254,7 +11254,7 @@
           "value": 11.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2953,
+          "market": 3162,
           "ovr": 57
         },
         {
@@ -11272,7 +11272,7 @@
           "value": 11.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2505,
+          "market": 2372,
           "ovr": 57
         },
         {
@@ -11290,7 +11290,7 @@
           "value": 11.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3260,
+          "market": 3221,
           "ovr": 57
         },
         {
@@ -11308,7 +11308,7 @@
           "value": 11.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1345,
+          "market": 1152,
           "ovr": 56
         },
         {
@@ -11326,7 +11326,7 @@
           "value": 10.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 314,
+          "market": 313,
           "ovr": 56
         },
         {
@@ -11344,7 +11344,7 @@
           "value": 10.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1956,
+          "market": 1895,
           "ovr": 56
         },
         {
@@ -11380,7 +11380,7 @@
           "value": 10.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1010,
+          "market": 891,
           "ovr": 55
         },
         {
@@ -11398,7 +11398,7 @@
           "value": 10.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1597,
+          "market": 1395,
           "ovr": 55
         },
         {
@@ -11416,7 +11416,7 @@
           "value": 9.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2069,
+          "market": 2044,
           "ovr": 55
         },
         {
@@ -11434,7 +11434,7 @@
           "value": 9.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 763,
+          "market": 699,
           "ovr": 54
         },
         {
@@ -11452,7 +11452,7 @@
           "value": 9.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 814,
+          "market": 654,
           "ovr": 54
         },
         {
@@ -11470,7 +11470,7 @@
           "value": 9.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1298,
+          "market": 1390,
           "ovr": 54
         },
         {
@@ -11488,7 +11488,7 @@
           "value": 9.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 573,
+          "market": 599,
           "ovr": 54
         },
         {
@@ -11524,7 +11524,7 @@
           "value": 9.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 444,
+          "market": 434,
           "ovr": 54
         },
         {
@@ -11542,7 +11542,7 @@
           "value": 9.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1161,
+          "market": 1131,
           "ovr": 54
         },
         {
@@ -11560,7 +11560,7 @@
           "value": 9.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 7217,
+          "market": 7665,
           "ovr": 53
         },
         {
@@ -11578,7 +11578,7 @@
           "value": 9.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1114,
+          "market": 1076,
           "ovr": 53
         },
         {
@@ -11632,7 +11632,7 @@
           "value": 8.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 440,
+          "market": 425,
           "ovr": 53
         },
         {
@@ -11650,7 +11650,7 @@
           "value": 8.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 239,
+          "market": 331,
           "ovr": 52
         },
         {
@@ -11668,7 +11668,7 @@
           "value": 8.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 396,
+          "market": 356,
           "ovr": 52
         },
         {
@@ -11686,7 +11686,7 @@
           "value": 8.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 928,
+          "market": 733,
           "ovr": 52
         },
         {
@@ -11704,7 +11704,7 @@
           "value": 8.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3649,
+          "market": 3689,
           "ovr": 52
         },
         {
@@ -11722,7 +11722,7 @@
           "value": 8.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1911,
+          "market": 1867,
           "ovr": 52
         },
         {
@@ -11740,7 +11740,7 @@
           "value": 8.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 791,
+          "market": 672,
           "ovr": 52
         },
         {
@@ -11758,7 +11758,7 @@
           "value": 8.1,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 863,
+          "market": 777,
           "ovr": 52
         },
         {
@@ -11776,7 +11776,7 @@
           "value": 8.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2906,
+          "market": 3212,
           "ovr": 52
         },
         {
@@ -11794,7 +11794,7 @@
           "value": 8.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 700,
+          "market": 705,
           "ovr": 52
         },
         {
@@ -11812,7 +11812,7 @@
           "value": 7.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 724,
+          "market": 618,
           "ovr": 51
         },
         {
@@ -11830,7 +11830,7 @@
           "value": 7.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1059,
+          "market": 975,
           "ovr": 51
         },
         {
@@ -11848,7 +11848,7 @@
           "value": 7.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 752,
+          "market": 641,
           "ovr": 51
         },
         {
@@ -11866,7 +11866,7 @@
           "value": 7.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1746,
+          "market": 1694,
           "ovr": 51
         },
         {
@@ -11884,7 +11884,7 @@
           "value": 7.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3536,
+          "market": 4036,
           "ovr": 51
         },
         {
@@ -11920,7 +11920,7 @@
           "value": 7.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1394,
+          "market": 1266,
           "ovr": 51
         },
         {
@@ -11938,7 +11938,7 @@
           "value": 7.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1288,
+          "market": 1567,
           "ovr": 51
         },
         {
@@ -11956,7 +11956,7 @@
           "value": 7.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1216,
+          "market": 1155,
           "ovr": 51
         },
         {
@@ -11974,7 +11974,7 @@
           "value": 7.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 128,
+          "market": 125,
           "ovr": 50
         },
         {
@@ -12028,7 +12028,7 @@
           "value": 6.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 626,
+          "market": 610,
           "ovr": 50
         },
         {
@@ -12046,7 +12046,7 @@
           "value": 6.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1131,
+          "market": 1068,
           "ovr": 50
         },
         {
@@ -12064,7 +12064,7 @@
           "value": 6.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 978,
+          "market": 950,
           "ovr": 50
         },
         {
@@ -12082,7 +12082,7 @@
           "value": 6.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 407,
+          "market": 423,
           "ovr": 50
         },
         {
@@ -12136,7 +12136,7 @@
           "value": 5.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 282,
+          "market": 170,
           "ovr": 48
         },
         {
@@ -12154,7 +12154,7 @@
           "value": 5.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2071,
+          "market": 2048,
           "ovr": 48
         },
         {
@@ -12172,7 +12172,7 @@
           "value": 5.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 883,
+          "market": 726,
           "ovr": 48
         },
         {
@@ -12208,7 +12208,7 @@
           "value": 4.9,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 536,
+          "market": 569,
           "ovr": 47
         },
         {
@@ -12226,7 +12226,7 @@
           "value": 4.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 247,
+          "market": 235,
           "ovr": 47
         },
         {
@@ -12244,7 +12244,7 @@
           "value": 4.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 306,
+          "market": 219,
           "ovr": 47
         },
         {
@@ -12262,7 +12262,7 @@
           "value": 4.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 641,
+          "market": 569,
           "ovr": 46
         },
         {
@@ -12280,7 +12280,7 @@
           "value": 4.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4155,
+          "market": 4353,
           "ovr": 46
         },
         {
@@ -12298,7 +12298,7 @@
           "value": 4.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1081,
+          "market": 936,
           "ovr": 46
         },
         {
@@ -12352,7 +12352,7 @@
           "value": 3.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 599,
+          "market": 585,
           "ovr": 45
         },
         {
@@ -12370,7 +12370,7 @@
           "value": 3.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 606,
+          "market": 548,
           "ovr": 45
         },
         {
@@ -12388,7 +12388,7 @@
           "value": 3.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 169,
+          "market": 106,
           "ovr": 45
         },
         {
@@ -12406,7 +12406,7 @@
           "value": 3.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 295,
+          "market": 189,
           "ovr": 45
         },
         {
@@ -12424,7 +12424,7 @@
           "value": 3.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 576,
+          "market": 524,
           "ovr": 45
         },
         {
@@ -12442,7 +12442,7 @@
           "value": 2.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 906,
+          "market": 809,
           "ovr": 44
         },
         {
@@ -12460,7 +12460,7 @@
           "value": 2.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 237,
+          "market": 200,
           "ovr": 44
         },
         {
@@ -12532,7 +12532,7 @@
           "value": 0.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2211,
+          "market": 1823,
           "ovr": 41
         },
         {
@@ -12550,7 +12550,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 60,
+          "market": 145,
           "ovr": 40
         },
         {
@@ -12568,7 +12568,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3187,
+          "market": 3049,
           "ovr": 40
         },
         {
@@ -12586,7 +12586,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1329,
+          "market": 1262,
           "ovr": 40
         },
         {
@@ -12604,7 +12604,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 27,
+          "market": 34,
           "ovr": 40
         },
         {
@@ -12622,7 +12622,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 5269,
+          "market": 4959,
           "ovr": 40
         },
         {
@@ -12640,7 +12640,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3270,
+          "market": 3348,
           "ovr": 40
         },
         {
@@ -12658,7 +12658,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 429,
+          "market": 521,
           "ovr": 40
         },
         {
@@ -12676,7 +12676,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": null,
+          "market": 173,
           "ovr": 40
         }
       ],
@@ -12822,7 +12822,7 @@
             "value": 39.6,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 9817,
+            "market": 10015,
             "ovr": 98
           },
           {
@@ -12840,7 +12840,7 @@
             "value": 24.7,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 5862,
+            "market": 5891,
             "ovr": 76
           },
           {
@@ -12858,7 +12858,7 @@
             "value": 22.5,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 5188,
+            "market": 5508,
             "ovr": 73
           },
           {
@@ -12876,7 +12876,7 @@
             "value": 21.7,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 6271,
+            "market": 6588,
             "ovr": 72
           },
           {
@@ -12894,7 +12894,7 @@
             "value": 20.8,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 2676,
+            "market": 3041,
             "ovr": 71
           },
           {
@@ -12912,7 +12912,7 @@
             "value": 20.6,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 2442,
+            "market": 2919,
             "ovr": 70
           }
         ],
@@ -12932,7 +12932,7 @@
             "value": 27.8,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 4177,
+            "market": 4260,
             "ovr": 81
           },
           {
@@ -12950,7 +12950,7 @@
             "value": 25.3,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 4918,
+            "market": 4666,
             "ovr": 77
           },
           {
@@ -12968,7 +12968,7 @@
             "value": 14.6,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 945,
+            "market": 1015,
             "ovr": 61
           },
           {
@@ -12986,7 +12986,7 @@
             "value": 12.4,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 1789,
+            "market": 2031,
             "ovr": 58
           },
           {
@@ -13004,7 +13004,7 @@
             "value": 5.4,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 282,
+            "market": 170,
             "ovr": 48
           },
           {
@@ -13022,7 +13022,7 @@
             "value": 2.8,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 906,
+            "market": 809,
             "ovr": 44
           }
         ]
