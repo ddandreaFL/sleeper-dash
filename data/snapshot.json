@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T00:27:09+00:00",
+  "generated_at": "2026-09-26T14:56:37+00:00",
   "demo": false,
   "leagues": [
     {
@@ -285,62 +285,62 @@
         {
           "team": "Luka Deez Nuts",
           "roster_id": 2,
-          "strength": 286.4
-        },
-        {
-          "team": "Too Klutch Klan",
-          "roster_id": 7,
-          "strength": 277.5
+          "strength": 287.8
         },
         {
           "team": "Naz Reid ",
           "roster_id": 11,
-          "strength": 276.4
+          "strength": 277.9
         },
         {
-          "team": "Epoole10",
-          "roster_id": 3,
-          "strength": 260.5
+          "team": "Too Klutch Klan",
+          "roster_id": 7,
+          "strength": 276.6
         },
         {
           "team": "FantasyHeadshot",
           "roster_id": 1,
-          "strength": 259.8
+          "strength": 259.6
         },
         {
           "team": "DingDawg83",
           "roster_id": 5,
-          "strength": 255.0
+          "strength": 257.4
+        },
+        {
+          "team": "Epoole10",
+          "roster_id": 3,
+          "strength": 256.7
         },
         {
           "team": "The Miami FlipFlops",
           "roster_id": 6,
-          "strength": 244.7
-        },
-        {
-          "team": "OKC Orgymen",
-          "roster_id": 10,
-          "strength": 243.4
+          "strength": 245.6
         },
         {
           "team": "PeteAmmo1225",
           "roster_id": 9,
-          "strength": 243.1
+          "strength": 242.5
+        },
+        {
+          "team": "OKC Orgymen",
+          "roster_id": 10,
+          "strength": 241.6
         },
         {
           "team": "Locked Up ",
           "roster_id": 12,
-          "strength": 240.2
+          "strength": 238.2
         },
         {
           "team": "Broward Heatles",
           "roster_id": 8,
-          "strength": 223.7
+          "strength": 225.0
         },
         {
           "team": "Top Goy \ud83c\udff4",
           "roster_id": 4,
-          "strength": 215.0
+          "strength": 213.4
         }
       ],
       "my_players": [
@@ -351,8 +351,8 @@
           "team": "MIN",
           "age": 25,
           "status": null,
-          "ppw": 30.8,
-          "total": 709.2
+          "ppw": 32.0,
+          "total": 735.2
         },
         {
           "player_id": "1739",
@@ -392,7 +392,7 @@
           "age": 22,
           "status": null,
           "ppw": 24.1,
-          "total": 602.0
+          "total": 603.8
         },
         {
           "player_id": "2054",
@@ -401,8 +401,8 @@
           "team": "NOP",
           "age": 26,
           "status": null,
-          "ppw": 23.1,
-          "total": 439.2
+          "ppw": 23.5,
+          "total": 446.0
         },
         {
           "player_id": "2583",
@@ -421,8 +421,8 @@
           "team": "SAC",
           "age": 23,
           "status": null,
-          "ppw": 22.0,
-          "total": 417.2
+          "ppw": 21.8,
+          "total": 413.5
         },
         {
           "player_id": "2766",
@@ -491,8 +491,8 @@
           "team": "DET",
           "age": 29,
           "status": null,
-          "ppw": 18.0,
-          "total": 414.5
+          "ppw": 17.0,
+          "total": 356.2
         },
         {
           "player_id": "4738",
@@ -522,7 +522,7 @@
           "slots": 1,
           "flex": 2,
           "surplus": 7,
-          "buried_value": 145.1,
+          "buried_value": 143.9,
           "best_buried": "Kel'el Ware"
         },
         {
@@ -531,7 +531,7 @@
           "slots": 1,
           "flex": 3,
           "surplus": 6,
-          "buried_value": 130.2,
+          "buried_value": 129.5,
           "best_buried": "Kel'el Ware"
         },
         {
@@ -558,7 +558,7 @@
           "slots": 1,
           "flex": 3,
           "surplus": 3,
-          "buried_value": 66.6,
+          "buried_value": 67.0,
           "best_buried": "Zion Williamson"
         }
       ],
@@ -567,13 +567,13 @@
         "me": {
           "team": "Broward Heatles",
           "points": 102.8,
-          "expected": 209.6,
+          "expected": 211.0,
           "lineup": [
             {
               "name": "LaMelo Ball",
               "status": null,
               "live": 27.5,
-              "avg": 30.8
+              "avg": 32.0
             },
             {
               "name": "Andrew Nembhard",
@@ -591,13 +591,13 @@
               "name": "Zion Williamson",
               "status": null,
               "live": 0.0,
-              "avg": 23.1
+              "avg": 23.5
             },
             {
               "name": "Maxime Raynaud",
               "status": null,
               "live": 26.5,
-              "avg": 22.0
+              "avg": 21.8
             },
             {
               "name": "Kyle Filipowski",
@@ -629,66 +629,66 @@
         "opp": {
           "team": "FantasyHeadshot",
           "points": 34.8,
-          "expected": 246.3,
+          "expected": 247.1,
           "lineup": [
             {
               "name": "Victor Wembanyama",
               "status": null,
               "live": 0.0,
-              "avg": 40.5
+              "avg": 41.6
             },
             {
               "name": "Jalen Johnson",
               "status": null,
               "live": 0.0,
-              "avg": 39.6
+              "avg": 39.3
             },
             {
               "name": "James Harden",
               "status": null,
               "live": 0.0,
-              "avg": 32.2
+              "avg": 32.3
             },
             {
               "name": "Amen Thompson",
               "status": null,
               "live": 0.0,
-              "avg": 27.4
-            },
-            {
-              "name": "Isaiah Hartenstein",
-              "status": "DTD",
-              "live": 0.0,
-              "avg": 23.3
+              "avg": 27.3
             },
             {
               "name": "CJ McCollum",
               "status": null,
               "live": 0.0,
-              "avg": 23.0
+              "avg": 23.1
             },
             {
-              "name": "P.J. Washington",
-              "status": null,
+              "name": "Isaiah Hartenstein",
+              "status": "DTD",
               "live": 0.0,
-              "avg": 20.3
-            },
-            {
-              "name": "Brandin Podziemski",
-              "status": null,
-              "live": 11.5,
-              "avg": 20.0
+              "avg": 22.1
             },
             {
               "name": "Reed Sheppard",
               "status": null,
               "live": 23.2,
+              "avg": 20.9
+            },
+            {
+              "name": "Brandin Podziemski",
+              "status": null,
+              "live": 11.5,
+              "avg": 20.5
+            },
+            {
+              "name": "P.J. Washington",
+              "status": null,
+              "live": 0.0,
               "avg": 20.0
             }
           ],
           "hurt": []
         },
-        "edge": -36.7,
+        "edge": -36.1,
         "bench_alerts": [
           {
             "bench": "Domantas Sabonis",
@@ -708,18 +708,10 @@
         {
           "team": "PeteAmmo1225",
           "roster_id": 9,
-          "fit_score": 64.3,
+          "fit_score": 64.1,
           "notes": "SG 64 vs league 98; SF 69 vs league 100",
           "their_best": "Giannis Antetokounmpo",
           "their_best_ppw": 36.1
-        },
-        {
-          "team": "Locked Up ",
-          "roster_id": 12,
-          "fit_score": 21.0,
-          "notes": "C 62 vs league 84",
-          "their_best": "Cade Cunningham",
-          "their_best_ppw": 37.8
         }
       ],
       "values": [
@@ -732,10 +724,10 @@
           "team": "SAS",
           "age": 22,
           "status": null,
-          "ppw": 40.5,
-          "recent": 43.8,
-          "trend": 3.4,
-          "value": 46.6,
+          "ppw": 41.6,
+          "recent": 44.9,
+          "trend": 3.3,
+          "value": 47.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
@@ -750,14 +742,14 @@
           "team": "LAL",
           "age": 27,
           "status": null,
-          "ppw": 43.7,
-          "recent": 42.8,
-          "trend": -1.0,
-          "value": 45.0,
+          "ppw": 45.5,
+          "recent": 45.1,
+          "trend": -0.4,
+          "value": 46.9,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 97
+          "ovr": 98
         },
         {
           "player_id": "2284",
@@ -768,48 +760,12 @@
           "team": "ATL",
           "age": 24,
           "status": null,
-          "ppw": 39.6,
+          "ppw": 39.3,
           "recent": 35.8,
-          "trend": -3.8,
-          "value": 43.6,
+          "trend": -3.5,
+          "value": 43.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": null,
-          "ovr": 95
-        },
-        {
-          "player_id": "2313",
-          "roster_id": 7,
-          "name": "Josh Giddey",
-          "pos": "PG",
-          "pos1": "PG",
-          "team": "CHI",
-          "age": 23,
-          "status": "DTD",
-          "ppw": 36.5,
-          "recent": 41.2,
-          "trend": 4.8,
-          "value": 42.0,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
-          "market": null,
-          "ovr": 93
-        },
-        {
-          "player_id": "2267",
-          "roster_id": 12,
-          "name": "Cade Cunningham",
-          "pos": "PG",
-          "pos1": "PG",
-          "team": "DET",
-          "age": 25,
-          "status": null,
-          "ppw": 37.8,
-          "recent": 30.4,
-          "trend": -5.9,
-          "value": 41.6,
-          "signal": "HOLD",
-          "signal_reason": "steady",
           "market": null,
           "ovr": 93
         },
@@ -822,14 +778,50 @@
           "team": "DEN",
           "age": 31,
           "status": null,
-          "ppw": 47.6,
+          "ppw": 49.1,
           "recent": 43.9,
-          "trend": -3.7,
-          "value": 40.5,
+          "trend": -5.2,
+          "value": 41.7,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
           "ovr": 91
+        },
+        {
+          "player_id": "2313",
+          "roster_id": 7,
+          "name": "Josh Giddey",
+          "pos": "PG",
+          "pos1": "PG",
+          "team": "CHI",
+          "age": 23,
+          "status": "DTD",
+          "ppw": 36.1,
+          "recent": 45.4,
+          "trend": 9.3,
+          "value": 41.5,
+          "signal": "BUY",
+          "signal_reason": "ascending young asset",
+          "market": null,
+          "ovr": 91
+        },
+        {
+          "player_id": "2267",
+          "roster_id": 12,
+          "name": "Cade Cunningham",
+          "pos": "PG",
+          "pos1": "PG",
+          "team": "DET",
+          "age": 25,
+          "status": null,
+          "ppw": 37.2,
+          "recent": 30.4,
+          "trend": -5.3,
+          "value": 40.9,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 90
         },
         {
           "player_id": "2441",
@@ -847,7 +839,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 91
+          "ovr": 90
         },
         {
           "player_id": "2126",
@@ -858,14 +850,14 @@
           "team": "PHI",
           "age": 25,
           "status": null,
-          "ppw": 35.1,
+          "ppw": 35.0,
           "recent": 20.3,
-          "trend": -14.8,
-          "value": 38.6,
+          "trend": -14.7,
+          "value": 38.5,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 89
+          "ovr": 88
         },
         {
           "player_id": "2133",
@@ -876,28 +868,28 @@
           "team": "MIN",
           "age": 25,
           "status": null,
-          "ppw": 35.1,
+          "ppw": 35.0,
           "recent": 37.4,
-          "trend": 2.3,
-          "value": 38.6,
+          "trend": 2.4,
+          "value": 38.5,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 89
+          "ovr": 88
         },
         {
-          "player_id": "4760",
-          "roster_id": 3,
-          "name": "Cooper Flagg",
-          "pos": "PG/SF/SG",
-          "pos1": "PG",
-          "team": "DAL",
-          "age": 19,
+          "player_id": "2308",
+          "roster_id": 6,
+          "name": "Alperen \u015eeng\u00fcn",
+          "pos": "C/PF",
+          "pos1": "C",
+          "team": "HOU",
+          "age": 24,
           "status": null,
-          "ppw": 32.5,
-          "recent": 32.2,
-          "trend": -0.2,
-          "value": 37.4,
+          "ppw": 34.8,
+          "recent": 35.7,
+          "trend": 0.8,
+          "value": 38.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
@@ -912,10 +904,10 @@
           "team": "TOR",
           "age": 25,
           "status": null,
-          "ppw": 34.0,
+          "ppw": 34.5,
           "recent": 38.4,
-          "trend": 4.4,
-          "value": 37.4,
+          "trend": 3.9,
+          "value": 38.0,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
@@ -930,32 +922,32 @@
           "team": "DET",
           "age": 22,
           "status": null,
-          "ppw": 32.3,
+          "ppw": 32.4,
           "recent": 33.4,
-          "trend": 1.1,
-          "value": 37.1,
+          "trend": 1.0,
+          "value": 37.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 87
+          "ovr": 86
         },
         {
-          "player_id": "2308",
-          "roster_id": 6,
-          "name": "Alperen \u015eeng\u00fcn",
-          "pos": "C/PF",
-          "pos1": "C",
-          "team": "HOU",
-          "age": 24,
+          "player_id": "4760",
+          "roster_id": 3,
+          "name": "Cooper Flagg",
+          "pos": "PG/SF/SG",
+          "pos1": "PG",
+          "team": "DAL",
+          "age": 19,
           "status": null,
-          "ppw": 33.6,
-          "recent": 35.7,
-          "trend": 2.1,
-          "value": 37.0,
+          "ppw": 31.5,
+          "recent": 32.2,
+          "trend": 0.8,
+          "value": 36.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 87
+          "ovr": 85
         },
         {
           "player_id": "2181",
@@ -973,7 +965,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 85
+          "ovr": 84
         },
         {
           "player_id": "1822",
@@ -991,61 +983,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 85
-        },
-        {
-          "player_id": "2259",
-          "roster_id": 2,
-          "name": "Evan Mobley",
-          "pos": "C/PF",
-          "pos1": "C",
-          "team": "CLE",
-          "age": 25,
-          "status": null,
-          "ppw": 31.8,
-          "recent": 36.8,
-          "trend": 4.9,
-          "value": 35.0,
-          "signal": "SELL",
-          "signal_reason": "outproducing baseline, sell high",
-          "market": null,
           "ovr": 84
-        },
-        {
-          "player_id": "2728",
-          "roster_id": 7,
-          "name": "Donovan Clingan",
-          "pos": "C",
-          "pos1": "C",
-          "team": "POR",
-          "age": 22,
-          "status": null,
-          "ppw": 29.8,
-          "recent": 22.1,
-          "trend": -7.6,
-          "value": 34.3,
-          "signal": "BUY",
-          "signal_reason": "young and slumping, buy low",
-          "market": null,
-          "ovr": 83
-        },
-        {
-          "player_id": "1957",
-          "roster_id": 12,
-          "name": "Shai Gilgeous-Alexander",
-          "pos": "PG",
-          "pos1": "PG",
-          "team": "OKC",
-          "age": 28,
-          "status": null,
-          "ppw": 35.9,
-          "recent": 26.8,
-          "trend": -9.1,
-          "value": 34.1,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 83
         },
         {
           "player_id": "2179",
@@ -1056,10 +994,46 @@
           "team": "MIN",
           "age": 25,
           "status": null,
-          "ppw": 30.8,
+          "ppw": 32.0,
           "recent": 30.8,
-          "trend": 0.1,
-          "value": 33.9,
+          "trend": -1.2,
+          "value": 35.2,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 83
+        },
+        {
+          "player_id": "2728",
+          "roster_id": 7,
+          "name": "Donovan Clingan",
+          "pos": "C",
+          "pos1": "C",
+          "team": "POR",
+          "age": 22,
+          "status": null,
+          "ppw": 30.3,
+          "recent": 22.1,
+          "trend": -8.1,
+          "value": 34.8,
+          "signal": "BUY",
+          "signal_reason": "young and slumping, buy low",
+          "market": null,
+          "ovr": 83
+        },
+        {
+          "player_id": "2259",
+          "roster_id": 2,
+          "name": "Evan Mobley",
+          "pos": "C/PF",
+          "pos1": "C",
+          "team": "CLE",
+          "age": 25,
+          "status": null,
+          "ppw": 31.4,
+          "recent": 33.4,
+          "trend": 2.1,
+          "value": 34.5,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
@@ -1081,7 +1055,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 82
+          "ovr": 81
         },
         {
           "player_id": "2455",
@@ -1099,7 +1073,25 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 82
+          "ovr": 81
+        },
+        {
+          "player_id": "1957",
+          "roster_id": 12,
+          "name": "Shai Gilgeous-Alexander",
+          "pos": "PG",
+          "pos1": "PG",
+          "team": "OKC",
+          "age": 28,
+          "status": null,
+          "ppw": 34.8,
+          "recent": 25.8,
+          "trend": -9.0,
+          "value": 33.1,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 81
         },
         {
           "player_id": "2458",
@@ -1110,32 +1102,14 @@
           "team": "ORL",
           "age": 23,
           "status": null,
-          "ppw": 29.0,
+          "ppw": 28.6,
           "recent": 34.3,
-          "trend": 5.1,
-          "value": 33.3,
+          "trend": 5.5,
+          "value": 32.9,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 82
-        },
-        {
-          "player_id": "2580",
-          "roster_id": 10,
-          "name": "Keyonte George",
-          "pos": "PG/SG",
-          "pos1": "PG",
-          "team": "UTA",
-          "age": 22,
-          "status": null,
-          "ppw": 28.9,
-          "recent": 16.8,
-          "trend": -12.1,
-          "value": 33.2,
-          "signal": "BUY",
-          "signal_reason": "young and slumping, buy low",
-          "market": null,
-          "ovr": 82
+          "ovr": 81
         },
         {
           "player_id": "2733",
@@ -1153,43 +1127,43 @@
           "signal": "BUY",
           "signal_reason": "young and slumping, buy low",
           "market": null,
-          "ovr": 82
+          "ovr": 81
         },
         {
-          "player_id": "1747",
-          "roster_id": 2,
-          "name": "Jamal Murray",
-          "pos": "PG",
+          "player_id": "2580",
+          "roster_id": 10,
+          "name": "Keyonte George",
+          "pos": "PG/SG",
           "pos1": "PG",
-          "team": "DEN",
-          "age": 29,
+          "team": "UTA",
+          "age": 22,
           "status": null,
+          "ppw": 28.1,
+          "recent": 16.8,
+          "trend": -11.4,
+          "value": 32.3,
+          "signal": "BUY",
+          "signal_reason": "young and slumping, buy low",
+          "market": null,
+          "ovr": 80
+        },
+        {
+          "player_id": "1846",
+          "roster_id": 3,
+          "name": "Bam Adebayo",
+          "pos": "C/PF",
+          "pos1": "C",
+          "team": "MIA",
+          "age": 29,
+          "status": "DTD",
           "ppw": 33.7,
-          "recent": 35.2,
-          "trend": 0.8,
+          "recent": 34.2,
+          "trend": 0.7,
           "value": 32.0,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 81
-        },
-        {
-          "player_id": "2574",
-          "roster_id": 1,
-          "name": "Amen Thompson",
-          "pos": "PG/SG",
-          "pos1": "PG",
-          "team": "HOU",
-          "age": 23,
-          "status": null,
-          "ppw": 27.4,
-          "recent": 29.4,
-          "trend": 2.0,
-          "value": 31.5,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
-          "market": null,
-          "ovr": 80
+          "ovr": 79
         },
         {
           "player_id": "2718",
@@ -1207,25 +1181,43 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 80
+          "ovr": 79
         },
         {
-          "player_id": "1846",
-          "roster_id": 3,
-          "name": "Bam Adebayo",
-          "pos": "C/PF",
-          "pos1": "C",
-          "team": "MIA",
-          "age": 29,
-          "status": "DTD",
-          "ppw": 32.9,
-          "recent": 34.2,
-          "trend": 1.5,
-          "value": 31.3,
-          "signal": "HOLD",
-          "signal_reason": "steady",
+          "player_id": "2574",
+          "roster_id": 1,
+          "name": "Amen Thompson",
+          "pos": "PG/SG",
+          "pos1": "PG",
+          "team": "HOU",
+          "age": 23,
+          "status": null,
+          "ppw": 27.3,
+          "recent": 28.9,
+          "trend": 1.6,
+          "value": 31.4,
+          "signal": "BUY",
+          "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 80
+          "ovr": 79
+        },
+        {
+          "player_id": "1747",
+          "roster_id": 2,
+          "name": "Jamal Murray",
+          "pos": "PG",
+          "pos1": "PG",
+          "team": "DEN",
+          "age": 29,
+          "status": null,
+          "ppw": 33.0,
+          "recent": 38.8,
+          "trend": 5.2,
+          "value": 31.3,
+          "signal": "SELL",
+          "signal_reason": "outproducing baseline, sell high",
+          "market": null,
+          "ovr": 79
         },
         {
           "player_id": "2009",
@@ -1236,14 +1228,14 @@
           "team": "MIL",
           "age": 26,
           "status": "DTD",
-          "ppw": 30.4,
-          "recent": 33.2,
-          "trend": 2.8,
-          "value": 31.3,
+          "ppw": 30.3,
+          "recent": 34.6,
+          "trend": 4.3,
+          "value": 31.2,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 80
+          "ovr": 79
         },
         {
           "player_id": "2449",
@@ -1261,25 +1253,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 79
-        },
-        {
-          "player_id": "2285",
-          "roster_id": 3,
-          "name": "Trey Murphy",
-          "pos": "SF/SG",
-          "pos1": "SF",
-          "team": "NOP",
-          "age": 26,
-          "status": null,
-          "ppw": 30.0,
-          "recent": 30.0,
-          "trend": 0.0,
-          "value": 30.9,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 79
+          "ovr": 78
         },
         {
           "player_id": "1380",
@@ -1297,7 +1271,7 @@
           "signal": "SELL",
           "signal_reason": "aging and sliding, move on",
           "market": null,
-          "ovr": 79
+          "ovr": 78
         },
         {
           "player_id": "2463",
@@ -1308,86 +1282,14 @@
           "team": "MIL",
           "age": 24,
           "status": null,
-          "ppw": 27.9,
+          "ppw": 27.8,
           "recent": 32.5,
-          "trend": 4.6,
-          "value": 30.7,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
-          "market": null,
-          "ovr": 79
-        },
-        {
-          "player_id": "2136",
-          "roster_id": 11,
-          "name": "Onyeka Okongwu",
-          "pos": "C",
-          "pos1": "C",
-          "team": "ATL",
-          "age": 25,
-          "status": null,
-          "ppw": 27.4,
-          "recent": 26.3,
-          "trend": -1.7,
-          "value": 30.1,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 78
-        },
-        {
-          "player_id": "2568",
-          "roster_id": 11,
-          "name": "Brandon Miller",
-          "pos": "PF/SF/SG",
-          "pos1": "PF",
-          "team": "CHA",
-          "age": 23,
-          "status": "DTD",
-          "ppw": 26.0,
-          "recent": 23.1,
-          "trend": -3.6,
-          "value": 29.9,
+          "trend": 4.7,
+          "value": 30.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
           "ovr": 78
-        },
-        {
-          "player_id": "1845",
-          "roster_id": 11,
-          "name": "Donovan Mitchell",
-          "pos": "PG/SG",
-          "pos1": "PG",
-          "team": "CLE",
-          "age": 30,
-          "status": null,
-          "ppw": 34.4,
-          "recent": 29.2,
-          "trend": -5.2,
-          "value": 29.2,
-          "signal": "SELL",
-          "signal_reason": "aging and sliding, move on",
-          "market": null,
-          "ovr": 77
-        },
-        {
-          "player_id": "2722",
-          "roster_id": 5,
-          "name": "Stephon Castle",
-          "pos": "PG/SG",
-          "pos1": "PG",
-          "team": "SAS",
-          "age": 21,
-          "status": null,
-          "ppw": 25.1,
-          "recent": 29.7,
-          "trend": 4.6,
-          "value": 28.9,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
-          "market": null,
-          "ovr": 77
         },
         {
           "player_id": "1752",
@@ -1398,14 +1300,86 @@
           "team": "UTA",
           "age": 29,
           "status": null,
-          "ppw": 30.3,
+          "ppw": 31.7,
           "recent": 27.0,
-          "trend": -1.8,
-          "value": 28.8,
+          "trend": -3.4,
+          "value": 30.1,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
+          "ovr": 77
+        },
+        {
+          "player_id": "2285",
+          "roster_id": 3,
+          "name": "Trey Murphy",
+          "pos": "SF/SG",
+          "pos1": "SF",
+          "team": "NOP",
+          "age": 26,
+          "status": null,
+          "ppw": 29.1,
+          "recent": 24.4,
+          "trend": -4.7,
+          "value": 30.0,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 77
+        },
+        {
+          "player_id": "2136",
+          "roster_id": 11,
+          "name": "Onyeka Okongwu",
+          "pos": "C",
+          "pos1": "C",
+          "team": "ATL",
+          "age": 25,
+          "status": null,
+          "ppw": 27.3,
+          "recent": 26.3,
+          "trend": -1.6,
+          "value": 30.0,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 77
+        },
+        {
+          "player_id": "2568",
+          "roster_id": 11,
+          "name": "Brandon Miller",
+          "pos": "PF/SF/SG",
+          "pos1": "PF",
+          "team": "CHA",
+          "age": 23,
+          "status": "DTD",
+          "ppw": 25.5,
+          "recent": 23.1,
+          "trend": -3.0,
+          "value": 29.3,
+          "signal": "BUY",
+          "signal_reason": "ascending young asset",
+          "market": null,
           "ovr": 76
+        },
+        {
+          "player_id": "2722",
+          "roster_id": 5,
+          "name": "Stephon Castle",
+          "pos": "PG/SG",
+          "pos1": "PG",
+          "team": "SAS",
+          "age": 21,
+          "status": null,
+          "ppw": 25.0,
+          "recent": 29.7,
+          "trend": 4.7,
+          "value": 28.7,
+          "signal": "BUY",
+          "signal_reason": "ascending young asset",
+          "market": null,
+          "ovr": 75
         },
         {
           "player_id": "2128",
@@ -1423,7 +1397,43 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 76
+          "ovr": 75
+        },
+        {
+          "player_id": "1845",
+          "roster_id": 11,
+          "name": "Donovan Mitchell",
+          "pos": "PG/SG",
+          "pos1": "PG",
+          "team": "CLE",
+          "age": 30,
+          "status": null,
+          "ppw": 33.6,
+          "recent": 29.2,
+          "trend": -4.4,
+          "value": 28.6,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 75
+        },
+        {
+          "player_id": "1711",
+          "roster_id": 5,
+          "name": "Jaylen Brown",
+          "pos": "PF/SF/SG",
+          "pos1": "PF",
+          "team": "PHI",
+          "age": 29,
+          "status": null,
+          "ppw": 30.0,
+          "recent": 20.5,
+          "trend": -9.0,
+          "value": 28.5,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 75
         },
         {
           "player_id": "2281",
@@ -1441,43 +1451,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 76
-        },
-        {
-          "player_id": "1711",
-          "roster_id": 5,
-          "name": "Jaylen Brown",
-          "pos": "PF/SF/SG",
-          "pos1": "PF",
-          "team": "PHI",
-          "age": 29,
-          "status": null,
-          "ppw": 29.7,
-          "recent": 20.5,
-          "trend": -8.7,
-          "value": 28.2,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 76
-        },
-        {
-          "player_id": "2316",
-          "roster_id": 2,
-          "name": "Austin Reaves",
-          "pos": "PG/SG",
-          "pos1": "PG",
-          "team": "LAL",
-          "age": 28,
-          "status": null,
-          "ppw": 29.6,
-          "recent": 31.0,
-          "trend": 1.8,
-          "value": 28.1,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 76
+          "ovr": 75
         },
         {
           "player_id": "2461",
@@ -1513,7 +1487,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 75
+          "ovr": 74
         },
         {
           "player_id": "2714",
@@ -1531,25 +1505,43 @@
           "signal": "BUY",
           "signal_reason": "young and slumping, buy low",
           "market": null,
-          "ovr": 75
+          "ovr": 74
         },
         {
-          "player_id": "1613",
-          "roster_id": 9,
-          "name": "Karl-Anthony Towns",
-          "pos": "C/PF",
-          "pos1": "C",
-          "team": "NYK",
-          "age": 30,
+          "player_id": "2316",
+          "roster_id": 2,
+          "name": "Austin Reaves",
+          "pos": "PG/SG",
+          "pos1": "PG",
+          "team": "LAL",
+          "age": 28,
           "status": null,
-          "ppw": 32.7,
-          "recent": 28.8,
-          "trend": -3.9,
+          "ppw": 29.3,
+          "recent": 31.0,
+          "trend": 2.1,
           "value": 27.8,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 75
+          "ovr": 74
+        },
+        {
+          "player_id": "2040",
+          "roster_id": 5,
+          "name": "Ja Morant",
+          "pos": "PG",
+          "pos1": "PG",
+          "team": "POR",
+          "age": 27,
+          "status": "DTD",
+          "ppw": 27.0,
+          "recent": 32.2,
+          "trend": 5.5,
+          "value": 27.8,
+          "signal": "SELL",
+          "signal_reason": "outproducing baseline, sell high",
+          "market": null,
+          "ovr": 74
         },
         {
           "player_id": "2726",
@@ -1562,12 +1554,66 @@
           "status": null,
           "ppw": 24.1,
           "recent": 32.4,
-          "trend": 8.8,
+          "trend": 8.7,
           "value": 27.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 75
+          "ovr": 74
+        },
+        {
+          "player_id": "4737",
+          "roster_id": 12,
+          "name": "VJ Edgecombe",
+          "pos": "PG/SG",
+          "pos1": "PG",
+          "team": "PHI",
+          "age": 21,
+          "status": null,
+          "ppw": 24.1,
+          "recent": 21.1,
+          "trend": -3.0,
+          "value": 27.7,
+          "signal": "BUY",
+          "signal_reason": "ascending young asset",
+          "market": null,
+          "ovr": 74
+        },
+        {
+          "player_id": "4740",
+          "roster_id": 3,
+          "name": "Kon Knueppel",
+          "pos": "SF/SG",
+          "pos1": "SF",
+          "team": "CHA",
+          "age": 21,
+          "status": "DTD",
+          "ppw": 24.0,
+          "recent": 24.8,
+          "trend": 0.8,
+          "value": 27.6,
+          "signal": "BUY",
+          "signal_reason": "ascending young asset",
+          "market": null,
+          "ovr": 74
+        },
+        {
+          "player_id": "1613",
+          "roster_id": 9,
+          "name": "Karl-Anthony Towns",
+          "pos": "C/PF",
+          "pos1": "C",
+          "team": "NYK",
+          "age": 30,
+          "status": null,
+          "ppw": 32.5,
+          "recent": 29.1,
+          "trend": -3.5,
+          "value": 27.6,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 74
         },
         {
           "player_id": "2445",
@@ -1585,78 +1631,6 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 75
-        },
-        {
-          "player_id": "4737",
-          "roster_id": 12,
-          "name": "VJ Edgecombe",
-          "pos": "PG/SG",
-          "pos1": "PG",
-          "team": "PHI",
-          "age": 21,
-          "status": null,
-          "ppw": 24.0,
-          "recent": 21.1,
-          "trend": -2.9,
-          "value": 27.6,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
-          "market": null,
-          "ovr": 75
-        },
-        {
-          "player_id": "4740",
-          "roster_id": 3,
-          "name": "Kon Knueppel",
-          "pos": "SF/SG",
-          "pos1": "SF",
-          "team": "CHA",
-          "age": 21,
-          "status": "DTD",
-          "ppw": 23.7,
-          "recent": 24.8,
-          "trend": 1.1,
-          "value": 27.3,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
-          "market": null,
-          "ovr": 75
-        },
-        {
-          "player_id": "2835",
-          "roster_id": 11,
-          "name": "Matas Buzelis",
-          "pos": "PF/SF",
-          "pos1": "PF",
-          "team": "CHI",
-          "age": 21,
-          "status": null,
-          "ppw": 23.6,
-          "recent": 35.5,
-          "trend": 11.9,
-          "value": 27.1,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
-          "market": null,
-          "ovr": 74
-        },
-        {
-          "player_id": "2040",
-          "roster_id": 5,
-          "name": "Ja Morant",
-          "pos": "PG",
-          "pos1": "PG",
-          "team": "POR",
-          "age": 27,
-          "status": "DTD",
-          "ppw": 26.2,
-          "recent": 32.2,
-          "trend": 6.4,
-          "value": 27.0,
-          "signal": "SELL",
-          "signal_reason": "outproducing baseline, sell high",
-          "market": null,
           "ovr": 74
         },
         {
@@ -1668,32 +1642,32 @@
           "team": "TOR",
           "age": 27,
           "status": null,
-          "ppw": 26.2,
-          "recent": 17.8,
-          "trend": -8.4,
-          "value": 27.0,
+          "ppw": 26.6,
+          "recent": 22.7,
+          "trend": -4.0,
+          "value": 27.4,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
           "ovr": 74
         },
         {
-          "player_id": "1988",
-          "roster_id": 10,
-          "name": "Michael Porter",
+          "player_id": "1831",
+          "roster_id": 11,
+          "name": "OG Anunoby",
           "pos": "PF/SF",
           "pos1": "PF",
-          "team": "BKN",
-          "age": 28,
+          "team": "NYK",
+          "age": 29,
           "status": null,
-          "ppw": 28.3,
-          "recent": 30.2,
-          "trend": 2.0,
-          "value": 26.9,
+          "ppw": 28.4,
+          "recent": 32.4,
+          "trend": 4.0,
+          "value": 27.0,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 74
+          "ovr": 73
         },
         {
           "player_id": "2724",
@@ -1711,7 +1685,25 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 74
+          "ovr": 73
+        },
+        {
+          "player_id": "1988",
+          "roster_id": 10,
+          "name": "Michael Porter",
+          "pos": "PF/SF",
+          "pos1": "PF",
+          "team": "BKN",
+          "age": 28,
+          "status": null,
+          "ppw": 28.0,
+          "recent": 28.7,
+          "trend": 0.7,
+          "value": 26.6,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 73
         },
         {
           "player_id": "2086",
@@ -1729,7 +1721,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 74
+          "ovr": 73
         },
         {
           "player_id": "2304",
@@ -1744,42 +1736,6 @@
           "recent": 14.3,
           "trend": -9.2,
           "value": 26.5,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 74
-        },
-        {
-          "player_id": "1924",
-          "roster_id": 4,
-          "name": "Jaren Jackson",
-          "pos": "C/PF",
-          "pos1": "C",
-          "team": "UTA",
-          "age": 27,
-          "status": "DTD",
-          "ppw": 25.5,
-          "recent": 25.9,
-          "trend": 0.0,
-          "value": 26.3,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 73
-        },
-        {
-          "player_id": "1648",
-          "roster_id": 11,
-          "name": "Devin Booker",
-          "pos": "PG/SG",
-          "pos1": "PG",
-          "team": "PHX",
-          "age": 29,
-          "status": null,
-          "ppw": 27.7,
-          "recent": 25.8,
-          "trend": -1.8,
-          "value": 26.3,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
@@ -1801,21 +1757,57 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 73
+          "ovr": 72
         },
         {
-          "player_id": "2007",
-          "roster_id": 3,
-          "name": "Darius Garland",
-          "pos": "PG",
-          "pos1": "PG",
-          "team": "LAC",
-          "age": 26,
+          "player_id": "2835",
+          "roster_id": 11,
+          "name": "Matas Buzelis",
+          "pos": "PF/SF",
+          "pos1": "PF",
+          "team": "CHI",
+          "age": 21,
           "status": null,
-          "ppw": 24.7,
-          "recent": 20.8,
-          "trend": -3.9,
-          "value": 25.4,
+          "ppw": 22.7,
+          "recent": 35.5,
+          "trend": 12.8,
+          "value": 26.1,
+          "signal": "BUY",
+          "signal_reason": "ascending young asset",
+          "market": null,
+          "ovr": 72
+        },
+        {
+          "player_id": "1648",
+          "roster_id": 11,
+          "name": "Devin Booker",
+          "pos": "PG/SG",
+          "pos1": "PG",
+          "team": "PHX",
+          "age": 29,
+          "status": null,
+          "ppw": 27.3,
+          "recent": 27.8,
+          "trend": 0.5,
+          "value": 25.9,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 72
+        },
+        {
+          "player_id": "1924",
+          "roster_id": 4,
+          "name": "Jaren Jackson",
+          "pos": "C/PF",
+          "pos1": "C",
+          "team": "UTA",
+          "age": 27,
+          "status": "DTD",
+          "ppw": 25.0,
+          "recent": 25.9,
+          "trend": 0.5,
+          "value": 25.8,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
@@ -1837,79 +1829,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 72
-        },
-        {
-          "player_id": "4793",
-          "roster_id": 8,
-          "name": "Maxime Raynaud",
-          "pos": "C",
-          "pos1": "C",
-          "team": "SAC",
-          "age": 23,
-          "status": null,
-          "ppw": 22.0,
-          "recent": 23.8,
-          "trend": 1.9,
-          "value": 25.3,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
-          "market": null,
-          "ovr": 72
-        },
-        {
-          "player_id": "1272",
-          "roster_id": 3,
-          "name": "Anthony Davis",
-          "pos": "C/PF",
-          "pos1": "C",
-          "team": "WAS",
-          "age": 33,
-          "status": "DTD",
-          "ppw": 35.0,
-          "recent": 35.2,
-          "trend": 0.3,
-          "value": 25.2,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 72
-        },
-        {
-          "player_id": "4751",
-          "roster_id": 7,
-          "name": "Derik Queen",
-          "pos": "C/PF",
-          "pos1": "C",
-          "team": "NOP",
-          "age": 21,
-          "status": null,
-          "ppw": 21.9,
-          "recent": 21.5,
-          "trend": -0.4,
-          "value": 25.2,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
-          "market": null,
-          "ovr": 72
-        },
-        {
-          "player_id": "2453",
-          "roster_id": 10,
-          "name": "Jalen Williams",
-          "pos": "PF/SF/SG",
-          "pos1": "PF",
-          "team": "OKC",
-          "age": 25,
-          "status": null,
-          "ppw": 22.9,
-          "recent": 14.5,
-          "trend": -8.4,
-          "value": 25.2,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 72
+          "ovr": 71
         },
         {
           "player_id": "2131",
@@ -1927,25 +1847,43 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 72
+          "ovr": 71
         },
         {
-          "player_id": "1831",
-          "roster_id": 11,
-          "name": "OG Anunoby",
-          "pos": "PF/SF",
-          "pos1": "PF",
-          "team": "NYK",
-          "age": 29,
+          "player_id": "4793",
+          "roster_id": 8,
+          "name": "Maxime Raynaud",
+          "pos": "C",
+          "pos1": "C",
+          "team": "SAC",
+          "age": 23,
           "status": null,
-          "ppw": 26.4,
+          "ppw": 21.8,
           "recent": 23.8,
-          "trend": -2.7,
+          "trend": 2.1,
           "value": 25.1,
-          "signal": "HOLD",
-          "signal_reason": "steady",
+          "signal": "BUY",
+          "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 72
+          "ovr": 71
+        },
+        {
+          "player_id": "4751",
+          "roster_id": 7,
+          "name": "Derik Queen",
+          "pos": "C/PF",
+          "pos1": "C",
+          "team": "NOP",
+          "age": 21,
+          "status": null,
+          "ppw": 21.7,
+          "recent": 21.5,
+          "trend": -0.2,
+          "value": 25.0,
+          "signal": "BUY",
+          "signal_reason": "ascending young asset",
+          "market": null,
+          "ovr": 71
         },
         {
           "player_id": "1535",
@@ -1956,50 +1894,14 @@
           "team": "BKN",
           "age": 31,
           "status": null,
-          "ppw": 29.2,
-          "recent": 19.3,
-          "trend": -9.6,
-          "value": 24.8,
+          "ppw": 29.1,
+          "recent": 22.0,
+          "trend": -7.2,
+          "value": 24.7,
           "signal": "SELL",
           "signal_reason": "aging and sliding, move on",
           "market": null,
-          "ovr": 71
-        },
-        {
-          "player_id": "2566",
-          "roster_id": 10,
-          "name": "Ausar Thompson",
-          "pos": "SF/SG",
-          "pos1": "SF",
-          "team": "DET",
-          "age": 23,
-          "status": null,
-          "ppw": 21.6,
-          "recent": 17.0,
-          "trend": -4.6,
-          "value": 24.8,
-          "signal": "BUY",
-          "signal_reason": "young and slumping, buy low",
-          "market": null,
-          "ovr": 71
-        },
-        {
-          "player_id": "1787",
-          "roster_id": 10,
-          "name": "Jarrett Allen",
-          "pos": "C",
-          "pos1": "C",
-          "team": "CLE",
-          "age": 28,
-          "status": null,
-          "ppw": 26.0,
-          "recent": 25.8,
-          "trend": -0.2,
-          "value": 24.7,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 71
+          "ovr": 70
         },
         {
           "player_id": "2583",
@@ -2017,7 +1919,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 71
+          "ovr": 70
         },
         {
           "player_id": "2766",
@@ -2035,7 +1937,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 71
+          "ovr": 70
         },
         {
           "player_id": "1967",
@@ -2046,14 +1948,14 @@
           "team": "NYK",
           "age": 30,
           "status": null,
-          "ppw": 29.0,
+          "ppw": 28.9,
           "recent": 21.8,
-          "trend": -7.2,
+          "trend": -7.1,
           "value": 24.6,
           "signal": "SELL",
           "signal_reason": "aging and sliding, move on",
           "market": null,
-          "ovr": 71
+          "ovr": 70
         },
         {
           "player_id": "4764",
@@ -2071,7 +1973,43 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 71
+          "ovr": 70
+        },
+        {
+          "player_id": "1272",
+          "roster_id": 3,
+          "name": "Anthony Davis",
+          "pos": "C/PF",
+          "pos1": "C",
+          "team": "WAS",
+          "age": 33,
+          "status": "DTD",
+          "ppw": 34.0,
+          "recent": 32.2,
+          "trend": -1.8,
+          "value": 24.5,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 70
+        },
+        {
+          "player_id": "2422",
+          "roster_id": 4,
+          "name": "Collin Gillespie",
+          "pos": "PG/SG",
+          "pos1": "PG",
+          "team": "PHX",
+          "age": 27,
+          "status": null,
+          "ppw": 23.8,
+          "recent": 19.7,
+          "trend": -4.2,
+          "value": 24.5,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 70
         },
         {
           "player_id": "2476",
@@ -2089,7 +2027,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 71
+          "ovr": 70
         },
         {
           "player_id": "2152",
@@ -2107,25 +2045,43 @@
           "signal": "SELL",
           "signal_reason": "outproducing baseline, sell high",
           "market": null,
-          "ovr": 71
+          "ovr": 70
         },
         {
-          "player_id": "2563",
-          "roster_id": 5,
-          "name": "Jarace Walker",
-          "pos": "PF/SF",
-          "pos1": "PF",
-          "team": "IND",
-          "age": 23,
+          "player_id": "1787",
+          "roster_id": 10,
+          "name": "Jarrett Allen",
+          "pos": "C",
+          "pos1": "C",
+          "team": "CLE",
+          "age": 28,
           "status": null,
-          "ppw": 21.2,
-          "recent": 20.9,
-          "trend": -0.3,
+          "ppw": 25.7,
+          "recent": 24.2,
+          "trend": -1.5,
           "value": 24.4,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
+          "signal": "HOLD",
+          "signal_reason": "steady",
           "market": null,
-          "ovr": 71
+          "ovr": 70
+        },
+        {
+          "player_id": "2453",
+          "roster_id": 10,
+          "name": "Jalen Williams",
+          "pos": "PF/SF/SG",
+          "pos1": "PF",
+          "team": "OKC",
+          "age": 25,
+          "status": null,
+          "ppw": 22.2,
+          "recent": 14.5,
+          "trend": -7.7,
+          "value": 24.4,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 70
         },
         {
           "player_id": "2776",
@@ -2143,7 +2099,25 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 71
+          "ovr": 70
+        },
+        {
+          "player_id": "2054",
+          "roster_id": 8,
+          "name": "Zion Williamson",
+          "pos": "PF/SF",
+          "pos1": "PF",
+          "team": "NOP",
+          "age": 26,
+          "status": null,
+          "ppw": 23.5,
+          "recent": 19.8,
+          "trend": -3.5,
+          "value": 24.2,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 70
         },
         {
           "player_id": "1872",
@@ -2161,7 +2135,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 71
+          "ovr": 70
         },
         {
           "player_id": "2603",
@@ -2179,25 +2153,7 @@
           "signal": "BUY",
           "signal_reason": "young and slumping, buy low",
           "market": null,
-          "ovr": 71
-        },
-        {
-          "player_id": "2422",
-          "roster_id": 4,
-          "name": "Collin Gillespie",
-          "pos": "PG/SG",
-          "pos1": "PG",
-          "team": "PHX",
-          "age": 27,
-          "status": null,
-          "ppw": 23.4,
-          "recent": 19.7,
-          "trend": -3.7,
-          "value": 24.1,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 71
+          "ovr": 70
         },
         {
           "player_id": "2032",
@@ -2215,7 +2171,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 71
+          "ovr": 70
         },
         {
           "player_id": "1739",
@@ -2233,41 +2189,41 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 71
+          "ovr": 70
         },
         {
-          "player_id": "1945",
-          "roster_id": 3,
-          "name": "Trae Young",
-          "pos": "PG",
+          "player_id": "2719",
+          "roster_id": 1,
+          "name": "Reed Sheppard",
+          "pos": "PG/SG",
           "pos1": "PG",
-          "team": "WAS",
-          "age": 28,
-          "status": "DTD",
-          "ppw": 25.3,
-          "recent": 24.4,
-          "trend": -0.9,
+          "team": "HOU",
+          "age": 22,
+          "status": null,
+          "ppw": 20.9,
+          "recent": 20.6,
+          "trend": -0.3,
           "value": 24.0,
-          "signal": "HOLD",
-          "signal_reason": "steady",
+          "signal": "BUY",
+          "signal_reason": "ascending young asset",
           "market": null,
           "ovr": 70
         },
         {
-          "player_id": "2142",
-          "roster_id": 12,
-          "name": "Payton Pritchard",
-          "pos": "PG",
-          "pos1": "PG",
-          "team": "BOS",
-          "age": 28,
+          "player_id": "2566",
+          "roster_id": 10,
+          "name": "Ausar Thompson",
+          "pos": "SF/SG",
+          "pos1": "SF",
+          "team": "DET",
+          "age": 23,
           "status": null,
-          "ppw": 25.2,
-          "recent": 19.7,
-          "trend": -5.6,
+          "ppw": 20.8,
+          "recent": 17.0,
+          "trend": -3.8,
           "value": 23.9,
-          "signal": "HOLD",
-          "signal_reason": "steady",
+          "signal": "BUY",
+          "signal_reason": "young and slumping, buy low",
           "market": null,
           "ovr": 70
         },
@@ -2287,7 +2243,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 70
+          "ovr": 69
         },
         {
           "player_id": "2712",
@@ -2305,25 +2261,43 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 70
+          "ovr": 69
         },
         {
-          "player_id": "2054",
-          "roster_id": 8,
-          "name": "Zion Williamson",
+          "player_id": "2563",
+          "roster_id": 5,
+          "name": "Jarace Walker",
           "pos": "PF/SF",
           "pos1": "PF",
-          "team": "NOP",
-          "age": 26,
+          "team": "IND",
+          "age": 23,
           "status": null,
-          "ppw": 23.1,
-          "recent": 19.8,
-          "trend": -3.2,
+          "ppw": 20.7,
+          "recent": 20.9,
+          "trend": 0.2,
           "value": 23.8,
-          "signal": "HOLD",
-          "signal_reason": "steady",
+          "signal": "BUY",
+          "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 70
+          "ovr": 69
+        },
+        {
+          "player_id": "2564",
+          "roster_id": 1,
+          "name": "Brandin Podziemski",
+          "pos": "PG/SG",
+          "pos1": "PG",
+          "team": "GSW",
+          "age": 23,
+          "status": null,
+          "ppw": 20.5,
+          "recent": 19.6,
+          "trend": -0.9,
+          "value": 23.6,
+          "signal": "BUY",
+          "signal_reason": "ascending young asset",
+          "market": null,
+          "ovr": 69
         },
         {
           "player_id": "2143",
@@ -2341,7 +2315,25 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 70
+          "ovr": 69
+        },
+        {
+          "player_id": "2142",
+          "roster_id": 12,
+          "name": "Payton Pritchard",
+          "pos": "PG",
+          "pos1": "PG",
+          "team": "BOS",
+          "age": 28,
+          "status": null,
+          "ppw": 24.8,
+          "recent": 19.7,
+          "trend": -5.1,
+          "value": 23.6,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 69
         },
         {
           "player_id": "1697",
@@ -2359,7 +2351,25 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 70
+          "ovr": 69
+        },
+        {
+          "player_id": "2007",
+          "roster_id": 3,
+          "name": "Darius Garland",
+          "pos": "PG",
+          "pos1": "PG",
+          "team": "LAC",
+          "age": 26,
+          "status": null,
+          "ppw": 22.8,
+          "recent": 20.8,
+          "trend": -2.1,
+          "value": 23.5,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 69
         },
         {
           "player_id": "2590",
@@ -2377,7 +2387,7 @@
           "signal": "BUY",
           "signal_reason": "young and slumping, buy low",
           "market": null,
-          "ovr": 70
+          "ovr": 69
         },
         {
           "player_id": "2055",
@@ -2395,7 +2405,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 70
+          "ovr": 69
         },
         {
           "player_id": "2302",
@@ -2413,25 +2423,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 70
-        },
-        {
-          "player_id": "2435",
-          "roster_id": 10,
-          "name": "Bennedict Mathurin",
-          "pos": "SF/SG",
-          "pos1": "SF",
-          "team": "NOP",
-          "age": 24,
-          "status": null,
-          "ppw": 21.2,
-          "recent": 21.7,
-          "trend": 0.5,
-          "value": 23.3,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
-          "market": null,
-          "ovr": 70
+          "ovr": 69
         },
         {
           "player_id": "2488",
@@ -2470,40 +2462,22 @@
           "ovr": 69
         },
         {
-          "player_id": "2564",
-          "roster_id": 1,
-          "name": "Brandin Podziemski",
-          "pos": "PG/SG",
-          "pos1": "PG",
-          "team": "GSW",
-          "age": 23,
-          "status": null,
-          "ppw": 20.0,
-          "recent": 19.6,
-          "trend": -0.4,
+          "player_id": "1698",
+          "roster_id": 12,
+          "name": "Brandon Ingram",
+          "pos": "PF/SF/SG",
+          "pos1": "PF",
+          "team": "LAC",
+          "age": 29,
+          "status": "DTD",
+          "ppw": 24.2,
+          "recent": 17.1,
+          "trend": -7.1,
           "value": 23.0,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
+          "signal": "HOLD",
+          "signal_reason": "steady",
           "market": null,
-          "ovr": 69
-        },
-        {
-          "player_id": "2719",
-          "roster_id": 1,
-          "name": "Reed Sheppard",
-          "pos": "PG/SG",
-          "pos1": "PG",
-          "team": "HOU",
-          "age": 22,
-          "status": null,
-          "ppw": 20.0,
-          "recent": 20.6,
-          "trend": 0.6,
-          "value": 23.0,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
-          "market": null,
-          "ovr": 69
+          "ovr": 68
         },
         {
           "player_id": "2467",
@@ -2521,25 +2495,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 69
-        },
-        {
-          "player_id": "1698",
-          "roster_id": 12,
-          "name": "Brandon Ingram",
-          "pos": "PF/SF/SG",
-          "pos1": "PF",
-          "team": "LAC",
-          "age": 29,
-          "status": "DTD",
-          "ppw": 24.1,
-          "recent": 17.1,
-          "trend": -7.0,
-          "value": 22.9,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 69
+          "ovr": 68
         },
         {
           "player_id": "1913",
@@ -2557,7 +2513,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 69
+          "ovr": 68
         },
         {
           "player_id": "2001",
@@ -2575,77 +2531,23 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 69
-        },
-        {
-          "player_id": "2440",
-          "roster_id": 10,
-          "name": "Mark Williams",
-          "pos": "C",
-          "pos1": "C",
-          "team": "PHX",
-          "age": 24,
-          "status": "Out",
-          "ppw": 20.6,
-          "recent": 12.1,
-          "trend": -8.5,
-          "value": 22.7,
-          "signal": "BUY",
-          "signal_reason": "young and slumping, buy low",
-          "market": null,
-          "ovr": 69
-        },
-        {
-          "player_id": "2752",
-          "roster_id": 12,
-          "name": "Cam Spencer",
-          "pos": "PG/SF/SG",
-          "pos1": "PG",
-          "team": "MEM",
-          "age": 26,
-          "status": null,
-          "ppw": 21.8,
-          "recent": 18.5,
-          "trend": -3.3,
-          "value": 22.5,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
           "ovr": 68
         },
         {
-          "player_id": "1803",
-          "roster_id": 6,
-          "name": "Josh Hart",
+          "player_id": "2435",
+          "roster_id": 10,
+          "name": "Bennedict Mathurin",
           "pos": "SF/SG",
           "pos1": "SF",
-          "team": "NYK",
-          "age": 31,
+          "team": "NOP",
+          "age": 24,
           "status": null,
-          "ppw": 26.1,
-          "recent": 27.6,
-          "trend": 1.5,
-          "value": 22.2,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 68
-        },
-        {
-          "player_id": "1934",
-          "roster_id": 1,
-          "name": "Isaiah Hartenstein",
-          "pos": "C",
-          "pos1": "C",
-          "team": "OKC",
-          "age": 28,
-          "status": "DTD",
-          "ppw": 23.3,
-          "recent": 29.2,
-          "trend": 5.9,
-          "value": 22.1,
-          "signal": "SELL",
-          "signal_reason": "outproducing baseline, sell high",
+          "ppw": 20.5,
+          "recent": 21.7,
+          "trend": 1.2,
+          "value": 22.6,
+          "signal": "BUY",
+          "signal_reason": "ascending young asset",
           "market": null,
           "ovr": 68
         },
@@ -2665,7 +2567,43 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 68
+          "ovr": 67
+        },
+        {
+          "player_id": "2752",
+          "roster_id": 12,
+          "name": "Cam Spencer",
+          "pos": "PG/SF/SG",
+          "pos1": "PG",
+          "team": "MEM",
+          "age": 26,
+          "status": null,
+          "ppw": 21.5,
+          "recent": 18.5,
+          "trend": -3.0,
+          "value": 22.1,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 67
+        },
+        {
+          "player_id": "1803",
+          "roster_id": 6,
+          "name": "Josh Hart",
+          "pos": "SF/SG",
+          "pos1": "SF",
+          "team": "NYK",
+          "age": 31,
+          "status": null,
+          "ppw": 25.9,
+          "recent": 27.6,
+          "trend": 1.6,
+          "value": 22.0,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 67
         },
         {
           "player_id": "2720",
@@ -2683,7 +2621,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 68
+          "ovr": 67
         },
         {
           "player_id": "2454",
@@ -2701,7 +2639,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 68
+          "ovr": 67
         },
         {
           "player_id": "2145",
@@ -2716,42 +2654,6 @@
           "recent": 21.5,
           "trend": 0.3,
           "value": 21.8,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 68
-        },
-        {
-          "player_id": "2135",
-          "roster_id": 6,
-          "name": "Jaden McDaniels",
-          "pos": "PF/SF",
-          "pos1": "PF",
-          "team": "MIN",
-          "age": 25,
-          "status": null,
-          "ppw": 19.8,
-          "recent": 17.6,
-          "trend": -2.1,
-          "value": 21.8,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 68
-        },
-        {
-          "player_id": "1511",
-          "roster_id": 3,
-          "name": "Joel Embiid",
-          "pos": "C",
-          "pos1": "C",
-          "team": "PHI",
-          "age": 32,
-          "status": null,
-          "ppw": 30.1,
-          "recent": 34.5,
-          "trend": 4.4,
-          "value": 21.7,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
@@ -2776,20 +2678,56 @@
           "ovr": 67
         },
         {
-          "player_id": "2309",
-          "roster_id": 2,
-          "name": "Jalen Green",
-          "pos": "SF/SG",
-          "pos1": "SF",
-          "team": "PHX",
-          "age": 24,
+          "player_id": "2135",
+          "roster_id": 6,
+          "name": "Jaden McDaniels",
+          "pos": "PF/SF",
+          "pos1": "PF",
+          "team": "MIN",
+          "age": 25,
           "status": null,
           "ppw": 19.6,
-          "recent": 26.4,
-          "trend": 6.8,
+          "recent": 17.6,
+          "trend": -1.9,
           "value": 21.6,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 67
+        },
+        {
+          "player_id": "1511",
+          "roster_id": 3,
+          "name": "Joel Embiid",
+          "pos": "C",
+          "pos1": "C",
+          "team": "PHI",
+          "age": 32,
+          "status": null,
+          "ppw": 29.8,
+          "recent": 34.5,
+          "trend": 4.7,
+          "value": 21.5,
+          "signal": "SELL",
+          "signal_reason": "aging and running hot, sell high",
+          "market": null,
+          "ovr": 67
+        },
+        {
+          "player_id": "2036",
+          "roster_id": 3,
+          "name": "Naz Reid",
+          "pos": "C/PF",
+          "pos1": "C",
+          "team": "CHA",
+          "age": 27,
+          "status": null,
+          "ppw": 20.9,
+          "recent": 17.8,
+          "trend": -3.1,
+          "value": 21.5,
+          "signal": "HOLD",
+          "signal_reason": "steady",
           "market": null,
           "ovr": 67
         },
@@ -2808,6 +2746,24 @@
           "value": 21.5,
           "signal": "HOLD",
           "signal_reason": "steady",
+          "market": null,
+          "ovr": 67
+        },
+        {
+          "player_id": "2440",
+          "roster_id": 10,
+          "name": "Mark Williams",
+          "pos": "C",
+          "pos1": "C",
+          "team": "PHX",
+          "age": 24,
+          "status": "Out",
+          "ppw": 19.5,
+          "recent": 12.1,
+          "trend": -7.4,
+          "value": 21.5,
+          "signal": "BUY",
+          "signal_reason": "young and slumping, buy low",
           "market": null,
           "ovr": 67
         },
@@ -2845,7 +2801,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 67
+          "ovr": 66
         },
         {
           "player_id": "1883",
@@ -2863,25 +2819,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 67
-        },
-        {
-          "player_id": "2036",
-          "roster_id": 3,
-          "name": "Naz Reid",
-          "pos": "C/PF",
-          "pos1": "C",
-          "team": "CHA",
-          "age": 27,
-          "status": null,
-          "ppw": 20.7,
-          "recent": 17.8,
-          "trend": -2.9,
-          "value": 21.3,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 67
+          "ovr": 66
         },
         {
           "player_id": "4758",
@@ -2899,7 +2837,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 67
+          "ovr": 66
         },
         {
           "player_id": "1716",
@@ -2910,12 +2848,30 @@
           "team": "IND",
           "age": 32,
           "status": null,
-          "ppw": 28.9,
+          "ppw": 29.3,
           "recent": 25.5,
-          "trend": -3.1,
-          "value": 20.8,
+          "trend": -3.5,
+          "value": 21.1,
           "signal": "HOLD",
           "signal_reason": "steady",
+          "market": null,
+          "ovr": 66
+        },
+        {
+          "player_id": "1934",
+          "roster_id": 1,
+          "name": "Isaiah Hartenstein",
+          "pos": "C",
+          "pos1": "C",
+          "team": "OKC",
+          "age": 28,
+          "status": "DTD",
+          "ppw": 22.1,
+          "recent": 29.2,
+          "trend": 7.0,
+          "value": 21.0,
+          "signal": "SELL",
+          "signal_reason": "outproducing baseline, sell high",
           "market": null,
           "ovr": 66
         },
@@ -2928,10 +2884,10 @@
           "team": "BOS",
           "age": 32,
           "status": null,
-          "ppw": 28.3,
+          "ppw": 28.9,
           "recent": 24.0,
-          "trend": -4.3,
-          "value": 20.4,
+          "trend": -4.9,
+          "value": 20.8,
           "signal": "SELL",
           "signal_reason": "aging and sliding, move on",
           "market": null,
@@ -2953,7 +2909,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 66
+          "ovr": 65
         },
         {
           "player_id": "1713",
@@ -2971,7 +2927,25 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 66
+          "ovr": 65
+        },
+        {
+          "player_id": "2309",
+          "roster_id": 2,
+          "name": "Jalen Green",
+          "pos": "SF/SG",
+          "pos1": "SF",
+          "team": "PHX",
+          "age": 24,
+          "status": null,
+          "ppw": 18.4,
+          "recent": 26.4,
+          "trend": 8.0,
+          "value": 20.2,
+          "signal": "BUY",
+          "signal_reason": "ascending young asset",
+          "market": null,
+          "ovr": 65
         },
         {
           "player_id": "2729",
@@ -2989,7 +2963,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 66
+          "ovr": 65
         },
         {
           "player_id": "4743",
@@ -3007,7 +2981,7 @@
           "signal": "BUY",
           "signal_reason": "young and slumping, buy low",
           "market": null,
-          "ovr": 66
+          "ovr": 65
         },
         {
           "player_id": "1525",
@@ -3028,17 +3002,17 @@
           "ovr": 65
         },
         {
-          "player_id": "1964",
-          "roster_id": 6,
-          "name": "Donte DiVincenzo",
-          "pos": "SF/SG",
-          "pos1": "SF",
-          "team": "MIN",
-          "age": 29,
-          "status": "Out",
-          "ppw": 21.0,
-          "recent": 13.2,
-          "trend": -7.6,
+          "player_id": "1945",
+          "roster_id": 3,
+          "name": "Trae Young",
+          "pos": "PG",
+          "pos1": "PG",
+          "team": "WAS",
+          "age": 28,
+          "status": "DTD",
+          "ppw": 20.9,
+          "recent": 17.0,
+          "trend": -3.9,
           "value": 19.9,
           "signal": "HOLD",
           "signal_reason": "steady",
@@ -3061,43 +3035,25 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 65
+          "ovr": 64
         },
         {
-          "player_id": "1583",
-          "roster_id": 7,
-          "name": "Jusuf Nurki\u0107",
-          "pos": "C",
-          "pos1": "C",
-          "team": "UTA",
-          "age": 32,
-          "status": null,
-          "ppw": 27.1,
-          "recent": 25.0,
-          "trend": -2.0,
-          "value": 19.5,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 65
-        },
-        {
-          "player_id": "2012",
-          "roster_id": 4,
-          "name": "Jordan Poole",
-          "pos": "PG/SG",
-          "pos1": "PG",
-          "team": "NOP",
-          "age": 27,
-          "status": null,
-          "ppw": 18.8,
-          "recent": 17.1,
-          "trend": -1.7,
+          "player_id": "1964",
+          "roster_id": 6,
+          "name": "Donte DiVincenzo",
+          "pos": "SF/SG",
+          "pos1": "SF",
+          "team": "MIN",
+          "age": 29,
+          "status": "Out",
+          "ppw": 20.4,
+          "recent": 13.2,
+          "trend": -7.2,
           "value": 19.4,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 65
+          "ovr": 64
         },
         {
           "player_id": "2258",
@@ -3115,7 +3071,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 65
+          "ovr": 64
         },
         {
           "player_id": "2306",
@@ -3132,24 +3088,6 @@
           "value": 19.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": null,
-          "ovr": 65
-        },
-        {
-          "player_id": "2029",
-          "roster_id": 1,
-          "name": "P.J. Washington",
-          "pos": "C/PF/SF",
-          "pos1": "C",
-          "team": "DAL",
-          "age": 28,
-          "status": null,
-          "ppw": 20.3,
-          "recent": 21.1,
-          "trend": 0.5,
-          "value": 19.3,
-          "signal": "HOLD",
-          "signal_reason": "steady",
           "market": null,
           "ovr": 64
         },
@@ -3172,6 +3110,60 @@
           "ovr": 64
         },
         {
+          "player_id": "1583",
+          "roster_id": 7,
+          "name": "Jusuf Nurki\u0107",
+          "pos": "C",
+          "pos1": "C",
+          "team": "UTA",
+          "age": 32,
+          "status": null,
+          "ppw": 26.5,
+          "recent": 25.0,
+          "trend": -1.3,
+          "value": 19.1,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 64
+        },
+        {
+          "player_id": "2029",
+          "roster_id": 1,
+          "name": "P.J. Washington",
+          "pos": "C/PF/SF",
+          "pos1": "C",
+          "team": "DAL",
+          "age": 28,
+          "status": null,
+          "ppw": 20.0,
+          "recent": 21.1,
+          "trend": 0.7,
+          "value": 19.0,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 63
+        },
+        {
+          "player_id": "1975",
+          "roster_id": 7,
+          "name": "Mikal Bridges",
+          "pos": "PF/SF/SG",
+          "pos1": "PF",
+          "team": "NYK",
+          "age": 30,
+          "status": null,
+          "ppw": 22.4,
+          "recent": 13.1,
+          "trend": -9.4,
+          "value": 19.0,
+          "signal": "SELL",
+          "signal_reason": "aging and sliding, move on",
+          "market": null,
+          "ovr": 63
+        },
+        {
           "player_id": "2620",
           "roster_id": 9,
           "name": "Scoot Henderson",
@@ -3187,7 +3179,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 64
+          "ovr": 63
         },
         {
           "player_id": "1959",
@@ -3205,25 +3197,7 @@
           "signal": "SELL",
           "signal_reason": "aging and sliding, move on",
           "market": null,
-          "ovr": 64
-        },
-        {
-          "player_id": "1975",
-          "roster_id": 7,
-          "name": "Mikal Bridges",
-          "pos": "PF/SF/SG",
-          "pos1": "PF",
-          "team": "NYK",
-          "age": 30,
-          "status": null,
-          "ppw": 22.2,
-          "recent": 13.1,
-          "trend": -9.1,
-          "value": 18.9,
-          "signal": "SELL",
-          "signal_reason": "aging and sliding, move on",
-          "market": null,
-          "ovr": 64
+          "ovr": 63
         },
         {
           "player_id": "2301",
@@ -3241,7 +3215,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 64
+          "ovr": 63
         },
         {
           "player_id": "2397",
@@ -3259,7 +3233,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 64
+          "ovr": 63
         },
         {
           "player_id": "1240",
@@ -3270,14 +3244,14 @@
           "team": "CLE",
           "age": 37,
           "status": null,
-          "ppw": 32.2,
-          "recent": 31.8,
-          "trend": -0.4,
+          "ppw": 32.3,
+          "recent": 33.8,
+          "trend": 1.5,
           "value": 18.7,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 64
+          "ovr": 63
         },
         {
           "player_id": "2581",
@@ -3295,7 +3269,25 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 64
+          "ovr": 63
+        },
+        {
+          "player_id": "1308",
+          "roster_id": 5,
+          "name": "Kawhi Leonard",
+          "pos": "SF/SG",
+          "pos1": "SF",
+          "team": "TOR",
+          "age": 35,
+          "status": null,
+          "ppw": 32.3,
+          "recent": 25.8,
+          "trend": -6.6,
+          "value": 18.7,
+          "signal": "SELL",
+          "signal_reason": "aging and sliding, move on",
+          "market": null,
+          "ovr": 63
         },
         {
           "player_id": "2457",
@@ -3313,7 +3305,7 @@
           "signal": "SELL",
           "signal_reason": "outproducing baseline, sell high",
           "market": null,
-          "ovr": 64
+          "ovr": 63
         },
         {
           "player_id": "1999",
@@ -3331,7 +3323,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 64
+          "ovr": 63
         },
         {
           "player_id": "2262",
@@ -3349,7 +3341,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 64
+          "ovr": 63
         },
         {
           "player_id": "2447",
@@ -3367,7 +3359,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 64
+          "ovr": 63
         },
         {
           "player_id": "2772",
@@ -3385,7 +3377,25 @@
           "signal": "BUY",
           "signal_reason": "young and slumping, buy low",
           "market": null,
-          "ovr": 64
+          "ovr": 63
+        },
+        {
+          "player_id": "1998",
+          "roster_id": 1,
+          "name": "Coby White",
+          "pos": "PG/SG",
+          "pos1": "PG",
+          "team": "CHA",
+          "age": 26,
+          "status": null,
+          "ppw": 17.9,
+          "recent": 10.0,
+          "trend": -7.9,
+          "value": 18.4,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 63
         },
         {
           "player_id": "2119",
@@ -3478,24 +3488,6 @@
           "ovr": 63
         },
         {
-          "player_id": "1308",
-          "roster_id": 5,
-          "name": "Kawhi Leonard",
-          "pos": "SF/SG",
-          "pos1": "SF",
-          "team": "TOR",
-          "age": 35,
-          "status": null,
-          "ppw": 31.2,
-          "recent": 25.8,
-          "trend": -5.5,
-          "value": 18.1,
-          "signal": "SELL",
-          "signal_reason": "aging and sliding, move on",
-          "market": null,
-          "ovr": 63
-        },
-        {
           "player_id": "2771",
           "roster_id": 7,
           "name": "Oso Ighodaro",
@@ -3511,7 +3503,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 63
+          "ovr": 62
         },
         {
           "player_id": "1637",
@@ -3522,32 +3514,14 @@
           "team": "CHI",
           "age": 33,
           "status": null,
-          "ppw": 24.9,
+          "ppw": 24.8,
           "recent": 21.4,
-          "trend": -3.0,
+          "trend": -2.9,
           "value": 17.9,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 63
-        },
-        {
-          "player_id": "1998",
-          "roster_id": 1,
-          "name": "Coby White",
-          "pos": "PG/SG",
-          "pos1": "PG",
-          "team": "CHA",
-          "age": 26,
-          "status": null,
-          "ppw": 17.3,
-          "recent": 10.0,
-          "trend": -7.3,
-          "value": 17.8,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 63
+          "ovr": 62
         },
         {
           "player_id": "2255",
@@ -3565,7 +3539,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 63
+          "ovr": 62
         },
         {
           "player_id": "1997",
@@ -3586,6 +3560,24 @@
           "ovr": 62
         },
         {
+          "player_id": "1604",
+          "roster_id": 3,
+          "name": "Kelly Oubre",
+          "pos": "PF/SF",
+          "pos1": "PF",
+          "team": "IND",
+          "age": 30,
+          "status": null,
+          "ppw": 20.3,
+          "recent": 11.7,
+          "trend": -8.6,
+          "value": 17.3,
+          "signal": "SELL",
+          "signal_reason": "aging and sliding, move on",
+          "market": null,
+          "ovr": 61
+        },
+        {
           "player_id": "2275",
           "roster_id": 3,
           "name": "Day'Ron Sharpe",
@@ -3601,7 +3593,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 62
+          "ovr": 61
         },
         {
           "player_id": "2144",
@@ -3619,43 +3611,7 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 62
-        },
-        {
-          "player_id": "1604",
-          "roster_id": 3,
-          "name": "Kelly Oubre",
-          "pos": "PF/SF",
-          "pos1": "PF",
-          "team": "IND",
-          "age": 30,
-          "status": null,
-          "ppw": 20.2,
-          "recent": 11.7,
-          "trend": -8.5,
-          "value": 17.2,
-          "signal": "SELL",
-          "signal_reason": "aging and sliding, move on",
-          "market": null,
-          "ovr": 62
-        },
-        {
-          "player_id": "4755",
-          "roster_id": 4,
-          "name": "Collin Murray-Boyles",
-          "pos": "C/PF",
-          "pos1": "C",
-          "team": "TOR",
-          "age": 21,
-          "status": "DTD",
-          "ppw": 15.0,
-          "recent": 12.2,
-          "trend": -2.8,
-          "value": 17.2,
-          "signal": "BUY",
-          "signal_reason": "young and slumping, buy low",
-          "market": null,
-          "ovr": 62
+          "ovr": 61
         },
         {
           "player_id": "1362",
@@ -3666,32 +3622,14 @@
           "team": "PHI",
           "age": 41,
           "status": null,
-          "ppw": 29.6,
+          "ppw": 29.9,
           "recent": 30.6,
-          "trend": 1.0,
-          "value": 17.2,
+          "trend": 0.7,
+          "value": 17.3,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 62
-        },
-        {
-          "player_id": "1809",
-          "roster_id": 8,
-          "name": "John Collins",
-          "pos": "C/PF",
-          "pos1": "C",
-          "team": "DET",
-          "age": 29,
-          "status": null,
-          "ppw": 18.0,
-          "recent": 19.6,
-          "trend": 1.6,
-          "value": 17.1,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 62
+          "ovr": 61
         },
         {
           "player_id": "2621",
@@ -3709,7 +3647,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 62
+          "ovr": 61
         },
         {
           "player_id": "1892",
@@ -3726,24 +3664,6 @@
           "value": 16.8,
           "signal": "SELL",
           "signal_reason": "outproducing baseline, sell high",
-          "market": null,
-          "ovr": 61
-        },
-        {
-          "player_id": "1433",
-          "roster_id": 4,
-          "name": "Kevin Durant",
-          "pos": "PF/SF",
-          "pos1": "PF",
-          "team": "HOU",
-          "age": 37,
-          "status": null,
-          "ppw": 28.8,
-          "recent": 30.5,
-          "trend": 1.7,
-          "value": 16.7,
-          "signal": "HOLD",
-          "signal_reason": "steady",
           "market": null,
           "ovr": 61
         },
@@ -3766,24 +3686,6 @@
           "ovr": 61
         },
         {
-          "player_id": "1589",
-          "roster_id": 9,
-          "name": "Bobby Portis",
-          "pos": "C/PF",
-          "pos1": "C",
-          "team": "MIA",
-          "age": 31,
-          "status": null,
-          "ppw": 19.7,
-          "recent": 27.8,
-          "trend": 8.1,
-          "value": 16.7,
-          "signal": "SELL",
-          "signal_reason": "aging and running hot, sell high",
-          "market": null,
-          "ovr": 61
-        },
-        {
           "player_id": "1526",
           "roster_id": 4,
           "name": "Zach LaVine",
@@ -3799,7 +3701,43 @@
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
-          "ovr": 61
+          "ovr": 60
+        },
+        {
+          "player_id": "2012",
+          "roster_id": 4,
+          "name": "Jordan Poole",
+          "pos": "PG/SG",
+          "pos1": "PG",
+          "team": "NOP",
+          "age": 27,
+          "status": null,
+          "ppw": 16.1,
+          "recent": 17.1,
+          "trend": 1.0,
+          "value": 16.6,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 60
+        },
+        {
+          "player_id": "4755",
+          "roster_id": 4,
+          "name": "Collin Murray-Boyles",
+          "pos": "C/PF",
+          "pos1": "C",
+          "team": "TOR",
+          "age": 21,
+          "status": "DTD",
+          "ppw": 14.4,
+          "recent": 12.2,
+          "trend": -2.2,
+          "value": 16.6,
+          "signal": "BUY",
+          "signal_reason": "young and slumping, buy low",
+          "market": null,
+          "ovr": 60
         },
         {
           "player_id": "1085",
@@ -3817,25 +3755,79 @@
           "signal": "SELL",
           "signal_reason": "aging and sliding, move on",
           "market": null,
-          "ovr": 61
+          "ovr": 60
         },
         {
-          "player_id": "1434",
-          "roster_id": 7,
-          "name": "Russell Westbrook",
-          "pos": "PG/SG",
-          "pos1": "PG",
-          "team": null,
+          "player_id": "1433",
+          "roster_id": 4,
+          "name": "Kevin Durant",
+          "pos": "PF/SF",
+          "pos1": "PF",
+          "team": "HOU",
           "age": 37,
           "status": null,
-          "ppw": 28.0,
-          "recent": 15.8,
-          "trend": -12.1,
-          "value": 16.2,
+          "ppw": 28.3,
+          "recent": 34.8,
+          "trend": 6.4,
+          "value": 16.4,
+          "signal": "SELL",
+          "signal_reason": "aging and running hot, sell high",
+          "market": null,
+          "ovr": 60
+        },
+        {
+          "player_id": "1589",
+          "roster_id": 9,
+          "name": "Bobby Portis",
+          "pos": "C/PF",
+          "pos1": "C",
+          "team": "MIA",
+          "age": 31,
+          "status": null,
+          "ppw": 19.2,
+          "recent": 27.8,
+          "trend": 8.6,
+          "value": 16.3,
+          "signal": "SELL",
+          "signal_reason": "aging and running hot, sell high",
+          "market": null,
+          "ovr": 60
+        },
+        {
+          "player_id": "1809",
+          "roster_id": 8,
+          "name": "John Collins",
+          "pos": "C/PF",
+          "pos1": "C",
+          "team": "DET",
+          "age": 29,
+          "status": null,
+          "ppw": 17.0,
+          "recent": 19.6,
+          "trend": 2.6,
+          "value": 16.1,
+          "signal": "SELL",
+          "signal_reason": "outproducing baseline, sell high",
+          "market": null,
+          "ovr": 60
+        },
+        {
+          "player_id": "1486",
+          "roster_id": 12,
+          "name": "Nikola Vu\u010devi\u0107",
+          "pos": "C",
+          "pos1": "C",
+          "team": "ORL",
+          "age": 35,
+          "status": null,
+          "ppw": 27.8,
+          "recent": 18.1,
+          "trend": -9.7,
+          "value": 16.1,
           "signal": "SELL",
           "signal_reason": "aging and sliding, move on",
           "market": null,
-          "ovr": 61
+          "ovr": 60
         },
         {
           "player_id": "1595",
@@ -3852,42 +3844,6 @@
           "value": 16.0,
           "signal": "SELL",
           "signal_reason": "aging and running hot, sell high",
-          "market": null,
-          "ovr": 60
-        },
-        {
-          "player_id": "1000",
-          "roster_id": 5,
-          "name": "Jimmy Butler",
-          "pos": "PF/SF/SG",
-          "pos1": "PF",
-          "team": "GSW",
-          "age": 37,
-          "status": "Out",
-          "ppw": 27.5,
-          "recent": 28.8,
-          "trend": 1.2,
-          "value": 15.9,
-          "signal": "HOLD",
-          "signal_reason": "steady",
-          "market": null,
-          "ovr": 60
-        },
-        {
-          "player_id": "1486",
-          "roster_id": 12,
-          "name": "Nikola Vu\u010devi\u0107",
-          "pos": "C",
-          "pos1": "C",
-          "team": "ORL",
-          "age": 35,
-          "status": null,
-          "ppw": 27.5,
-          "recent": 18.1,
-          "trend": -9.4,
-          "value": 15.9,
-          "signal": "SELL",
-          "signal_reason": "aging and sliding, move on",
           "market": null,
           "ovr": 60
         },
@@ -3910,6 +3866,42 @@
           "ovr": 60
         },
         {
+          "player_id": "1434",
+          "roster_id": 7,
+          "name": "Russell Westbrook",
+          "pos": "PG/SG",
+          "pos1": "PG",
+          "team": null,
+          "age": 37,
+          "status": null,
+          "ppw": 27.3,
+          "recent": 15.8,
+          "trend": -11.4,
+          "value": 15.8,
+          "signal": "SELL",
+          "signal_reason": "aging and sliding, move on",
+          "market": null,
+          "ovr": 60
+        },
+        {
+          "player_id": "1000",
+          "roster_id": 5,
+          "name": "Jimmy Butler",
+          "pos": "PF/SF/SG",
+          "pos1": "PF",
+          "team": "GSW",
+          "age": 37,
+          "status": "Out",
+          "ppw": 27.0,
+          "recent": 28.8,
+          "trend": 1.8,
+          "value": 15.7,
+          "signal": "HOLD",
+          "signal_reason": "steady",
+          "market": null,
+          "ovr": 59
+        },
+        {
           "player_id": "2278",
           "roster_id": 9,
           "name": "Cam Thomas",
@@ -3925,7 +3917,7 @@
           "signal": "BUY",
           "signal_reason": "young and slumping, buy low",
           "market": null,
-          "ovr": 60
+          "ovr": 59
         },
         {
           "player_id": "1779",
@@ -3943,7 +3935,7 @@
           "signal": "SELL",
           "signal_reason": "outproducing baseline, sell high",
           "market": null,
-          "ovr": 60
+          "ovr": 59
         },
         {
           "player_id": "1887",
@@ -3960,24 +3952,6 @@
           "value": 15.3,
           "signal": "SELL",
           "signal_reason": "outproducing baseline, sell high",
-          "market": null,
-          "ovr": 59
-        },
-        {
-          "player_id": "4777",
-          "roster_id": 6,
-          "name": "Ryan Kalkbrenner",
-          "pos": "C",
-          "pos1": "C",
-          "team": "CHA",
-          "age": 24,
-          "status": null,
-          "ppw": 13.8,
-          "recent": 9.5,
-          "trend": -4.3,
-          "value": 15.2,
-          "signal": "BUY",
-          "signal_reason": "young and slumping, buy low",
           "market": null,
           "ovr": 59
         },
@@ -4036,6 +4010,24 @@
           "ovr": 59
         },
         {
+          "player_id": "4777",
+          "roster_id": 6,
+          "name": "Ryan Kalkbrenner",
+          "pos": "C",
+          "pos1": "C",
+          "team": "CHA",
+          "age": 24,
+          "status": null,
+          "ppw": 13.6,
+          "recent": 9.5,
+          "trend": -4.1,
+          "value": 15.0,
+          "signal": "BUY",
+          "signal_reason": "young and slumping, buy low",
+          "market": null,
+          "ovr": 59
+        },
+        {
           "player_id": "4744",
           "roster_id": 6,
           "name": "Egor D\u00ebmin",
@@ -4051,7 +4043,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 59
+          "ovr": 58
         },
         {
           "player_id": "4742",
@@ -4069,7 +4061,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 59
+          "ovr": 58
         },
         {
           "player_id": "1350",
@@ -4080,30 +4072,12 @@
           "team": "MIN",
           "age": 34,
           "status": null,
-          "ppw": 25.4,
+          "ppw": 25.1,
           "recent": 24.1,
-          "trend": -1.3,
-          "value": 14.7,
+          "trend": -1.0,
+          "value": 14.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": null,
-          "ovr": 59
-        },
-        {
-          "player_id": "2091",
-          "roster_id": 4,
-          "name": "Cameron Johnson",
-          "pos": "PF/SF/SG",
-          "pos1": "PF",
-          "team": "DEN",
-          "age": 30,
-          "status": null,
-          "ppw": 17.1,
-          "recent": 20.1,
-          "trend": 3.0,
-          "value": 14.5,
-          "signal": "SELL",
-          "signal_reason": "aging and running hot, sell high",
           "market": null,
           "ovr": 58
         },
@@ -4180,6 +4154,42 @@
           "ovr": 58
         },
         {
+          "player_id": "2582",
+          "roster_id": 9,
+          "name": "Taylor Hendricks",
+          "pos": "C/PF",
+          "pos1": "C",
+          "team": "MEM",
+          "age": 22,
+          "status": null,
+          "ppw": 12.1,
+          "recent": 17.9,
+          "trend": 5.8,
+          "value": 13.9,
+          "signal": "BUY",
+          "signal_reason": "ascending young asset",
+          "market": null,
+          "ovr": 57
+        },
+        {
+          "player_id": "2091",
+          "roster_id": 4,
+          "name": "Cameron Johnson",
+          "pos": "PF/SF/SG",
+          "pos1": "PF",
+          "team": "DEN",
+          "age": 30,
+          "status": null,
+          "ppw": 16.2,
+          "recent": 20.1,
+          "trend": 3.9,
+          "value": 13.8,
+          "signal": "SELL",
+          "signal_reason": "aging and running hot, sell high",
+          "market": null,
+          "ovr": 57
+        },
+        {
           "player_id": "1074",
           "roster_id": 5,
           "name": "Paul George",
@@ -4224,10 +4234,10 @@
           "team": "ATL",
           "age": 35,
           "status": null,
-          "ppw": 23.0,
+          "ppw": 23.1,
           "recent": 23.6,
-          "trend": 0.6,
-          "value": 13.3,
+          "trend": 0.4,
+          "value": 13.4,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
@@ -4249,7 +4259,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 57
+          "ovr": 56
         },
         {
           "player_id": "2753",
@@ -4264,24 +4274,6 @@
           "recent": 10.2,
           "trend": -1.3,
           "value": 13.3,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
-          "market": null,
-          "ovr": 57
-        },
-        {
-          "player_id": "2582",
-          "roster_id": 9,
-          "name": "Taylor Hendricks",
-          "pos": "C/PF",
-          "pos1": "C",
-          "team": "MEM",
-          "age": 22,
-          "status": null,
-          "ppw": 11.3,
-          "recent": 17.9,
-          "trend": 6.6,
-          "value": 13.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
@@ -4314,10 +4306,10 @@
           "team": "DEN",
           "age": 37,
           "status": null,
-          "ppw": 22.1,
+          "ppw": 21.7,
           "recent": 19.8,
-          "trend": -2.3,
-          "value": 12.8,
+          "trend": -1.9,
+          "value": 12.6,
           "signal": "HOLD",
           "signal_reason": "steady",
           "market": null,
@@ -4339,7 +4331,7 @@
           "signal": "BUY",
           "signal_reason": "ascending young asset",
           "market": null,
-          "ovr": 56
+          "ovr": 55
         },
         {
           "player_id": "2713",
@@ -4357,7 +4349,7 @@
           "signal": "BUY",
           "signal_reason": "young and slumping, buy low",
           "market": null,
-          "ovr": 56
+          "ovr": 55
         },
         {
           "player_id": "4739",
@@ -4483,7 +4475,7 @@
           "signal": "BUY",
           "signal_reason": "young and slumping, buy low",
           "market": null,
-          "ovr": 54
+          "ovr": 53
         },
         {
           "player_id": "4745",
@@ -4774,11 +4766,11 @@
         {
           "team": "Luka Deez Nuts",
           "roster_id": 2,
-          "starters_value": 285.3,
-          "total_value": 491.8,
+          "starters_value": 286.8,
+          "total_value": 491.9,
           "avg_age": 27.6,
           "top_player": "Luka Don\u010di\u0107",
-          "top_ovr": 97,
+          "top_ovr": 98,
           "rank": 1,
           "window": "win-now"
         },
@@ -4786,18 +4778,18 @@
           "team": "Too Klutch Klan",
           "roster_id": 7,
           "starters_value": 284.6,
-          "total_value": 449.5,
+          "total_value": 448.6,
           "avg_age": 24.6,
           "top_player": "Josh Giddey",
-          "top_ovr": 93,
+          "top_ovr": 91,
           "rank": 2,
           "window": "juggernaut"
         },
         {
           "team": "Naz Reid ",
           "roster_id": 11,
-          "starters_value": 276.6,
-          "total_value": 459.2,
+          "starters_value": 276.0,
+          "total_value": 459.4,
           "avg_age": 25.9,
           "top_player": "Nikola Joki\u0107",
           "top_ovr": 91,
@@ -4807,8 +4799,8 @@
         {
           "team": "FantasyHeadshot",
           "roster_id": 1,
-          "starters_value": 261.9,
-          "total_value": 424.8,
+          "starters_value": 264.2,
+          "total_value": 426.4,
           "avg_age": 23.2,
           "top_player": "Victor Wembanyama",
           "top_ovr": 99,
@@ -4818,41 +4810,41 @@
         {
           "team": "The Miami FlipFlops",
           "roster_id": 6,
-          "starters_value": 255.4,
-          "total_value": 395.1,
+          "starters_value": 256.1,
+          "total_value": 395.6,
           "avg_age": 26.1,
           "top_player": "Anthony Edwards",
-          "top_ovr": 89,
+          "top_ovr": 88,
           "rank": 5,
           "window": "win-now"
         },
         {
           "team": "Epoole10",
           "roster_id": 3,
-          "starters_value": 255.2,
-          "total_value": 441.9,
+          "starters_value": 251.5,
+          "total_value": 434.2,
           "avg_age": 25.6,
           "top_player": "Cooper Flagg",
-          "top_ovr": 87,
+          "top_ovr": 85,
           "rank": 6,
           "window": "juggernaut"
         },
         {
           "team": "OKC Orgymen",
           "roster_id": 10,
-          "starters_value": 254.4,
-          "total_value": 449.8,
+          "starters_value": 251.2,
+          "total_value": 444.8,
           "avg_age": 24.6,
           "top_player": "Walker Kessler",
-          "top_ovr": 91,
+          "top_ovr": 90,
           "rank": 7,
           "window": "rising"
         },
         {
           "team": "Broward Heatles",
           "roster_id": 8,
-          "starters_value": 239.9,
-          "total_value": 385.2,
+          "starters_value": 241.4,
+          "total_value": 385.7,
           "avg_age": 24.6,
           "top_player": "LaMelo Ball",
           "top_ovr": 83,
@@ -4862,8 +4854,8 @@
         {
           "team": "DingDawg83",
           "roster_id": 5,
-          "starters_value": 232.1,
-          "total_value": 384.2,
+          "starters_value": 233.3,
+          "total_value": 385.8,
           "avg_age": 25.3,
           "top_player": "Scottie Barnes",
           "top_ovr": 87,
@@ -4873,33 +4865,33 @@
         {
           "team": "Locked Up ",
           "roster_id": 12,
-          "starters_value": 231.0,
-          "total_value": 339.3,
+          "starters_value": 229.0,
+          "total_value": 337.3,
           "avg_age": 27.4,
           "top_player": "Cade Cunningham",
-          "top_ovr": 93,
+          "top_ovr": 90,
           "rank": 10,
           "window": "rebuild"
         },
         {
           "team": "PeteAmmo1225",
           "roster_id": 9,
-          "starters_value": 224.9,
-          "total_value": 333.6,
+          "starters_value": 224.7,
+          "total_value": 333.8,
           "avg_age": 26.7,
           "top_player": "Alex Sarr",
-          "top_ovr": 82,
+          "top_ovr": 81,
           "rank": 11,
           "window": "rebuild"
         },
         {
           "team": "Top Goy \ud83c\udff4",
           "roster_id": 4,
-          "starters_value": 218.6,
-          "total_value": 310.0,
-          "avg_age": 24.0,
+          "starters_value": 215.1,
+          "total_value": 305.5,
+          "avg_age": 25.1,
           "top_player": "Chet Holmgren",
-          "top_ovr": 82,
+          "top_ovr": 81,
           "rank": 12,
           "window": "rising"
         }
@@ -4923,6 +4915,24 @@
             "signal_reason": "aging and sliding, move on",
             "market": null,
             "ovr": 61
+          },
+          {
+            "player_id": "1809",
+            "roster_id": 8,
+            "name": "John Collins",
+            "pos": "C/PF",
+            "pos1": "C",
+            "team": "DET",
+            "age": 29,
+            "status": null,
+            "ppw": 17.0,
+            "recent": 19.6,
+            "trend": 2.6,
+            "value": 16.1,
+            "signal": "SELL",
+            "signal_reason": "outproducing baseline, sell high",
+            "market": null,
+            "ovr": 60
           }
         ],
         "buy_targets": [
@@ -4935,10 +4945,10 @@
             "team": "SAS",
             "age": 22,
             "status": null,
-            "ppw": 40.5,
-            "recent": 43.8,
-            "trend": 3.4,
-            "value": 46.6,
+            "ppw": 41.6,
+            "recent": 44.9,
+            "trend": 3.3,
+            "value": 47.8,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
             "market": null,
@@ -4953,14 +4963,14 @@
             "team": "ATL",
             "age": 24,
             "status": null,
-            "ppw": 39.6,
+            "ppw": 39.3,
             "recent": 35.8,
-            "trend": -3.8,
-            "value": 43.6,
+            "trend": -3.5,
+            "value": 43.2,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
             "market": null,
-            "ovr": 95
+            "ovr": 93
           },
           {
             "player_id": "2313",
@@ -4971,28 +4981,28 @@
             "team": "CHI",
             "age": 23,
             "status": "DTD",
-            "ppw": 36.5,
-            "recent": 41.2,
-            "trend": 4.8,
-            "value": 42.0,
+            "ppw": 36.1,
+            "recent": 45.4,
+            "trend": 9.3,
+            "value": 41.5,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
             "market": null,
-            "ovr": 93
+            "ovr": 91
           },
           {
-            "player_id": "4760",
-            "roster_id": 3,
-            "name": "Cooper Flagg",
-            "pos": "PG/SF/SG",
-            "pos1": "PG",
-            "team": "DAL",
-            "age": 19,
+            "player_id": "2308",
+            "roster_id": 6,
+            "name": "Alperen \u015eeng\u00fcn",
+            "pos": "C/PF",
+            "pos1": "C",
+            "team": "HOU",
+            "age": 24,
             "status": null,
-            "ppw": 32.5,
-            "recent": 32.2,
-            "trend": -0.2,
-            "value": 37.4,
+            "ppw": 34.8,
+            "recent": 35.7,
+            "trend": 0.8,
+            "value": 38.3,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
             "market": null,
@@ -5007,32 +5017,32 @@
             "team": "DET",
             "age": 22,
             "status": null,
-            "ppw": 32.3,
+            "ppw": 32.4,
             "recent": 33.4,
-            "trend": 1.1,
-            "value": 37.1,
+            "trend": 1.0,
+            "value": 37.3,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
             "market": null,
-            "ovr": 87
+            "ovr": 86
           },
           {
-            "player_id": "2308",
-            "roster_id": 6,
-            "name": "Alperen \u015eeng\u00fcn",
-            "pos": "C/PF",
-            "pos1": "C",
-            "team": "HOU",
-            "age": 24,
+            "player_id": "4760",
+            "roster_id": 3,
+            "name": "Cooper Flagg",
+            "pos": "PG/SF/SG",
+            "pos1": "PG",
+            "team": "DAL",
+            "age": 19,
             "status": null,
-            "ppw": 33.6,
-            "recent": 35.7,
-            "trend": 2.1,
-            "value": 37.0,
+            "ppw": 31.5,
+            "recent": 32.2,
+            "trend": 0.8,
+            "value": 36.2,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
             "market": null,
-            "ovr": 87
+            "ovr": 85
           }
         ],
         "buy_mine": [
@@ -5052,7 +5062,7 @@
             "signal": "BUY",
             "signal_reason": "young and slumping, buy low",
             "market": null,
-            "ovr": 75
+            "ovr": 74
           },
           {
             "player_id": "2726",
@@ -5065,12 +5075,12 @@
             "status": null,
             "ppw": 24.1,
             "recent": 32.4,
-            "trend": 8.8,
+            "trend": 8.7,
             "value": 27.7,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
             "market": null,
-            "ovr": 75
+            "ovr": 74
           },
           {
             "player_id": "4793",
@@ -5081,14 +5091,14 @@
             "team": "SAC",
             "age": 23,
             "status": null,
-            "ppw": 22.0,
+            "ppw": 21.8,
             "recent": 23.8,
-            "trend": 1.9,
-            "value": 25.3,
+            "trend": 2.1,
+            "value": 25.1,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
             "market": null,
-            "ovr": 72
+            "ovr": 71
           },
           {
             "player_id": "2766",
@@ -5106,7 +5116,7 @@
             "signal": "BUY",
             "signal_reason": "ascending young asset",
             "market": null,
-            "ovr": 71
+            "ovr": 70
           },
           {
             "player_id": "2720",
@@ -5124,7 +5134,7 @@
             "signal": "BUY",
             "signal_reason": "ascending young asset",
             "market": null,
-            "ovr": 68
+            "ovr": 67
           },
           {
             "player_id": "4738",
@@ -5948,7 +5958,7 @@
           "value": 40.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 6686,
+          "market": 6693,
           "ovr": 99
         },
         {
@@ -5966,7 +5976,7 @@
           "value": 39.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 9587,
+          "market": 9553,
           "ovr": 98
         },
         {
@@ -5984,7 +5994,7 @@
           "value": 33.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 8877,
+          "market": 8787,
           "ovr": 89
         },
         {
@@ -6002,7 +6012,7 @@
           "value": 30.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 8953,
+          "market": 9133,
           "ovr": 85
         },
         {
@@ -6020,7 +6030,7 @@
           "value": 29.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 10445,
+          "market": 10610,
           "ovr": 84
         },
         {
@@ -6038,7 +6048,7 @@
           "value": 27.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1800,
+          "market": 1835,
           "ovr": 81
         },
         {
@@ -6056,7 +6066,7 @@
           "value": 27.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2222,
+          "market": 2073,
           "ovr": 81
         },
         {
@@ -6074,7 +6084,7 @@
           "value": 27.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4576,
+          "market": 4291,
           "ovr": 80
         },
         {
@@ -6092,7 +6102,7 @@
           "value": 27.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 9931,
+          "market": 9817,
           "ovr": 80
         },
         {
@@ -6110,7 +6120,7 @@
           "value": 26.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5866,
+          "market": 5767,
           "ovr": 79
         },
         {
@@ -6128,7 +6138,7 @@
           "value": 26.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 7474,
+          "market": 7811,
           "ovr": 79
         },
         {
@@ -6146,7 +6156,7 @@
           "value": 26.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1091,
+          "market": 1219,
           "ovr": 79
         },
         {
@@ -6164,7 +6174,7 @@
           "value": 25.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1463,
+          "market": 1475,
           "ovr": 77
         },
         {
@@ -6182,7 +6192,7 @@
           "value": 25.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2096,
+          "market": 2464,
           "ovr": 77
         },
         {
@@ -6200,7 +6210,7 @@
           "value": 24.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 8989,
+          "market": 9148,
           "ovr": 77
         },
         {
@@ -6218,7 +6228,7 @@
           "value": 24.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 6848,
+          "market": 6911,
           "ovr": 76
         },
         {
@@ -6236,7 +6246,7 @@
           "value": 24.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3175,
+          "market": 3256,
           "ovr": 76
         },
         {
@@ -6254,7 +6264,7 @@
           "value": 23.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 652,
+          "market": 679,
           "ovr": 75
         },
         {
@@ -6272,7 +6282,7 @@
           "value": 22.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1188,
+          "market": 1262,
           "ovr": 73
         },
         {
@@ -6290,7 +6300,7 @@
           "value": 22.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2166,
+          "market": 1988,
           "ovr": 73
         },
         {
@@ -6308,7 +6318,7 @@
           "value": 22.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4195,
+          "market": 4569,
           "ovr": 73
         },
         {
@@ -6326,7 +6336,7 @@
           "value": 22.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1548,
+          "market": 1475,
           "ovr": 73
         },
         {
@@ -6344,7 +6354,7 @@
           "value": 21.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 6319,
+          "market": 6207,
           "ovr": 72
         },
         {
@@ -6362,7 +6372,7 @@
           "value": 21.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3494,
+          "market": 3595,
           "ovr": 71
         },
         {
@@ -6380,7 +6390,7 @@
           "value": 20.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 6978,
+          "market": 6995,
           "ovr": 71
         },
         {
@@ -6398,7 +6408,7 @@
           "value": 20.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4007,
+          "market": 4190,
           "ovr": 71
         },
         {
@@ -6416,7 +6426,7 @@
           "value": 20.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3453,
+          "market": 3224,
           "ovr": 71
         },
         {
@@ -6434,7 +6444,7 @@
           "value": 20.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2669,
+          "market": 2758,
           "ovr": 70
         },
         {
@@ -6452,7 +6462,7 @@
           "value": 19.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1233,
+          "market": 1091,
           "ovr": 69
         },
         {
@@ -6470,7 +6480,7 @@
           "value": 18.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4288,
+          "market": 4319,
           "ovr": 68
         },
         {
@@ -6488,7 +6498,7 @@
           "value": 18.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 688,
+          "market": 417,
           "ovr": 68
         },
         {
@@ -6506,7 +6516,7 @@
           "value": 18.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 978,
+          "market": 901,
           "ovr": 67
         },
         {
@@ -6524,7 +6534,7 @@
           "value": 18.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1364,
+          "market": 1414,
           "ovr": 67
         },
         {
@@ -6542,7 +6552,7 @@
           "value": 17.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4712,
+          "market": 4673,
           "ovr": 66
         },
         {
@@ -6560,7 +6570,7 @@
           "value": 17.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 568,
+          "market": 413,
           "ovr": 66
         },
         {
@@ -6578,7 +6588,7 @@
           "value": 17.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1365,
+          "market": 1369,
           "ovr": 66
         },
         {
@@ -6596,7 +6606,7 @@
           "value": 17.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3192,
+          "market": 3135,
           "ovr": 66
         },
         {
@@ -6614,7 +6624,7 @@
           "value": 17.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3877,
+          "market": 3973,
           "ovr": 66
         },
         {
@@ -6632,7 +6642,7 @@
           "value": 16.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2039,
+          "market": 2017,
           "ovr": 64
         },
         {
@@ -6650,7 +6660,7 @@
           "value": 16.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3747,
+          "market": 3660,
           "ovr": 64
         },
         {
@@ -6668,7 +6678,7 @@
           "value": 15.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2482,
+          "market": 2533,
           "ovr": 63
         },
         {
@@ -6686,7 +6696,7 @@
           "value": 15.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 9074,
+          "market": 9006,
           "ovr": 63
         },
         {
@@ -6704,7 +6714,7 @@
           "value": 15.1,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2104,
+          "market": 2101,
           "ovr": 62
         },
         {
@@ -6722,7 +6732,7 @@
           "value": 15.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 4532,
+          "market": 4529,
           "ovr": 62
         },
         {
@@ -6740,7 +6750,7 @@
           "value": 14.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 5090,
+          "market": 5117,
           "ovr": 62
         },
         {
@@ -6758,7 +6768,7 @@
           "value": 14.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 903,
+          "market": 839,
           "ovr": 62
         },
         {
@@ -6776,7 +6786,7 @@
           "value": 14.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4770,
+          "market": 4669,
           "ovr": 62
         },
         {
@@ -6794,7 +6804,7 @@
           "value": 14.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2680,
+          "market": 2794,
           "ovr": 62
         },
         {
@@ -6812,7 +6822,7 @@
           "value": 14.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3316,
+          "market": 3269,
           "ovr": 62
         },
         {
@@ -6848,7 +6858,7 @@
           "value": 14.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4070,
+          "market": 4286,
           "ovr": 61
         },
         {
@@ -6866,7 +6876,7 @@
           "value": 14.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 7395,
+          "market": 7405,
           "ovr": 61
         },
         {
@@ -6902,7 +6912,7 @@
           "value": 13.9,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2174,
+          "market": 2244,
           "ovr": 60
         },
         {
@@ -6920,7 +6930,7 @@
           "value": 13.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2564,
+          "market": 2448,
           "ovr": 60
         },
         {
@@ -6938,7 +6948,7 @@
           "value": 13.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 6404,
+          "market": 6016,
           "ovr": 60
         },
         {
@@ -6956,7 +6966,7 @@
           "value": 13.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3154,
+          "market": 2970,
           "ovr": 60
         },
         {
@@ -6974,7 +6984,7 @@
           "value": 13.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 451,
+          "market": 477,
           "ovr": 59
         },
         {
@@ -6992,7 +7002,7 @@
           "value": 13.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 7345,
+          "market": 7140,
           "ovr": 59
         },
         {
@@ -7010,7 +7020,7 @@
           "value": 13.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 7776,
+          "market": 7363,
           "ovr": 59
         },
         {
@@ -7028,7 +7038,7 @@
           "value": 12.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1155,
+          "market": 1146,
           "ovr": 59
         },
         {
@@ -7046,7 +7056,7 @@
           "value": 12.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2058,
+          "market": 2240,
           "ovr": 58
         },
         {
@@ -7064,7 +7074,7 @@
           "value": 12.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2971,
+          "market": 2788,
           "ovr": 58
         },
         {
@@ -7082,7 +7092,7 @@
           "value": 12.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2935,
+          "market": 3047,
           "ovr": 58
         },
         {
@@ -7100,7 +7110,7 @@
           "value": 12.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3288,
+          "market": 3282,
           "ovr": 58
         },
         {
@@ -7118,7 +7128,7 @@
           "value": 12.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3254,
+          "market": 3246,
           "ovr": 58
         },
         {
@@ -7136,7 +7146,7 @@
           "value": 12.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5346,
+          "market": 5262,
           "ovr": 58
         },
         {
@@ -7154,7 +7164,7 @@
           "value": 12.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1364,
+          "market": 1361,
           "ovr": 58
         },
         {
@@ -7172,7 +7182,7 @@
           "value": 11.9,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 585,
+          "market": 515,
           "ovr": 58
         },
         {
@@ -7190,7 +7200,7 @@
           "value": 11.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3938,
+          "market": 4248,
           "ovr": 57
         },
         {
@@ -7208,7 +7218,7 @@
           "value": 11.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 670,
+          "market": 622,
           "ovr": 57
         },
         {
@@ -7226,7 +7236,7 @@
           "value": 11.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2771,
+          "market": 2621,
           "ovr": 57
         },
         {
@@ -7244,7 +7254,7 @@
           "value": 11.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 638,
+          "market": 651,
           "ovr": 57
         },
         {
@@ -7262,7 +7272,7 @@
           "value": 11.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 966,
+          "market": 951,
           "ovr": 57
         },
         {
@@ -7280,7 +7290,7 @@
           "value": 11.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 981,
+          "market": 1103,
           "ovr": 56
         },
         {
@@ -7298,7 +7308,7 @@
           "value": 10.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 399,
+          "market": 346,
           "ovr": 56
         },
         {
@@ -7316,7 +7326,7 @@
           "value": 10.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 586,
+          "market": 607,
           "ovr": 56
         },
         {
@@ -7334,7 +7344,7 @@
           "value": 10.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 509,
+          "market": 505,
           "ovr": 56
         },
         {
@@ -7352,7 +7362,7 @@
           "value": 10.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1663,
+          "market": 1711,
           "ovr": 56
         },
         {
@@ -7388,7 +7398,7 @@
           "value": 10.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1054,
+          "market": 1073,
           "ovr": 55
         },
         {
@@ -7406,7 +7416,7 @@
           "value": 10.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1908,
+          "market": 2000,
           "ovr": 55
         },
         {
@@ -7424,7 +7434,7 @@
           "value": 9.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2492,
+          "market": 2364,
           "ovr": 55
         },
         {
@@ -7442,7 +7452,7 @@
           "value": 9.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 401,
+          "market": 390,
           "ovr": 54
         },
         {
@@ -7460,7 +7470,7 @@
           "value": 9.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 914,
+          "market": 792,
           "ovr": 54
         },
         {
@@ -7478,7 +7488,7 @@
           "value": 9.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1779,
+          "market": 1970,
           "ovr": 54
         },
         {
@@ -7496,7 +7506,7 @@
           "value": 9.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 849,
+          "market": 763,
           "ovr": 54
         },
         {
@@ -7514,7 +7524,7 @@
           "value": 9.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1617,
+          "market": 1645,
           "ovr": 54
         },
         {
@@ -7532,7 +7542,7 @@
           "value": 9.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 502,
+          "market": 490,
           "ovr": 54
         },
         {
@@ -7550,7 +7560,7 @@
           "value": 9.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 8396,
+          "market": 8343,
           "ovr": 53
         },
         {
@@ -7568,7 +7578,7 @@
           "value": 9.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1276,
+          "market": 1113,
           "ovr": 53
         },
         {
@@ -7586,7 +7596,7 @@
           "value": 9.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 233,
+          "market": 283,
           "ovr": 53
         },
         {
@@ -7604,7 +7614,7 @@
           "value": 8.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 642,
+          "market": 631,
           "ovr": 53
         },
         {
@@ -7622,7 +7632,7 @@
           "value": 8.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 604,
+          "market": 656,
           "ovr": 53
         },
         {
@@ -7640,7 +7650,7 @@
           "value": 8.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 4092,
+          "market": 4121,
           "ovr": 52
         },
         {
@@ -7658,7 +7668,7 @@
           "value": 8.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1833,
+          "market": 1843,
           "ovr": 52
         },
         {
@@ -7676,7 +7686,7 @@
           "value": 8.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 465,
+          "market": 494,
           "ovr": 52
         },
         {
@@ -7694,7 +7704,7 @@
           "value": 8.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1101,
+          "market": 1075,
           "ovr": 52
         },
         {
@@ -7712,7 +7722,7 @@
           "value": 8.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1017,
+          "market": 992,
           "ovr": 52
         },
         {
@@ -7730,7 +7740,7 @@
           "value": 8.1,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 688,
+          "market": 711,
           "ovr": 52
         },
         {
@@ -7748,7 +7758,7 @@
           "value": 8.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3385,
+          "market": 3371,
           "ovr": 52
         },
         {
@@ -7766,7 +7776,7 @@
           "value": 8.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 725,
+          "market": 740,
           "ovr": 52
         },
         {
@@ -7784,7 +7794,7 @@
           "value": 7.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 795,
+          "market": 783,
           "ovr": 51
         },
         {
@@ -7802,7 +7812,7 @@
           "value": 7.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 146,
+          "market": 136,
           "ovr": 51
         },
         {
@@ -7820,7 +7830,7 @@
           "value": 7.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 687,
+          "market": 757,
           "ovr": 51
         },
         {
@@ -7838,7 +7848,7 @@
           "value": 7.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 845,
+          "market": 898,
           "ovr": 51
         },
         {
@@ -7856,7 +7866,7 @@
           "value": 7.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 260,
+          "market": 268,
           "ovr": 51
         },
         {
@@ -7874,7 +7884,7 @@
           "value": 7.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1837,
+          "market": 1909,
           "ovr": 51
         },
         {
@@ -7892,7 +7902,7 @@
           "value": 7.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 110,
+          "market": 157,
           "ovr": 51
         },
         {
@@ -7910,7 +7920,7 @@
           "value": 7.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1756,
+          "market": 1538,
           "ovr": 51
         },
         {
@@ -7928,7 +7938,7 @@
           "value": 7.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1476,
+          "market": 1325,
           "ovr": 51
         },
         {
@@ -7946,7 +7956,7 @@
           "value": 7.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1454,
+          "market": 1439,
           "ovr": 51
         },
         {
@@ -7964,7 +7974,7 @@
           "value": 7.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 383,
+          "market": 370,
           "ovr": 50
         },
         {
@@ -7982,7 +7992,7 @@
           "value": 7.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 176,
+          "market": 178,
           "ovr": 50
         },
         {
@@ -8018,7 +8028,7 @@
           "value": 7.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 101,
+          "market": 79,
           "ovr": 50
         },
         {
@@ -8036,7 +8046,7 @@
           "value": 6.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1104,
+          "market": 978,
           "ovr": 50
         },
         {
@@ -8054,7 +8064,7 @@
           "value": 6.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 622,
+          "market": 596,
           "ovr": 50
         },
         {
@@ -8072,7 +8082,7 @@
           "value": 6.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1153,
+          "market": 966,
           "ovr": 50
         },
         {
@@ -8090,7 +8100,7 @@
           "value": 6.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 370,
+          "market": 351,
           "ovr": 49
         },
         {
@@ -8108,7 +8118,7 @@
           "value": 6.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 267,
+          "market": 270,
           "ovr": 49
         },
         {
@@ -8126,7 +8136,7 @@
           "value": 5.9,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 28,
+          "market": 50,
           "ovr": 49
         },
         {
@@ -8144,7 +8154,7 @@
           "value": 5.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 473,
+          "market": 477,
           "ovr": 48
         },
         {
@@ -8162,7 +8172,7 @@
           "value": 5.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 176,
+          "market": 208,
           "ovr": 48
         },
         {
@@ -8198,7 +8208,7 @@
           "value": 5.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 106,
+          "market": 115,
           "ovr": 48
         },
         {
@@ -8216,7 +8226,7 @@
           "value": 5.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2404,
+          "market": 2532,
           "ovr": 48
         },
         {
@@ -8234,7 +8244,7 @@
           "value": 5.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1256,
+          "market": 1246,
           "ovr": 48
         },
         {
@@ -8270,7 +8280,7 @@
           "value": 4.9,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 667,
+          "market": 691,
           "ovr": 47
         },
         {
@@ -8288,7 +8298,7 @@
           "value": 4.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 252,
+          "market": 245,
           "ovr": 47
         },
         {
@@ -8324,7 +8334,7 @@
           "value": 4.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 484,
+          "market": 502,
           "ovr": 47
         },
         {
@@ -8342,7 +8352,7 @@
           "value": 4.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 206,
+          "market": 185,
           "ovr": 47
         },
         {
@@ -8360,7 +8370,7 @@
           "value": 4.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5779,
+          "market": 5462,
           "ovr": 46
         },
         {
@@ -8378,7 +8388,7 @@
           "value": 4.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 850,
+          "market": 963,
           "ovr": 46
         },
         {
@@ -8396,7 +8406,7 @@
           "value": 4.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1025,
+          "market": 991,
           "ovr": 46
         },
         {
@@ -8432,7 +8442,7 @@
           "value": 3.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 68,
+          "market": 90,
           "ovr": 45
         },
         {
@@ -8450,7 +8460,7 @@
           "value": 3.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 592,
+          "market": 575,
           "ovr": 45
         },
         {
@@ -8468,7 +8478,7 @@
           "value": 3.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 284,
+          "market": 231,
           "ovr": 45
         },
         {
@@ -8486,7 +8496,7 @@
           "value": 3.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 603,
+          "market": 617,
           "ovr": 45
         },
         {
@@ -8504,7 +8514,7 @@
           "value": 3.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 403,
+          "market": 391,
           "ovr": 45
         },
         {
@@ -8540,7 +8550,7 @@
           "value": 2.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 261,
+          "market": 236,
           "ovr": 44
         },
         {
@@ -8594,7 +8604,7 @@
           "value": 2.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 668,
+          "market": 555,
           "ovr": 43
         },
         {
@@ -8604,7 +8614,7 @@
           "pos": "RB",
           "pos1": "RB",
           "team": "JAX",
-          "age": 26,
+          "age": 27,
           "status": null,
           "ppw": 1.8,
           "recent": 1.8,
@@ -8612,7 +8622,7 @@
           "value": 1.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 57,
+          "market": 58,
           "ovr": 43
         },
         {
@@ -8630,7 +8640,7 @@
           "value": 1.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1346,
+          "market": 1267,
           "ovr": 42
         },
         {
@@ -8648,7 +8658,7 @@
           "value": 0.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 438,
+          "market": 454,
           "ovr": 41
         },
         {
@@ -8666,7 +8676,7 @@
           "value": 0.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 23,
+          "market": null,
           "ovr": 41
         },
         {
@@ -8684,7 +8694,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 4663,
+          "market": 4666,
           "ovr": 40
         },
         {
@@ -8702,7 +8712,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 530,
+          "market": 475,
           "ovr": 40
         },
         {
@@ -8720,7 +8730,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 893,
+          "market": 1142,
           "ovr": 40
         },
         {
@@ -8738,7 +8748,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 411,
+          "market": 420,
           "ovr": 40
         },
         {
@@ -8756,7 +8766,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 700,
+          "market": 584,
           "ovr": 40
         },
         {
@@ -8774,7 +8784,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 385,
+          "market": 422,
           "ovr": 40
         },
         {
@@ -8792,7 +8802,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 598,
+          "market": 540,
           "ovr": 40
         },
         {
@@ -8810,7 +8820,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 115,
+          "market": 176,
           "ovr": 40
         },
         {
@@ -8846,7 +8856,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 175,
+          "market": 199,
           "ovr": 40
         },
         {
@@ -8864,7 +8874,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 23,
+          "market": null,
           "ovr": 40
         },
         {
@@ -8900,7 +8910,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 19,
+          "market": 48,
           "ovr": 40
         },
         {
@@ -8918,7 +8928,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 418,
+          "market": 395,
           "ovr": 40
         },
         {
@@ -8936,7 +8946,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1639,
+          "market": 1753,
           "ovr": 40
         }
       ],
@@ -9112,7 +9122,7 @@
             "value": 39.6,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 9587,
+            "market": 9553,
             "ovr": 98
           },
           {
@@ -9130,7 +9140,7 @@
             "value": 27.8,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 1800,
+            "market": 1835,
             "ovr": 81
           },
           {
@@ -9148,7 +9158,7 @@
             "value": 27.8,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 2222,
+            "market": 2073,
             "ovr": 81
           },
           {
@@ -9166,7 +9176,7 @@
             "value": 26.2,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 1091,
+            "market": 1219,
             "ovr": 79
           },
           {
@@ -9184,7 +9194,7 @@
             "value": 25.3,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 1463,
+            "market": 1475,
             "ovr": 77
           },
           {
@@ -9202,7 +9212,7 @@
             "value": 22.5,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 2166,
+            "market": 1988,
             "ovr": 73
           }
         ],
@@ -9222,7 +9232,7 @@
             "value": 24.7,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 6848,
+            "market": 6911,
             "ovr": 76
           },
           {
@@ -9240,7 +9250,7 @@
             "value": 14.8,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 5090,
+            "market": 5117,
             "ovr": 62
           },
           {
@@ -9258,7 +9268,7 @@
             "value": 12.4,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 2058,
+            "market": 2240,
             "ovr": 58
           },
           {
@@ -9276,7 +9286,7 @@
             "value": 10.6,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 509,
+            "market": 505,
             "ovr": 56
           },
           {
@@ -9312,7 +9322,7 @@
             "value": 2.2,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 668,
+            "market": 555,
             "ovr": 43
           }
         ]
@@ -9637,14 +9647,14 @@
           "strength": 173.3
         },
         {
-          "team": "Dannyoldboi",
-          "roster_id": 7,
-          "strength": 172.8
-        },
-        {
           "team": "Mama Knows (Best) Ball \ud83c\udfc8",
           "roster_id": 1,
           "strength": 171.1
+        },
+        {
+          "team": "Dannyoldboi",
+          "roster_id": 7,
+          "strength": 170.1
         },
         {
           "team": "Nana Needs Big Numbers",
@@ -10062,10 +10072,18 @@
         {
           "team": "Nana Needs Big Numbers",
           "roster_id": 5,
-          "fit_score": 16.0,
-          "notes": "QB 27 vs league 41; TE 0 vs league 24",
+          "fit_score": 13.6,
+          "notes": "QB 27 vs league 38; TE 0 vs league 24",
           "their_best": "Christian McCaffrey",
           "their_best_ppw": 18.2
+        },
+        {
+          "team": "Dannyoldboi",
+          "roster_id": 7,
+          "fit_score": 12.4,
+          "notes": "QB 26 vs league 38",
+          "their_best": "Patrick Mahomes",
+          "their_best_ppw": 25.8
         },
         {
           "team": "Florida Man 2025",
@@ -10092,7 +10110,7 @@
           "value": 40.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 10365,
+          "market": 10380,
           "ovr": 99
         },
         {
@@ -10110,7 +10128,7 @@
           "value": 39.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 9857,
+          "market": 9705,
           "ovr": 98
         },
         {
@@ -10128,7 +10146,7 @@
           "value": 33.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 8692,
+          "market": 8608,
           "ovr": 89
         },
         {
@@ -10146,7 +10164,7 @@
           "value": 30.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 8039,
+          "market": 8157,
           "ovr": 85
         },
         {
@@ -10164,7 +10182,7 @@
           "value": 29.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 10317,
+          "market": 10388,
           "ovr": 84
         },
         {
@@ -10182,7 +10200,7 @@
           "value": 27.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 5373,
+          "market": 5090,
           "ovr": 81
         },
         {
@@ -10200,7 +10218,7 @@
           "value": 27.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4065,
+          "market": 3805,
           "ovr": 80
         },
         {
@@ -10218,7 +10236,7 @@
           "value": 27.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 9407,
+          "market": 9191,
           "ovr": 80
         },
         {
@@ -10236,7 +10254,7 @@
           "value": 26.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5440,
+          "market": 5353,
           "ovr": 79
         },
         {
@@ -10254,7 +10272,7 @@
           "value": 26.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 7167,
+          "market": 7608,
           "ovr": 79
         },
         {
@@ -10272,7 +10290,7 @@
           "value": 25.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 4118,
+          "market": 4114,
           "ovr": 77
         },
         {
@@ -10290,7 +10308,7 @@
           "value": 25.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5218,
+          "market": 5823,
           "ovr": 77
         },
         {
@@ -10308,7 +10326,7 @@
           "value": 24.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 8099,
+          "market": 8171,
           "ovr": 77
         },
         {
@@ -10326,7 +10344,7 @@
           "value": 24.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 5654,
+          "market": 5750,
           "ovr": 76
         },
         {
@@ -10344,7 +10362,7 @@
           "value": 24.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2715,
+          "market": 2763,
           "ovr": 76
         },
         {
@@ -10362,7 +10380,7 @@
           "value": 22.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3507,
+          "market": 3534,
           "ovr": 73
         },
         {
@@ -10380,7 +10398,7 @@
           "value": 22.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 5346,
+          "market": 4971,
           "ovr": 73
         },
         {
@@ -10398,7 +10416,7 @@
           "value": 22.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3727,
+          "market": 4011,
           "ovr": 73
         },
         {
@@ -10416,7 +10434,7 @@
           "value": 22.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4296,
+          "market": 4258,
           "ovr": 73
         },
         {
@@ -10434,7 +10452,7 @@
           "value": 21.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 6726,
+          "market": 6631,
           "ovr": 72
         },
         {
@@ -10452,7 +10470,7 @@
           "value": 21.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 7797,
+          "market": 7926,
           "ovr": 71
         },
         {
@@ -10470,7 +10488,7 @@
           "value": 20.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 6633,
+          "market": 6669,
           "ovr": 71
         },
         {
@@ -10488,7 +10506,7 @@
           "value": 20.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2970,
+          "market": 3090,
           "ovr": 71
         },
         {
@@ -10506,7 +10524,7 @@
           "value": 20.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2979,
+          "market": 2738,
           "ovr": 71
         },
         {
@@ -10524,7 +10542,7 @@
           "value": 20.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2653,
+          "market": 2682,
           "ovr": 70
         },
         {
@@ -10542,7 +10560,7 @@
           "value": 18.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3812,
+          "market": 3808,
           "ovr": 68
         },
         {
@@ -10560,7 +10578,7 @@
           "value": 18.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2901,
+          "market": 2178,
           "ovr": 68
         },
         {
@@ -10578,7 +10596,7 @@
           "value": 18.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1082,
+          "market": 1010,
           "ovr": 67
         },
         {
@@ -10596,7 +10614,7 @@
           "value": 18.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1924,
+          "market": 2051,
           "ovr": 67
         },
         {
@@ -10614,7 +10632,7 @@
           "value": 18.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3787,
+          "market": 3952,
           "ovr": 67
         },
         {
@@ -10632,7 +10650,7 @@
           "value": 17.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3626,
+          "market": 3555,
           "ovr": 66
         },
         {
@@ -10650,7 +10668,7 @@
           "value": 17.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2284,
+          "market": 2020,
           "ovr": 66
         },
         {
@@ -10668,7 +10686,7 @@
           "value": 17.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1173,
+          "market": 1151,
           "ovr": 66
         },
         {
@@ -10686,7 +10704,7 @@
           "value": 17.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2342,
+          "market": 2272,
           "ovr": 66
         },
         {
@@ -10704,7 +10722,7 @@
           "value": 17.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2861,
+          "market": 2893,
           "ovr": 66
         },
         {
@@ -10722,7 +10740,7 @@
           "value": 16.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1525,
+          "market": 1511,
           "ovr": 65
         },
         {
@@ -10740,7 +10758,7 @@
           "value": 16.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5090,
+          "market": 5017,
           "ovr": 64
         },
         {
@@ -10758,7 +10776,7 @@
           "value": 16.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3253,
+          "market": 3080,
           "ovr": 64
         },
         {
@@ -10776,7 +10794,7 @@
           "value": 15.6,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1747,
+          "market": 1757,
           "ovr": 63
         },
         {
@@ -10794,7 +10812,7 @@
           "value": 15.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 8926,
+          "market": 8879,
           "ovr": 63
         },
         {
@@ -10830,25 +10848,7 @@
           "value": 15.1,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2098,
-          "ovr": 62
-        },
-        {
-          "player_id": "12508",
-          "roster_id": 7,
-          "name": "Jaxson Dart",
-          "pos": "QB",
-          "pos1": "QB",
-          "team": "NYG",
-          "age": 23,
-          "status": "IR",
-          "ppw": 13.7,
-          "recent": 13.7,
-          "trend": 0.0,
-          "value": 15.1,
-          "signal": "BUY",
-          "signal_reason": "ascending young asset",
-          "market": null,
+          "market": 2008,
           "ovr": 62
         },
         {
@@ -10884,7 +10884,7 @@
           "value": 15.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3994,
+          "market": 3984,
           "ovr": 62
         },
         {
@@ -10902,7 +10902,7 @@
           "value": 14.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 4015,
+          "market": 4025,
           "ovr": 62
         },
         {
@@ -10920,7 +10920,7 @@
           "value": 14.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 651,
+          "market": 609,
           "ovr": 62
         },
         {
@@ -10938,7 +10938,7 @@
           "value": 14.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3660,
+          "market": 3508,
           "ovr": 62
         },
         {
@@ -10956,7 +10956,7 @@
           "value": 14.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2255,
+          "market": 2338,
           "ovr": 62
         },
         {
@@ -10974,7 +10974,7 @@
           "value": 14.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2820,
+          "market": 2770,
           "ovr": 62
         },
         {
@@ -11010,7 +11010,7 @@
           "value": 14.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3039,
+          "market": 3180,
           "ovr": 61
         },
         {
@@ -11028,7 +11028,7 @@
           "value": 14.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 6280,
+          "market": 6269,
           "ovr": 61
         },
         {
@@ -11046,7 +11046,7 @@
           "value": 13.9,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2166,
+          "market": 2193,
           "ovr": 60
         },
         {
@@ -11064,7 +11064,7 @@
           "value": 13.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1807,
+          "market": 1682,
           "ovr": 60
         },
         {
@@ -11082,7 +11082,7 @@
           "value": 13.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 5186,
+          "market": 4869,
           "ovr": 60
         },
         {
@@ -11100,7 +11100,7 @@
           "value": 13.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2679,
+          "market": 2504,
           "ovr": 60
         },
         {
@@ -11118,7 +11118,7 @@
           "value": 13.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 6220,
+          "market": 6017,
           "ovr": 59
         },
         {
@@ -11136,7 +11136,7 @@
           "value": 13.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 480,
+          "market": 478,
           "ovr": 59
         },
         {
@@ -11154,7 +11154,7 @@
           "value": 13.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 7518,
+          "market": 7014,
           "ovr": 59
         },
         {
@@ -11172,7 +11172,7 @@
           "value": 12.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3442,
+          "market": 3274,
           "ovr": 59
         },
         {
@@ -11190,7 +11190,7 @@
           "value": 12.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1731,
+          "market": 1840,
           "ovr": 58
         },
         {
@@ -11208,7 +11208,7 @@
           "value": 12.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2152,
+          "market": 1984,
           "ovr": 58
         },
         {
@@ -11226,7 +11226,7 @@
           "value": 12.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2479,
+          "market": 2545,
           "ovr": 58
         },
         {
@@ -11244,7 +11244,7 @@
           "value": 12.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2813,
+          "market": 2778,
           "ovr": 58
         },
         {
@@ -11262,7 +11262,7 @@
           "value": 12.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3995,
+          "market": 3825,
           "ovr": 58
         },
         {
@@ -11280,7 +11280,7 @@
           "value": 12.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4276,
+          "market": 4177,
           "ovr": 58
         },
         {
@@ -11298,7 +11298,7 @@
           "value": 12.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2396,
+          "market": 2369,
           "ovr": 58
         },
         {
@@ -11316,7 +11316,7 @@
           "value": 11.9,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2893,
+          "market": 3015,
           "ovr": 58
         },
         {
@@ -11334,7 +11334,7 @@
           "value": 11.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2888,
+          "market": 3148,
           "ovr": 57
         },
         {
@@ -11352,7 +11352,7 @@
           "value": 11.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2330,
+          "market": 2176,
           "ovr": 57
         },
         {
@@ -11370,7 +11370,7 @@
           "value": 11.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 3189,
+          "market": 3111,
           "ovr": 57
         },
         {
@@ -11388,7 +11388,7 @@
           "value": 11.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 874,
+          "market": 979,
           "ovr": 56
         },
         {
@@ -11406,7 +11406,7 @@
           "value": 10.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 311,
+          "market": 269,
           "ovr": 56
         },
         {
@@ -11424,7 +11424,7 @@
           "value": 10.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1672,
+          "market": 1681,
           "ovr": 56
         },
         {
@@ -11460,7 +11460,7 @@
           "value": 10.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 951,
+          "market": 956,
           "ovr": 55
         },
         {
@@ -11478,7 +11478,7 @@
           "value": 10.0,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1340,
+          "market": 1375,
           "ovr": 55
         },
         {
@@ -11496,7 +11496,7 @@
           "value": 9.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2080,
+          "market": 1932,
           "ovr": 55
         },
         {
@@ -11514,7 +11514,7 @@
           "value": 9.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 816,
+          "market": 702,
           "ovr": 54
         },
         {
@@ -11532,7 +11532,7 @@
           "value": 9.8,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 379,
+          "market": 364,
           "ovr": 54
         },
         {
@@ -11550,7 +11550,7 @@
           "value": 9.7,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1264,
+          "market": 1361,
           "ovr": 54
         },
         {
@@ -11568,7 +11568,7 @@
           "value": 9.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 620,
+          "market": 536,
           "ovr": 54
         },
         {
@@ -11604,7 +11604,7 @@
           "value": 9.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 446,
+          "market": 431,
           "ovr": 54
         },
         {
@@ -11622,7 +11622,7 @@
           "value": 9.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1172,
+          "market": 1164,
           "ovr": 54
         },
         {
@@ -11640,7 +11640,7 @@
           "value": 9.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 7508,
+          "market": 7457,
           "ovr": 53
         },
         {
@@ -11658,7 +11658,7 @@
           "value": 9.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1119,
+          "market": 983,
           "ovr": 53
         },
         {
@@ -11712,7 +11712,7 @@
           "value": 8.5,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 460,
+          "market": 494,
           "ovr": 53
         },
         {
@@ -11748,7 +11748,7 @@
           "value": 8.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 409,
+          "market": 370,
           "ovr": 52
         },
         {
@@ -11766,7 +11766,7 @@
           "value": 8.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 994,
+          "market": 968,
           "ovr": 52
         },
         {
@@ -11784,7 +11784,7 @@
           "value": 8.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 3627,
+          "market": 3585,
           "ovr": 52
         },
         {
@@ -11802,7 +11802,7 @@
           "value": 8.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1877,
+          "market": 1827,
           "ovr": 52
         },
         {
@@ -11820,7 +11820,7 @@
           "value": 8.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 728,
+          "market": 695,
           "ovr": 52
         },
         {
@@ -11838,7 +11838,7 @@
           "value": 8.1,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 786,
+          "market": 819,
           "ovr": 52
         },
         {
@@ -11856,7 +11856,7 @@
           "value": 8.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 2903,
+          "market": 2852,
           "ovr": 52
         },
         {
@@ -11874,7 +11874,7 @@
           "value": 8.0,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 641,
+          "market": 640,
           "ovr": 52
         },
         {
@@ -11892,7 +11892,7 @@
           "value": 7.8,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 713,
+          "market": 686,
           "ovr": 51
         },
         {
@@ -11910,7 +11910,7 @@
           "value": 7.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 765,
+          "market": 855,
           "ovr": 51
         },
         {
@@ -11928,7 +11928,7 @@
           "value": 7.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 770,
+          "market": 803,
           "ovr": 51
         },
         {
@@ -11946,7 +11946,7 @@
           "value": 7.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1529,
+          "market": 1574,
           "ovr": 51
         },
         {
@@ -11982,7 +11982,7 @@
           "value": 7.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1237,
+          "market": 1104,
           "ovr": 51
         },
         {
@@ -12000,7 +12000,7 @@
           "value": 7.3,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1508,
+          "market": 1331,
           "ovr": 51
         },
         {
@@ -12018,7 +12018,7 @@
           "value": 7.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 1250,
+          "market": 1218,
           "ovr": 51
         },
         {
@@ -12090,7 +12090,7 @@
           "value": 6.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 568,
+          "market": 544,
           "ovr": 50
         },
         {
@@ -12108,7 +12108,7 @@
           "value": 6.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 999,
+          "market": 888,
           "ovr": 50
         },
         {
@@ -12126,7 +12126,7 @@
           "value": 6.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 828,
+          "market": 689,
           "ovr": 50
         },
         {
@@ -12162,7 +12162,7 @@
           "value": 5.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 369,
+          "market": 368,
           "ovr": 48
         },
         {
@@ -12198,7 +12198,7 @@
           "value": 5.4,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 83,
+          "market": 88,
           "ovr": 48
         },
         {
@@ -12216,7 +12216,7 @@
           "value": 5.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 1997,
+          "market": 2093,
           "ovr": 48
         },
         {
@@ -12234,7 +12234,7 @@
           "value": 5.1,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 922,
+          "market": 904,
           "ovr": 48
         },
         {
@@ -12270,7 +12270,7 @@
           "value": 4.9,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 601,
+          "market": 614,
           "ovr": 47
         },
         {
@@ -12288,7 +12288,7 @@
           "value": 4.9,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 236,
+          "market": 228,
           "ovr": 47
         },
         {
@@ -12306,7 +12306,7 @@
           "value": 4.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 628,
+          "market": 677,
           "ovr": 46
         },
         {
@@ -12324,7 +12324,7 @@
           "value": 4.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 4604,
+          "market": 4378,
           "ovr": 46
         },
         {
@@ -12342,7 +12342,7 @@
           "value": 4.2,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 932,
+          "market": 915,
           "ovr": 46
         },
         {
@@ -12396,7 +12396,7 @@
           "value": 3.7,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 608,
+          "market": 607,
           "ovr": 45
         },
         {
@@ -12414,7 +12414,7 @@
           "value": 3.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 532,
+          "market": 518,
           "ovr": 45
         },
         {
@@ -12432,7 +12432,7 @@
           "value": 3.4,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 60,
+          "market": 76,
           "ovr": 45
         },
         {
@@ -12450,7 +12450,7 @@
           "value": 3.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 216,
+          "market": 176,
           "ovr": 45
         },
         {
@@ -12468,7 +12468,7 @@
           "value": 3.3,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 454,
+          "market": 478,
           "ovr": 45
         },
         {
@@ -12486,7 +12486,7 @@
           "value": 2.5,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 219,
+          "market": 197,
           "ovr": 44
         },
         {
@@ -12522,7 +12522,7 @@
           "value": 2.2,
           "signal": "BUY",
           "signal_reason": "ascending young asset",
-          "market": 757,
+          "market": 615,
           "ovr": 43
         },
         {
@@ -12576,7 +12576,7 @@
           "value": 0.6,
           "signal": "HOLD",
           "signal_reason": "steady",
-          "market": 2052,
+          "market": 2294,
           "ovr": 41
         },
         {
@@ -12594,7 +12594,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 47,
+          "market": 37,
           "ovr": 40
         },
         {
@@ -12612,7 +12612,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3020,
+          "market": 3256,
           "ovr": 40
         },
         {
@@ -12630,7 +12630,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 1173,
+          "market": 1225,
           "ovr": 40
         },
         {
@@ -12648,7 +12648,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 110,
+          "market": 167,
           "ovr": 40
         },
         {
@@ -12684,7 +12684,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 3348,
+          "market": 3436,
           "ovr": 40
         },
         {
@@ -12702,7 +12702,25 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 475,
+          "market": 412,
+          "ovr": 40
+        },
+        {
+          "player_id": "4943",
+          "roster_id": 7,
+          "name": "Sam Darnold",
+          "pos": "QB",
+          "pos1": "QB",
+          "team": "SEA",
+          "age": 29,
+          "status": null,
+          "ppw": 0.0,
+          "recent": 0.0,
+          "trend": 0.0,
+          "value": 0.0,
+          "signal": "HOLD",
+          "signal_reason": "no recent production",
+          "market": 1932,
           "ovr": 40
         },
         {
@@ -12720,7 +12738,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 455,
+          "market": 433,
           "ovr": 40
         },
         {
@@ -12738,7 +12756,7 @@
           "value": 0.0,
           "signal": "HOLD",
           "signal_reason": "no recent production",
-          "market": 98,
+          "market": null,
           "ovr": 40
         }
       ],
@@ -12813,9 +12831,9 @@
         {
           "team": "Dannyoldboi",
           "roster_id": 7,
-          "starters_value": 186.6,
-          "total_value": 231.3,
-          "avg_age": 24.9,
+          "starters_value": 181.5,
+          "total_value": 216.2,
+          "avg_age": 25.3,
           "top_player": "Patrick Mahomes",
           "top_ovr": 77,
           "rank": 4,
@@ -12884,7 +12902,7 @@
             "value": 39.6,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 9857,
+            "market": 9705,
             "ovr": 98
           },
           {
@@ -12902,7 +12920,7 @@
             "value": 24.7,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 5654,
+            "market": 5750,
             "ovr": 76
           },
           {
@@ -12920,7 +12938,7 @@
             "value": 22.5,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 5346,
+            "market": 4971,
             "ovr": 73
           },
           {
@@ -12938,7 +12956,7 @@
             "value": 21.7,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 6726,
+            "market": 6631,
             "ovr": 72
           },
           {
@@ -12956,7 +12974,7 @@
             "value": 20.8,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 2979,
+            "market": 2738,
             "ovr": 71
           },
           {
@@ -12974,7 +12992,7 @@
             "value": 20.6,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 2653,
+            "market": 2682,
             "ovr": 70
           }
         ],
@@ -12994,7 +13012,7 @@
             "value": 27.8,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 5373,
+            "market": 5090,
             "ovr": 81
           },
           {
@@ -13012,7 +13030,7 @@
             "value": 25.3,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 4118,
+            "market": 4114,
             "ovr": 77
           },
           {
@@ -13030,7 +13048,7 @@
             "value": 17.7,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 1173,
+            "market": 1151,
             "ovr": 66
           },
           {
@@ -13048,7 +13066,7 @@
             "value": 12.4,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 1731,
+            "market": 1840,
             "ovr": 58
           },
           {
@@ -13066,7 +13084,7 @@
             "value": 5.4,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 83,
+            "market": 88,
             "ovr": 48
           },
           {
@@ -13084,7 +13102,7 @@
             "value": 2.2,
             "signal": "BUY",
             "signal_reason": "ascending young asset",
-            "market": 757,
+            "market": 615,
             "ovr": 43
           }
         ]
